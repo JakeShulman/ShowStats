@@ -1,0 +1,6990 @@
+﻿1
+00:00:02,000 --> 00:00:04,200
+<b>{\an2}I think we've nailed this.</b>
+<b>Hey, Paul check this out.</b>
+
+2
+00:00:04,240 --> 00:00:06,240
+<b>{\an2}Listen, for biscuit week Noel and I</b>
+
+3
+00:00:06,280 --> 00:00:09,440
+<b>{\an2}have created this digestive that you</b>
+<b>can keep dunking in your cuppa</b>
+
+4
+00:00:09,480 --> 00:00:11,320
+<b>{\an2}and it don't break off!</b>
+<b>Look at that!</b>
+
+5
+00:00:11,360 --> 00:00:13,680
+<b>{\an2}Incredible.</b>
+<b>We're taking it to Dragons' Den.</b>
+
+6
+00:00:13,720 --> 00:00:15,400
+<b>{\an2}We've been doing this for 45 minutes</b>
+
+7
+00:00:15,440 --> 00:00:17,240
+<b>{\an2}and it's still holding strong,</b>
+<b>innit?</b>
+
+8
+00:00:17,280 --> 00:00:19,080
+<b>{\an2}That's amazing. But what's in it?</b>
+
+9
+00:00:19,120 --> 00:00:22,520
+<b>{\an2}Oh, the usual - flour, sugar</b>
+<b>and a secret ingredient.</b>
+
+10
+00:00:22,560 --> 00:00:24,680
+<b>{\an2}A very thin layer of concrete.</b>
+
+11
+00:00:24,720 --> 00:00:25,960
+<b>{\an2}Oh, God!</b>
+
+12
+00:00:27,320 --> 00:00:29,240
+<b>{\an2}Welcome to</b>
+<b>The Great British Bake Off.</b>
+
+13
+00:00:29,280 --> 00:00:30,720
+<b>{\an2}Do you think we'll get a handshake?</b>
+
+14
+00:00:30,760 --> 00:00:32,200
+<b>{\an2}I'm not so sure, let's go. Ruined.</b>
+
+15
+00:00:33,960 --> 00:00:35,120
+<b>{\an2}Last time...</b>
+
+16
+00:00:35,160 --> 00:00:37,520
+<b>{\an2}Why this is doing to me?</b>
+
+17
+00:00:37,560 --> 00:00:40,560
+<b>{\an2}..our 12 new bakers went wild</b>
+<b>for cake...</b>
+
+18
+00:00:40,600 --> 00:00:42,720
+<b>{\an2}I don't know if that's going to</b>
+<b>freak out the judges.</b>
+
+19
+00:00:42,760 --> 00:00:45,520
+<b>{\an2}"Hi, Rowan, what have you made?"</b>
+<b>"A dead lobster."</b>
+
+20
+00:00:45,560 --> 00:00:47,600
+<b>{\an2}..whilst Cristy and Abbi impressed.</b>
+
+21
+00:00:47,640 --> 00:00:49,440
+<b>{\an2}You've done a really good job, Abbi.</b>
+
+22
+00:00:49,480 --> 00:00:51,000
+<b>{\an2}Thank you very much.</b>
+
+23
+00:00:51,040 --> 00:00:53,800
+<b>{\an2}Dan's family dog Bruno fetched him</b>
+<b>Star Baker...</b>
+
+24
+00:00:53,840 --> 00:00:55,520
+<b>{\an2}Nice one, Bruno!</b>
+
+25
+00:00:55,560 --> 00:00:56,960
+<b>{\an2}Here we go, Norman.</b>
+
+26
+00:00:57,000 --> 00:00:59,240
+<b>{\an2}..and although Nicky and Tasha</b>
+<b>faced extinction...</b>
+
+27
+00:00:59,280 --> 00:01:01,440
+<b>{\an2}I don't like that, Tasha.</b>
+
+28
+00:01:01,480 --> 00:01:03,200
+<b>{\an2}I love it!</b>
+
+29
+00:01:03,240 --> 00:01:04,560
+<b>{\an2}..it was Amos...</b>
+
+30
+00:01:04,600 --> 00:01:05,960
+<b>{\an2}Piece of poo.</b>
+
+31
+00:01:06,000 --> 00:01:07,520
+<b>{\an2}..who had to leave the tent.</b>
+
+32
+00:01:07,560 --> 00:01:08,680
+<b>{\an2}This time...</b>
+
+33
+00:01:08,720 --> 00:01:09,760
+<b>{\an2}Oh!</b>
+
+34
+00:01:09,800 --> 00:01:11,440
+<b>{\an2}..the bakers battle biscuits...</b>
+
+35
+00:01:11,480 --> 00:01:13,360
+<b>{\an2}Abbi, get a bit closer.</b>
+
+36
+00:01:13,400 --> 00:01:15,440
+<b>{\an2}..with a nostalgic signature...</b>
+
+37
+00:01:15,480 --> 00:01:16,680
+<b>{\an2}Marshmallow time.</b>
+
+38
+00:01:16,720 --> 00:01:18,200
+<b>{\an2}..a tricky technical...</b>
+
+39
+00:01:18,240 --> 00:01:19,960
+<b>{\an2}I'm probably doing it wrong.</b>
+
+40
+00:01:20,000 --> 00:01:22,800
+<b>{\an2}..and show stopping</b>
+<b>illusion biscuit banquets.</b>
+
+41
+00:01:22,840 --> 00:01:24,280
+<b>{\an2}Chuffing heck.</b>
+
+42
+00:01:24,320 --> 00:01:26,200
+<b>{\an2}Everybody's is so realistic.</b>
+
+43
+00:01:26,240 --> 00:01:28,720
+<b>{\an2}Who will bask in biscuit brilliance?</b>
+
+44
+00:01:28,760 --> 00:01:31,000
+<b>{\an2}That is fantastic.</b>
+<b>It's so good!</b>
+
+45
+00:01:31,040 --> 00:01:32,240
+<b>{\an2}And whose cookie...</b>
+
+46
+00:01:32,280 --> 00:01:33,400
+<b>{\an2}Cristy?</b>
+
+47
+00:01:33,440 --> 00:01:34,600
+<b>{\an2}..has finally crumbled?</b>
+
+48
+00:01:34,640 --> 00:01:36,600
+<b>{\an2}Have you used my biscuit dough?</b>
+
+49
+00:01:36,640 --> 00:01:37,760
+<b>{\an2}You have.</b>
+
+50
+00:02:00,000 --> 00:02:01,040
+<b>{\an2}I'm well buzzing.</b>
+
+51
+00:02:01,080 --> 00:02:03,040
+<b>{\an2}It's proper nice, innit,</b>
+<b>just to get back?</b>
+
+52
+00:02:03,080 --> 00:02:05,280
+<b>{\an2}I saw those three peaks</b>
+<b>and I thought,</b>
+
+53
+00:02:05,320 --> 00:02:07,480
+<b>{\an2}I'm happy I'm at home. It's nice.</b>
+
+54
+00:02:07,520 --> 00:02:08,920
+<b>{\an2}Here we go again.</b>
+
+55
+00:02:08,960 --> 00:02:12,120
+<b>{\an2}Last week was very stressful</b>
+<b>but it's a new week,</b>
+
+56
+00:02:12,160 --> 00:02:14,000
+<b>{\an2}it's a new day, it's a new dawn.</b>
+
+57
+00:02:14,040 --> 00:02:15,840
+<b>{\an2}Biscuits is completely different</b>
+<b>to cakes.</b>
+
+58
+00:02:15,880 --> 00:02:17,880
+<b>{\an2}I make shortbread quite a lot.</b>
+
+59
+00:02:17,920 --> 00:02:20,600
+<b>{\an2}It's one of those recipes where you</b>
+<b>get quite a lot of plaudits</b>
+
+60
+00:02:20,640 --> 00:02:23,480
+<b>{\an2}compared to the amount of effort</b>
+<b>that you put in.</b>
+
+61
+00:02:26,080 --> 00:02:29,400
+<b>{\an2}Good to see you, bakers.</b>
+<b>Welcome to Biscuit Week.</b>
+
+62
+00:02:29,440 --> 00:02:32,400
+<b>{\an2}Now, for your Signature Challenge</b>
+<b>the judges would like you to make</b>
+
+63
+00:02:32,440 --> 00:02:36,240
+<b>{\an2}a batch of 12 identical</b>
+<b>marshmallow biscuits.</b>
+
+64
+00:02:36,280 --> 00:02:38,600
+<b>{\an2}Inspired by childhood favourites</b>
+
+65
+00:02:38,640 --> 00:02:41,120
+<b>{\an2}like the tea cake</b>
+<b>or the Wagon Wheel,</b>
+
+66
+00:02:41,160 --> 00:02:43,880
+<b>{\an2}the judges are looking for</b>
+<b>delicious biscuits</b>
+
+67
+00:02:43,920 --> 00:02:47,760
+<b>{\an2}either topped or sandwiched</b>
+<b>with perfectly set marshmallow.</b>
+
+68
+00:02:47,800 --> 00:02:50,040
+<b>{\an2}Now, you've probably noticed that</b>
+<b>these biscuits,</b>
+
+69
+00:02:50,080 --> 00:02:52,680
+<b>{\an2}they're a lot smaller than they</b>
+<b>used to be when we were kids.</b>
+
+70
+00:02:52,720 --> 00:02:55,280
+<b>{\an2}Well, this is your chance</b>
+<b>to right that wrong.</b>
+
+71
+00:02:55,320 --> 00:02:58,080
+<b>{\an2}There's nothing stopping you from</b>
+<b>making your biscuit</b>
+
+72
+00:02:58,120 --> 00:03:00,040
+<b>{\an2}absolutely massive,</b>
+<b>like Noel's head.</b>
+
+73
+00:03:01,720 --> 00:03:03,400
+<b>{\an2}We're looking for dustbin lids, OK?</b>
+
+74
+00:03:03,440 --> 00:03:08,680
+<b>{\an2}Now, the shape, the flavours and</b>
+<b>the design is entirely up to you.</b>
+
+75
+00:03:08,720 --> 00:03:10,200
+<b>{\an2}You've got two and a half hours.</b>
+
+76
+00:03:10,240 --> 00:03:11,960
+<b>{\an2}On your marks... Get set...</b>
+
+77
+00:03:12,000 --> 00:03:13,120
+<b>{\an2}Bake!</b>
+
+78
+00:03:16,640 --> 00:03:19,800
+<b>{\an2}Marshmallow biscuits isn't something</b>
+<b>I've had for a really long time.</b>
+
+79
+00:03:19,840 --> 00:03:23,040
+<b>{\an2}There's only one marshmallow biscuit</b>
+<b>as far as I'm concerned</b>
+
+80
+00:03:23,080 --> 00:03:26,600
+<b>{\an2}and it's a Tunnock's tea cake.</b>
+<b>Oh, my days.</b>
+
+81
+00:03:26,640 --> 00:03:30,200
+<b>{\an2}PAUL: Marshmallow biscuits. Now,</b>
+<b>this goes back to our childhood.</b>
+
+82
+00:03:30,240 --> 00:03:32,800
+<b>{\an2}For me, it was the Wagon Wheel.</b>
+<b>It was just the best thing ever.</b>
+
+83
+00:03:32,840 --> 00:03:36,160
+<b>{\an2}Marshmallow is quite mild in flavour</b>
+<b>and sweet.</b>
+
+84
+00:03:36,200 --> 00:03:39,160
+<b>{\an2}So you need something that lifts it,</b>
+<b>like citrusy jam</b>
+
+85
+00:03:39,200 --> 00:03:41,720
+<b>{\an2}or something with a bit of acidity</b>
+<b>will help.</b>
+
+86
+00:03:41,760 --> 00:03:43,240
+<b>{\an2}It's about decoration, as well,</b>
+
+87
+00:03:43,280 --> 00:03:45,880
+<b>{\an2}because although it should be</b>
+<b>relatively simple</b>
+
+88
+00:03:45,920 --> 00:03:49,480
+<b>{\an2}to create the biscuits and the</b>
+<b>marshmallow, it's about decoration.</b>
+
+89
+00:03:49,520 --> 00:03:52,880
+<b>{\an2}It's got to look good,</b>
+<b>it's got to look shop made.</b>
+
+90
+00:03:54,080 --> 00:03:56,880
+<b>{\an2}Good morning, Dana. Hello, good</b>
+<b>morning. How are you? Hello, Dana.</b>
+
+91
+00:03:56,920 --> 00:04:00,640
+<b>{\an2}Dana, tell us about your</b>
+<b>signature marshmallow biscuit.</b>
+
+92
+00:04:00,680 --> 00:04:03,080
+<b>{\an2}I am doing a speculoos.</b>
+
+93
+00:04:03,120 --> 00:04:04,480
+<b>{\an2}Oh, lovely. Marshmallow biscuit</b>
+
+94
+00:04:04,520 --> 00:04:07,360
+<b>{\an2}that's got a lot of ginger, cloves,</b>
+<b>mixed spice, a bit of everything.</b>
+
+95
+00:04:07,400 --> 00:04:08,480
+<b>{\an2}Oh, lovely.</b>
+
+96
+00:04:08,520 --> 00:04:10,320
+<b>{\an2}ALISON: Dana's love of spices</b>
+<b>comes from</b>
+
+97
+00:04:10,360 --> 00:04:13,240
+<b>{\an2}the Indian dishes her mum Chhaya</b>
+<b>taught her growing up.</b>
+
+98
+00:04:13,280 --> 00:04:15,360
+<b>{\an2}That's a lovely golden colour.</b>
+
+99
+00:04:15,400 --> 00:04:17,000
+<b>{\an2}Almost burnt colour.</b>
+
+100
+00:04:17,040 --> 00:04:18,880
+<b>{\an2}It's not burnt, Mum!</b>
+
+101
+00:04:18,920 --> 00:04:21,280
+<b>{\an8}Sitting on top of her</b>
+<b>spiced biscuit,</b>
+
+102
+00:04:21,320 --> 00:04:25,040
+<b>{\an8}Dana's vanilla marshmallow and</b>
+<b>speculoos biscuit buttercream</b>
+
+103
+00:04:25,080 --> 00:04:26,840
+<b>{\an8}will be set in an intricate mould.</b>
+
+104
+00:04:26,880 --> 00:04:28,120
+<b>{\an2}PRUE: Oh, they're beautiful.</b>
+
+105
+00:04:28,160 --> 00:04:30,480
+<b>{\an2}It's been a bit of a challenge</b>
+<b>demoulding it. Yeah.</b>
+
+106
+00:04:30,520 --> 00:04:32,720
+<b>{\an2}But as long as I've got enough time</b>
+<b>to get it in the fridge</b>
+
+107
+00:04:32,760 --> 00:04:34,080
+<b>{\an2}for a good half hour.</b>
+
+108
+00:04:34,120 --> 00:04:36,440
+<b>{\an2}It needs to be rock solid for me</b>
+<b>to get it out of the mould.</b>
+
+109
+00:04:36,480 --> 00:04:37,800
+<b>{\an2}So that's what I'm hoping for.</b>
+
+110
+00:04:37,840 --> 00:04:39,160
+<b>{\an2}I'm looking forward to this one.</b>
+
+111
+00:04:39,200 --> 00:04:41,360
+<b>{\an2}Me, too!</b>
+<b>Can't wait to have one myself.</b>
+
+112
+00:04:41,400 --> 00:04:42,800
+<b>{\an2}That's perfect. Right...</b>
+
+113
+00:04:42,840 --> 00:04:44,840
+<b>{\an2}NOEL: Those who have chosen</b>
+<b>to make teacakes</b>
+
+114
+00:04:44,880 --> 00:04:48,040
+<b>{\an2}will be using moulds to create</b>
+<b>the classic chocolate dome</b>
+
+115
+00:04:48,080 --> 00:04:49,840
+<b>{\an2}which will hold the marshmallow.</b>
+
+116
+00:04:49,880 --> 00:04:51,520
+<b>{\an2}Let me just wiggle them around.</b>
+
+117
+00:04:51,560 --> 00:04:53,480
+<b>{\an2}The outside will be nice and smooth</b>
+
+118
+00:04:53,520 --> 00:04:56,400
+<b>{\an2}because it's moulded into</b>
+<b>the dome shape, thankfully.</b>
+
+119
+00:04:56,440 --> 00:04:58,240
+<b>{\an2}I'm probably a little bit envious</b>
+
+120
+00:04:58,280 --> 00:05:00,600
+<b>{\an2}of the people who have got moulds,</b>
+<b>but hey-ho,</b>
+
+121
+00:05:00,640 --> 00:05:02,600
+<b>{\an2}I made the decision to go</b>
+<b>for Wagon Wheels</b>
+
+122
+00:05:02,640 --> 00:05:05,320
+<b>{\an2}and when I've made them at home</b>
+<b>people have liked it.</b>
+
+123
+00:05:05,360 --> 00:05:07,280
+<b>{\an2}ALISON: Keith likes to doorstep</b>
+<b>his neighbours</b>
+
+124
+00:05:07,320 --> 00:05:09,080
+<b>{\an2}looking for feedback on his bakes,</b>
+
+125
+00:05:09,120 --> 00:05:11,280
+<b>{\an2}which has earned him the nickname</b>
+<b>Needy Ned.</b>
+
+126
+00:05:11,320 --> 00:05:12,640
+<b>{\an2}That's delicious.</b>
+
+127
+00:05:12,680 --> 00:05:15,080
+<b>{\an2}Phew! I'm relieved.</b>
+
+128
+00:05:15,120 --> 00:05:17,760
+<b>{\an8}NOEL: Today he'll be recreating</b>
+<b>the all-American</b>
+
+129
+00:05:17,800 --> 00:05:21,200
+<b>{\an8}peanut butter and jelly sandwich</b>
+<b>in Wagon Wheel form.</b>
+
+130
+00:05:21,240 --> 00:05:23,880
+<b>{\an2}Now, a little birdy told me</b>
+<b>you was into stand-up.</b>
+
+131
+00:05:23,920 --> 00:05:27,040
+<b>{\an2}I...I did a bit of stand-up for</b>
+<b>a few years about 20 years ago.</b>
+
+132
+00:05:27,080 --> 00:05:28,360
+<b>{\an2}And was you good?</b>
+
+133
+00:05:28,400 --> 00:05:30,680
+<b>{\an2}I wasn't good enough to go...</b>
+<b>to go full time.</b>
+
+134
+00:05:30,720 --> 00:05:32,000
+<b>{\an2}Give me your best gag. Come on.</b>
+
+135
+00:05:32,040 --> 00:05:34,240
+<b>{\an2}The best gag that you...</b>
+<b>You've got to get me rolling.</b>
+
+136
+00:05:34,280 --> 00:05:37,040
+<b>{\an2}I can't. Because... Come on,</b>
+<b>everyone wants to hear Alison's</b>
+<b>laugh!</b>
+
+137
+00:05:37,080 --> 00:05:38,920
+<b>{\an2}Then you might find out</b>
+<b>I'm funnier than Noel.</b>
+
+138
+00:05:38,960 --> 00:05:41,680
+<b>{\an2}No, go on. And then what happens?</b>
+<b>Go on, go on. It doesn't work!</b>
+
+139
+00:05:41,720 --> 00:05:42,840
+<b>{\an2}What you got? Come on!</b>
+
+140
+00:05:42,880 --> 00:05:44,760
+<b>{\an2}Buk-buk-buk-buk-buk!</b>
+<b>Come on, you can...</b>
+
+141
+00:05:44,800 --> 00:05:46,640
+<b>{\an2}BEEPING</b>
+<b>You've got something.</b>
+
+142
+00:05:46,680 --> 00:05:50,160
+<b>{\an2}No. What's...what's the joke that</b>
+<b>used to get everyone straight away?</b>
+
+143
+00:05:50,200 --> 00:05:51,400
+<b>{\an2}Shall I stop that, babe?</b>
+
+144
+00:05:51,440 --> 00:05:52,760
+<b>{\an1}BEEPING STOPS</b>
+<b>#S</b>
+
+145
+00:05:52,800 --> 00:05:54,320
+<b>{\an2}Um...</b>
+<b>What's that timer for?</b>
+
+146
+00:05:54,360 --> 00:05:56,760
+<b>{\an2}You... Uh, that's time for the</b>
+<b>interview to end.</b>
+
+147
+00:05:59,520 --> 00:06:03,120
+<b>{\an2}Morning Dan. Good morning.</b>
+<b>Hello, Dan. How we doing? Hello.</b>
+
+148
+00:06:03,160 --> 00:06:04,600
+<b>{\an2}Reigning Star Baker.</b>
+
+149
+00:06:04,640 --> 00:06:06,120
+<b>{\an2}Yes, indeed.</b>
+
+150
+00:06:06,160 --> 00:06:08,200
+<b>{\an2}Tell us about your signature.</b>
+
+151
+00:06:08,240 --> 00:06:11,000
+<b>{\an2}Yes, so it's my son's</b>
+<b>birthday tomorrow.</b>
+
+152
+00:06:11,040 --> 00:06:12,960
+<b>{\an2}So these flavours are based</b>
+<b>on the three things</b>
+
+153
+00:06:13,000 --> 00:06:14,960
+<b>{\an2}that he basically lives on</b>
+<b>every day,</b>
+
+154
+00:06:15,000 --> 00:06:17,160
+<b>{\an2}which is chocolate, bananas</b>
+<b>and peanut butter. Wow.</b>
+
+155
+00:06:17,200 --> 00:06:19,920
+<b>{\an2}What a healthy diet for a child!</b>
+<b>Perfect diet, yeah.</b>
+
+156
+00:06:19,960 --> 00:06:22,440
+<b>{\an2}Can I help? You can do, mate, yeah.</b>
+<b>Yay!</b>
+
+157
+00:06:22,480 --> 00:06:24,760
+<b>{\an2}ALISON: Four-year-old Sam</b>
+<b>and his older brother Rory</b>
+
+158
+00:06:24,800 --> 00:06:26,720
+<b>{\an2}love to help Dad in the kitchen,</b>
+
+159
+00:06:26,760 --> 00:06:29,480
+<b>{\an2}especially when there are bowls</b>
+<b>to be cleaned.</b>
+
+160
+00:06:29,520 --> 00:06:31,680
+<b>{\an2}You've got it all down</b>
+<b>the front of you already.</b>
+
+161
+00:06:31,720 --> 00:06:33,960
+<b>{\an8}Covered in dark chocolate,</b>
+<b>his peanut biscuits</b>
+
+162
+00:06:34,000 --> 00:06:36,360
+<b>{\an8}will sandwich layers</b>
+<b>of peanut butter ganache</b>
+
+163
+00:06:36,400 --> 00:06:37,920
+<b>{\an8}and banana marshmallow.</b>
+
+164
+00:06:37,960 --> 00:06:39,360
+<b>{\an2}Have you practised this a lot?</b>
+
+165
+00:06:39,400 --> 00:06:41,120
+<b>{\an2}Yeah, I've done it three times,</b>
+<b>yeah.</b>
+
+166
+00:06:41,160 --> 00:06:42,600
+<b>{\an2}Where do you find the time?</b>
+
+167
+00:06:42,640 --> 00:06:45,520
+<b>{\an2}Soon as the kids are in bed,</b>
+<b>that's when I start doing it.</b>
+<b>Really? Yeah.</b>
+
+168
+00:06:45,560 --> 00:06:47,720
+<b>{\an2}And you want to bake, the kids'll</b>
+<b>never go to bed right?</b>
+
+169
+00:06:47,760 --> 00:06:49,120
+<b>{\an2}No, they don't, no. No.</b>
+
+170
+00:06:49,160 --> 00:06:50,800
+<b>{\an2}And they come in,</b>
+<b>especially going...</b>
+
+171
+00:06:50,840 --> 00:06:53,120
+<b>{\an2}"Oh, can I help, dad?"</b>
+<b>"Yeah, of course you can, mate!"</b>
+
+172
+00:06:53,160 --> 00:06:54,960
+<b>{\an2}And then just, like,</b>
+<b>knock a bowl over,</b>
+
+173
+00:06:55,000 --> 00:06:57,920
+<b>{\an2}spill a load of flour all over the</b>
+<b>place and clear off.</b>
+
+174
+00:06:57,960 --> 00:07:00,560
+<b>{\an2}Chimpanzees' tea party.</b>
+<b>Totally, yeah.</b>
+
+175
+00:07:01,920 --> 00:07:05,360
+<b>{\an2}I'm making rose teacakes</b>
+<b>and these are for my nan.</b>
+
+176
+00:07:05,400 --> 00:07:07,640
+<b>{\an2}My nanny June,</b>
+<b>she's not with us any more</b>
+
+177
+00:07:07,680 --> 00:07:08,800
+<b>{\an2}but she loved roses</b>
+
+178
+00:07:08,840 --> 00:07:13,440
+<b>{\an2}and so they're going to have, like,</b>
+<b>little roses painted into the shell.</b>
+
+179
+00:07:13,480 --> 00:07:17,400
+<b>{\an2}NOEL: Nanny June might be the</b>
+<b>inspiration for Cristy's teacakes</b>
+
+180
+00:07:17,440 --> 00:07:19,080
+<b>{\an2}but it's her youngest daughter</b>
+<b>Sienna</b>
+
+181
+00:07:19,120 --> 00:07:21,600
+<b>{\an2}who's been helping Mum</b>
+<b>perfect the recipe.</b>
+
+182
+00:07:21,640 --> 00:07:23,480
+<b>{\an2}Good girl. Keep going.</b>
+
+183
+00:07:23,520 --> 00:07:26,320
+<b>{\an8}Cristy will layer rose water</b>
+<b>flavoured marshmallow</b>
+
+184
+00:07:26,360 --> 00:07:28,760
+<b>{\an8}and a mixed berry jam</b>
+<b>atop a digestive biscuit,</b>
+
+185
+00:07:28,800 --> 00:07:32,080
+<b>{\an8}all encased in a delicate</b>
+<b>floral white chocolate shell.</b>
+
+186
+00:07:32,120 --> 00:07:34,040
+<b>{\an2}What do your kids think</b>
+<b>of these biscuits?</b>
+
+187
+00:07:34,080 --> 00:07:36,440
+<b>{\an2}Do they like these ones?</b>
+<b>They're just like... Yeah, they do.</b>
+
+188
+00:07:36,480 --> 00:07:38,040
+<b>{\an2}They're like,</b>
+<b>"Why can't we touch 'em?"</b>
+
+189
+00:07:38,080 --> 00:07:39,920
+<b>{\an2}I'm like, "No, you can't touch 'em</b>
+<b>now!"</b>
+
+190
+00:07:39,960 --> 00:07:41,760
+<b>{\an2}But, yeah, no, they do.</b>
+<b>They like 'em, yeah.</b>
+
+191
+00:07:41,800 --> 00:07:44,360
+<b>{\an2}And have you explained to them,</b>
+<b>you know, about Bake Off</b>
+
+192
+00:07:44,400 --> 00:07:46,320
+<b>{\an2}and how it's going</b>
+<b>and how exciting it is?</b>
+
+193
+00:07:46,360 --> 00:07:48,920
+<b>{\an2}Hmm, the little ones don't know.</b>
+<b>But my eldest,</b>
+
+194
+00:07:48,960 --> 00:07:51,320
+<b>{\an2}yeah, but she's just, like,</b>
+<b>living her life. She's like...</b>
+
+195
+00:07:51,360 --> 00:07:53,960
+<b>{\an2}She's living her best life. Yeah.</b>
+<b>The thing is, when you're a mum,</b>
+
+196
+00:07:54,000 --> 00:07:55,240
+<b>{\an2}you've got so much mummy guilt</b>
+
+197
+00:07:55,280 --> 00:07:57,480
+<b>{\an2}and the kids ain't even bothered,</b>
+<b>are they? I know!</b>
+
+198
+00:07:57,520 --> 00:07:58,720
+<b>{\an2}They're not bothered!</b>
+
+199
+00:07:58,760 --> 00:08:00,680
+<b>{\an2}"Oh, mum's missing?" Yeah!</b>
+<b>"Who cares?"</b>
+
+200
+00:08:02,160 --> 00:08:05,120
+<b>{\an2}Going to roll 'em out,</b>
+<b>aim to get even thickness.</b>
+
+201
+00:08:05,160 --> 00:08:07,640
+<b>{\an2}It's a biscuit that I used to eat</b>
+<b>a lot when I played football.</b>
+
+202
+00:08:07,680 --> 00:08:09,400
+<b>{\an2}It's a half-time biscuit, almost.</b>
+
+203
+00:08:09,440 --> 00:08:11,360
+<b>{\an2}A well-known biscuit.</b>
+<b>I've kind of, like,</b>
+
+204
+00:08:11,400 --> 00:08:14,760
+<b>{\an2}taken the theme of that biscuit</b>
+<b>and put it into a Wagon Wheel.</b>
+
+205
+00:08:14,800 --> 00:08:17,320
+<b>{\an2}Sports mad Matty</b>
+<b>and his partner Lara</b>
+
+206
+00:08:17,360 --> 00:08:19,480
+<b>{\an2}first locked eyes at the local gym.</b>
+
+207
+00:08:19,520 --> 00:08:22,360
+<b>{\an2}Eight years later they're busy</b>
+<b>planning their wedding.</b>
+
+208
+00:08:22,400 --> 00:08:24,600
+<b>{\an2}Which one are you thinking that</b>
+<b>actually looks nice?</b>
+
+209
+00:08:24,640 --> 00:08:26,120
+<b>{\an2}I don't know. They all look the</b>
+<b>same.</b>
+
+210
+00:08:27,560 --> 00:08:29,560
+<b>{\an8}He's chosen chocolate and orange</b>
+<b>flavours</b>
+
+211
+00:08:29,600 --> 00:08:31,240
+<b>{\an8}for his sandwich style biscuit.</b>
+
+212
+00:08:31,280 --> 00:08:35,000
+<b>{\an8}He'll be assembling in a mould</b>
+<b>for a sharp, elegant finish.</b>
+
+213
+00:08:35,040 --> 00:08:36,680
+<b>{\an2}I like your tattoo. Thank you.</b>
+
+214
+00:08:36,720 --> 00:08:39,240
+<b>{\an2}If you win, you've got to get</b>
+<b>another tattoo, right? OK.</b>
+
+215
+00:08:39,280 --> 00:08:41,720
+<b>{\an2}If you win, we'll both get one.</b>
+<b>GBBO!</b>
+
+216
+00:08:41,760 --> 00:08:44,240
+<b>{\an2}I'll get one of you on my chest.</b>
+
+217
+00:08:44,280 --> 00:08:46,360
+<b>{\an2}Not on your back?</b>
+<b>Like that!</b>
+
+218
+00:08:47,640 --> 00:08:49,440
+<b>{\an2}I've got one of Rahul on my bum.</b>
+
+219
+00:08:52,080 --> 00:08:53,680
+<b>{\an2}Right, we're going in the oven.</b>
+
+220
+00:08:53,720 --> 00:08:56,480
+<b>{\an2}The bakers will need to keep</b>
+<b>a close eye on their biscuits...</b>
+
+221
+00:08:56,520 --> 00:08:58,680
+<b>{\an2}Ten minutes.</b>
+
+222
+00:08:58,720 --> 00:09:00,440
+<b>{\an2}We'll check 'em at eight.</b>
+
+223
+00:09:00,480 --> 00:09:03,120
+<b>{\an2}..as they can go from underbaked</b>
+<b>and soft</b>
+
+224
+00:09:03,160 --> 00:09:05,600
+<b>{\an2}to overbaked and tough</b>
+<b>in a matter of minutes.</b>
+
+225
+00:09:05,640 --> 00:09:07,520
+<b>{\an2}12 minutes. 12 minutes in the oven.</b>
+
+226
+00:09:07,560 --> 00:09:08,960
+<b>{\an2}Calm exterior.</b>
+
+227
+00:09:09,000 --> 00:09:11,520
+<b>{\an2}But I'm doing absolute somersaults</b>
+<b>inside, yeah.</b>
+
+228
+00:09:11,560 --> 00:09:14,680
+<b>{\an2}But also, they need to make</b>
+<b>a start on any extra fillings,</b>
+
+229
+00:09:14,720 --> 00:09:18,080
+<b>{\an2}curds or jams that will accompany</b>
+<b>the marshmallow.</b>
+
+230
+00:09:18,120 --> 00:09:21,000
+<b>{\an2}I'm just heating up my cream</b>
+<b>for my ganache.</b>
+
+231
+00:09:21,040 --> 00:09:23,360
+<b>{\an2}Raspberries,</b>
+<b>I'm making raspberry jam.</b>
+
+232
+00:09:23,400 --> 00:09:26,480
+<b>{\an2}Look at the colour, see?</b>
+<b>It's beautiful.</b>
+
+233
+00:09:26,520 --> 00:09:29,120
+<b>{\an2}So that's a rhubarb and ginger jam.</b>
+
+234
+00:09:29,160 --> 00:09:31,800
+<b>{\an2}This is going to be the flavour</b>
+<b>kick to the marshmallow.</b>
+
+235
+00:09:31,840 --> 00:09:33,600
+<b>{\an2}Smells amazing.</b>
+
+236
+00:09:33,640 --> 00:09:36,240
+<b>{\an2}ALISON: Nicky and husband Rob</b>
+<b>are both retired</b>
+
+237
+00:09:36,280 --> 00:09:38,760
+<b>{\an2}but like to keep active,</b>
+<b>whether it's out rambling</b>
+
+238
+00:09:38,800 --> 00:09:40,520
+<b>{\an2}with the dogs Haggis and Bracken</b>
+
+239
+00:09:40,560 --> 00:09:42,360
+<b>{\an2}or doing exercise classes together.</b>
+
+240
+00:09:42,400 --> 00:09:43,440
+<b>{\an2}Phew!</b>
+
+241
+00:09:43,480 --> 00:09:44,560
+<b>{\an1}THEY LAUGH</b>
+
+242
+00:09:44,600 --> 00:09:46,840
+<b>{\an2}He's got bright red cheeks now!</b>
+
+243
+00:09:46,880 --> 00:09:48,920
+<b>{\an8}Nicky's ginger and rhubarb jam</b>
+
+244
+00:09:48,960 --> 00:09:52,560
+<b>{\an8}will be the main attraction in</b>
+<b>teacakes of pistachio shortbread</b>
+
+245
+00:09:52,600 --> 00:09:53,840
+<b>{\an8}and vanilla marshmallow.</b>
+
+246
+00:09:53,880 --> 00:09:56,720
+<b>{\an2}So you've got rhubarb and ginger as</b>
+<b>the hero flavours, really...</b>
+<b>Exactly.</b>
+
+247
+00:09:56,760 --> 00:09:58,840
+<b>{\an2}..with a little hint of pistachio</b>
+<b>in the biscuit. Exactly.</b>
+
+248
+00:09:58,880 --> 00:10:01,000
+<b>{\an2}Very good.</b>
+<b>Let's hope it works!</b>
+
+249
+00:10:02,280 --> 00:10:05,280
+<b>{\an2}I'm doing Black Forest jam teacakes.</b>
+<b>Blackberries and blackcurrants</b>
+
+250
+00:10:05,320 --> 00:10:06,960
+<b>{\an8}are my favourite fruits</b>
+<b>to make jam with.</b>
+
+251
+00:10:07,000 --> 00:10:08,760
+<b>{\an8}And they just work really</b>
+<b>lovely together.</b>
+
+252
+00:10:08,800 --> 00:10:10,760
+<b>{\an2}I love to bake with fruit and stuff</b>
+<b>off my garden</b>
+
+253
+00:10:10,800 --> 00:10:13,200
+<b>{\an2}and I always want them to be</b>
+<b>the star of the show.</b>
+
+254
+00:10:13,240 --> 00:10:15,600
+<b>{\an2}Green fingered Josh</b>
+<b>and his younger brother Jake</b>
+
+255
+00:10:15,640 --> 00:10:18,400
+<b>{\an2}love growing their own fruit</b>
+<b>and vegetables.</b>
+
+256
+00:10:18,440 --> 00:10:21,360
+<b>{\an2}They've even won prizes</b>
+<b>for their enormous marrows.</b>
+
+257
+00:10:21,400 --> 00:10:23,400
+<b>{\an8}Sitting in between his</b>
+<b>vanilla marshmallow</b>
+
+258
+00:10:23,440 --> 00:10:25,040
+<b>{\an8}and dried cherry biscuit base</b>
+
+259
+00:10:25,080 --> 00:10:28,800
+<b>{\an8}will be Black Forest jam made from</b>
+<b>the spoils of his beloved garden.</b>
+
+260
+00:10:28,840 --> 00:10:30,280
+<b>{\an2}Do you feel really relaxed there?</b>
+
+261
+00:10:30,320 --> 00:10:32,040
+<b>{\an2}Yeah, I love it down there.</b>
+<b>Cos it's calm.</b>
+
+262
+00:10:32,080 --> 00:10:34,440
+<b>{\an2}Yeah, I do rugby from</b>
+<b>September through till about now</b>
+
+263
+00:10:34,480 --> 00:10:37,880
+<b>{\an2}and then we go switch</b>
+<b>and it's on to... Calm world.</b>
+
+264
+00:10:37,920 --> 00:10:39,240
+<b>{\an2}All the gardening stuff. Yeah.</b>
+
+265
+00:10:39,280 --> 00:10:41,640
+<b>{\an2}I think you're living the way that</b>
+<b>everyone wants to live.</b>
+
+266
+00:10:41,680 --> 00:10:43,280
+<b>{\an2}Growing and then baking.</b>
+<b>Yeah.</b>
+
+267
+00:10:43,320 --> 00:10:47,920
+<b>{\an2}Rugby, not so sure about.</b>
+<b>Just getting pounded in the cold!</b>
+
+268
+00:10:47,960 --> 00:10:49,520
+<b>{\an2}Good luck. Thank you.</b>
+
+269
+00:10:52,400 --> 00:10:53,920
+<b>{\an2}Thought I was your biggest fan?</b>
+
+270
+00:10:53,960 --> 00:10:56,840
+<b>{\an2}Ha! That's good, that is!</b>
+
+271
+00:10:56,880 --> 00:11:00,280
+<b>{\an2}Bakers... You are halfway through!</b>
+
+272
+00:11:00,320 --> 00:11:02,160
+<b>{\an2}Taking these out now.</b>
+
+273
+00:11:02,200 --> 00:11:05,760
+<b>{\an2}Oh, yes, they look nice. Very good.</b>
+
+274
+00:11:05,800 --> 00:11:10,080
+<b>{\an2}Yeah, they look like they did</b>
+<b>at home, which is...a good thing.</b>
+
+275
+00:11:10,120 --> 00:11:12,200
+<b>{\an2}I think it's all right.</b>
+
+276
+00:11:12,240 --> 00:11:14,200
+<b>{\an2}Just a little brown,</b>
+
+277
+00:11:14,240 --> 00:11:15,480
+<b>{\an2}so I'm happy with that.</b>
+
+278
+00:11:15,520 --> 00:11:17,880
+<b>{\an2}Saku. Hello, how are you?</b>
+<b>How you doing? You all right?</b>
+
+279
+00:11:17,920 --> 00:11:19,440
+<b>{\an2}Good, thank you very much. Yes, yes.</b>
+
+280
+00:11:19,480 --> 00:11:21,600
+<b>{\an2}Now, do you bake biscuits often?</b>
+
+281
+00:11:21,640 --> 00:11:24,480
+<b>{\an2}Not very often. Hmm.</b>
+<b>At least once a week.</b>
+
+282
+00:11:24,520 --> 00:11:27,080
+<b>{\an2}That's often! If you're baking</b>
+<b>biscuits every single week...</b>
+
+283
+00:11:27,120 --> 00:11:28,720
+<b>{\an2}Every day is often, I think.</b>
+
+284
+00:11:28,760 --> 00:11:31,040
+<b>{\an2}Every week is really often.</b>
+<b>OK. Yes.</b>
+
+285
+00:11:31,080 --> 00:11:34,000
+<b>{\an2}So you're good at biscuit making,</b>
+<b>then. I hope so!</b>
+
+286
+00:11:34,040 --> 00:11:37,080
+<b>{\an2}Every Sri Lankan New Year,</b>
+<b>instead of baking biscuits,</b>
+
+287
+00:11:37,120 --> 00:11:40,560
+<b>{\an2}Saku and her family celebrate</b>
+<b>by boiling over milk,</b>
+
+288
+00:11:40,600 --> 00:11:43,200
+<b>{\an2}a tradition that symbolises</b>
+<b>prosperity.</b>
+
+289
+00:11:43,240 --> 00:11:44,840
+<b>{\an2}It run everywhere!</b>
+
+290
+00:11:47,600 --> 00:11:49,080
+<b>{\an8}Today she'll be serving up</b>
+
+291
+00:11:49,120 --> 00:11:52,960
+<b>{\an8}an elegant sandwiched pistachio and</b>
+<b>raspberry jam marshmallow biscuit</b>
+
+292
+00:11:53,000 --> 00:11:56,240
+<b>{\an8}inspired by a flavour she</b>
+<b>fell in love with in Sicily.</b>
+
+293
+00:11:56,280 --> 00:12:00,200
+<b>{\an2}So whenever we go there</b>
+<b>I try pistachio granita.</b>
+
+294
+00:12:00,240 --> 00:12:03,800
+<b>{\an2}Ah, it's heavenly! I love pistachio.</b>
+
+295
+00:12:03,840 --> 00:12:06,560
+<b>{\an2}While Saku is bringing</b>
+<b>a taste of Sicily into the tent,</b>
+
+296
+00:12:06,600 --> 00:12:08,160
+<b>{\an2}Tasha is taking us down under.</b>
+
+297
+00:12:08,200 --> 00:12:12,040
+<b>{\an2}I'm making a malted</b>
+<b>chocolate biscuit.</b>
+
+298
+00:12:12,080 --> 00:12:14,480
+<b>{\an2}Um, it's like a chocolate drink</b>
+
+299
+00:12:14,520 --> 00:12:17,280
+<b>{\an2}that I used to have in Australia.</b>
+
+300
+00:12:17,320 --> 00:12:20,520
+<b>{\an2}Was this called Milo? Yes.</b>
+<b>Yeah, yeah, yeah, yeah.</b>
+
+301
+00:12:20,560 --> 00:12:23,720
+<b>{\an2}I used to have that in South Africa.</b>
+<b>Can you get it here?</b>
+
+302
+00:12:23,760 --> 00:12:25,240
+<b>{\an2}I can get... I need to know where.</b>
+
+303
+00:12:25,280 --> 00:12:26,840
+<b>{\an2}Don't tell her. Don't tell her!</b>
+
+304
+00:12:28,160 --> 00:12:29,360
+<b>{\an2}I'll tell you after.</b>
+
+305
+00:12:30,400 --> 00:12:33,640
+<b>{\an2}Tasha moved to Australia with her</b>
+<b>mum and brother aged nine,</b>
+
+306
+00:12:33,680 --> 00:12:35,800
+<b>{\an2}where she got a taste</b>
+<b>of the outdoors</b>
+
+307
+00:12:35,840 --> 00:12:37,920
+<b>{\an2}and for the malted chocolate</b>
+<b>milk drink</b>
+
+308
+00:12:37,960 --> 00:12:40,400
+<b>{\an2}she would enjoy at the end</b>
+<b>of every school day.</b>
+
+309
+00:12:40,440 --> 00:12:42,200
+<b>{\an8}She'll be flavouring every element</b>
+
+310
+00:12:42,240 --> 00:12:44,800
+<b>{\an8}of her elegantly decorated</b>
+<b>marshmallow biscuits</b>
+
+311
+00:12:44,840 --> 00:12:46,960
+<b>{\an8}with this popular powdered drink.</b>
+
+312
+00:12:47,000 --> 00:12:51,160
+<b>{\an2}he flavours are very much, like,</b>
+<b>childhood flavours</b>
+
+313
+00:12:51,200 --> 00:12:53,440
+<b>{\an2}so I'll be very sad</b>
+<b>if they don't like it!</b>
+
+314
+00:12:53,480 --> 00:12:55,080
+<b>{\an2}Tasha isn't the only baker...</b>
+
+315
+00:12:55,120 --> 00:12:56,480
+<b>{\an2}Oopsie boopsie!</b>
+
+316
+00:12:56,520 --> 00:12:59,480
+<b>{\an2}..who spent some of her</b>
+<b>childhood in sunnier climes.</b>
+
+317
+00:12:59,520 --> 00:13:00,880
+<b>{\an2}I used to live in Tunisia</b>
+
+318
+00:13:00,920 --> 00:13:03,600
+<b>{\an2}and we didn't...they don't</b>
+<b>have teacakes there</b>
+
+319
+00:13:03,640 --> 00:13:05,840
+<b>{\an2}so they're not like</b>
+<b>a big childhood thing for me,</b>
+
+320
+00:13:05,880 --> 00:13:08,200
+<b>{\an2}so I was like, I'll use</b>
+<b>the other thing from my childhood</b>
+
+321
+00:13:08,240 --> 00:13:10,920
+<b>{\an2}that significantly impacted it,</b>
+<b>which was living in Tunisia.</b>
+
+322
+00:13:10,960 --> 00:13:14,240
+<b>{\an2}Abbi spent seven years in</b>
+<b>Tunisia before returning</b>
+
+323
+00:13:14,280 --> 00:13:18,120
+<b>{\an2}to rural Cumbria, where she took up</b>
+<b>a gravity defying fitness class.</b>
+
+324
+00:13:18,160 --> 00:13:19,600
+<b>{\an2}Whee!</b>
+
+325
+00:13:19,640 --> 00:13:21,720
+<b>{\an8}Her Tunisian inspired teacakes</b>
+
+326
+00:13:21,760 --> 00:13:23,320
+<b>{\an8}will see a zesty orange curd</b>
+
+327
+00:13:23,360 --> 00:13:25,840
+<b>{\an8}in between her pistachio</b>
+<b>and cardamom biscuit</b>
+
+328
+00:13:25,880 --> 00:13:27,440
+<b>{\an8}and saffron marshmallow.</b>
+
+329
+00:13:27,480 --> 00:13:29,320
+<b>{\an2}Why do you bake?</b>
+
+330
+00:13:29,360 --> 00:13:30,760
+<b>{\an2}Why? Yeah.</b>
+
+331
+00:13:30,800 --> 00:13:32,480
+<b>{\an2}I like it cos it's like a</b>
+<b>creative outlet.</b>
+
+332
+00:13:32,520 --> 00:13:33,880
+<b>{\an2}Do you do other creative things?</b>
+
+333
+00:13:33,920 --> 00:13:35,800
+<b>{\an2}I do aerial hoop.</b>
+<b>What's that?</b>
+
+334
+00:13:35,840 --> 00:13:37,280
+<b>{\an2}It's like...it's like a...</b>
+
+335
+00:13:37,320 --> 00:13:39,200
+<b>{\an2}..a hoop that hangs down</b>
+<b>from the ceiling</b>
+
+336
+00:13:39,240 --> 00:13:41,640
+<b>{\an2}and you go, like, upside down in it</b>
+<b>and stuff. What?!</b>
+
+337
+00:13:41,680 --> 00:13:43,760
+<b>{\an2}Where do they have these?</b>
+<b>Where does this happen?</b>
+
+338
+00:13:43,800 --> 00:13:45,200
+<b>{\an2}Uh, it's in a barn on a farm.</b>
+
+339
+00:13:45,240 --> 00:13:46,640
+<b>{\an2}What, so you drive to a barn...</b>
+
+340
+00:13:46,680 --> 00:13:48,520
+<b>{\an2}I drive to a barn</b>
+<b>and then I get there...</b>
+
+341
+00:13:48,560 --> 00:13:50,040
+<b>{\an2}You get in an aerial hoop.</b>
+
+342
+00:13:50,080 --> 00:13:51,800
+<b>{\an2}And then I get in a hoop.</b>
+<b>Make shapes.</b>
+
+343
+00:13:51,840 --> 00:13:53,200
+<b>{\an2}Yeah, and then I go home.</b>
+
+344
+00:13:54,440 --> 00:13:56,640
+<b>{\an2}Rowan, good morning.</b>
+<b>Good morning. How are you?</b>
+
+345
+00:13:56,680 --> 00:13:58,160
+<b>{\an2}Morning, Rowan. Right, Rowan,</b>
+
+346
+00:13:58,200 --> 00:14:00,400
+<b>{\an2}tell us all about your</b>
+<b>marshmallow biscuits.</b>
+
+347
+00:14:00,440 --> 00:14:02,920
+<b>{\an2}So I'm doing lemon and rosemary</b>
+<b>shortbread</b>
+
+348
+00:14:02,960 --> 00:14:05,720
+<b>{\an2}with a Parma violet marshmallow.</b>
+
+349
+00:14:05,760 --> 00:14:07,280
+<b>{\an2}Parma violet?</b>
+
+350
+00:14:07,320 --> 00:14:09,240
+<b>{\an2}Yeah. My nan used to like Parma</b>
+<b>violets.</b>
+
+351
+00:14:09,280 --> 00:14:10,680
+<b>{\an2}They are absolutely disgusting.</b>
+
+352
+00:14:10,720 --> 00:14:12,440
+<b>{\an2}Oh, wonderful!</b>
+
+353
+00:14:12,480 --> 00:14:14,120
+<b>{\an2}This is a vote of confidence.</b>
+
+354
+00:14:14,160 --> 00:14:16,920
+<b>{\an2}Yorkshire lad Rowan loves to</b>
+<b>go for long walks in the Dales</b>
+
+355
+00:14:16,960 --> 00:14:18,320
+<b>{\an2}with his dad John and mum Moira.</b>
+
+356
+00:14:18,360 --> 00:14:19,400
+<b>{\an1}WATER FLOWS</b>
+
+357
+00:14:19,440 --> 00:14:21,040
+<b>{\an2}That's making me want to wee,</b>
+<b>that noise!</b>
+
+358
+00:14:21,080 --> 00:14:22,360
+<b>{\an1}THEY LAUGH</b>
+
+359
+00:14:22,400 --> 00:14:23,920
+<b>{\an8}His flavour packed teacakes</b>
+
+360
+00:14:23,960 --> 00:14:26,320
+<b>{\an8}will feature a lemon</b>
+<b>and rosemary shortbread</b>
+
+361
+00:14:26,360 --> 00:14:30,200
+<b>{\an8}and raspberry gel to complement his</b>
+<b>Parma violet marshmallow.</b>
+
+362
+00:14:30,240 --> 00:14:32,360
+<b>{\an2}But I don't know if you like</b>
+<b>Parma violet but I told...</b>
+
+363
+00:14:32,400 --> 00:14:34,200
+<b>{\an2}Oh, I love it!</b>
+<b>Is it those purple sweets?</b>
+
+364
+00:14:34,240 --> 00:14:36,160
+<b>{\an2}Yes! OK, someone likes it.</b>
+<b>I LOVE those sweets.</b>
+
+365
+00:14:36,200 --> 00:14:37,760
+<b>{\an2}OK, so you love Parma violet.</b>
+<b>Yeah.</b>
+
+366
+00:14:37,800 --> 00:14:40,800
+<b>{\an2}Paul and Prue do not.</b>
+<b>They said it's a bit vile, actually.</b>
+
+367
+00:14:40,840 --> 00:14:42,680
+<b>{\an2}So I'm whipping up...</b>
+<b>What are you going to do?</b>
+
+368
+00:14:42,720 --> 00:14:44,800
+<b>{\an2}Well, when life gives you</b>
+<b>lemons, Alison...</b>
+
+369
+00:14:44,840 --> 00:14:47,520
+<b>{\an2}Make Parma violet.</b>
+<b>Make Parma violet, yeah!</b>
+
+370
+00:14:49,080 --> 00:14:52,120
+<b>{\an2}Just make sure there's the right</b>
+<b>amount of air in these shoulder</b>
+<b>pads.</b>
+
+371
+00:14:52,160 --> 00:14:54,240
+<b>{\an1}HE IMITATES AN AIR PUMP</b>
+
+372
+00:14:54,280 --> 00:14:56,720
+<b>{\an2}Bakers, you have one hour left.</b>
+
+373
+00:14:56,760 --> 00:14:58,040
+<b>{\an2}Marshmallow time.</b>
+
+374
+00:15:00,560 --> 00:15:02,240
+<b>{\an2}Do you know what? before</b>
+<b>the competition</b>
+
+375
+00:15:02,280 --> 00:15:04,040
+<b>{\an2}I've not made</b>
+<b>a great deal of it to be honest,</b>
+
+376
+00:15:04,080 --> 00:15:06,200
+<b>{\an2}but it's a bit like</b>
+<b>a Swiss meringue, basically.</b>
+
+377
+00:15:06,240 --> 00:15:09,080
+<b>{\an2}And then just with the addition of</b>
+<b>loads of gelatine to help it set.</b>
+
+378
+00:15:09,120 --> 00:15:12,160
+<b>{\an2}Key to a marshmallow's pillowy</b>
+<b>but firm form</b>
+
+379
+00:15:12,200 --> 00:15:14,800
+<b>{\an2}lies in the gelatine and sugar</b>
+<b>syrup.</b>
+
+380
+00:15:14,840 --> 00:15:19,080
+<b>{\an2}I'm making the sugar syrup with</b>
+<b>the caster sugar and golden syrup.</b>
+
+381
+00:15:19,120 --> 00:15:20,600
+<b>{\an2}Then I will add that to</b>
+<b>the egg whites</b>
+
+382
+00:15:20,640 --> 00:15:22,400
+<b>{\an2}and get it whipped for</b>
+<b>a good ten minutes</b>
+
+383
+00:15:22,440 --> 00:15:24,680
+<b>{\an2}and then it should get you creamy</b>
+<b>marshmallow fluff</b>
+
+384
+00:15:24,720 --> 00:15:26,480
+<b>{\an2}just like, chef's kiss!</b>
+
+385
+00:15:26,520 --> 00:15:30,040
+<b>{\an2}But bringing this mix to the</b>
+<b>right temperature is crucial.</b>
+
+386
+00:15:30,080 --> 00:15:33,520
+<b>{\an2}So this has to get to</b>
+<b>114 to 116 degrees C.</b>
+
+387
+00:15:33,560 --> 00:15:34,880
+<b>{\an2}Oh, hurry up!</b>
+
+388
+00:15:36,600 --> 00:15:40,400
+<b>{\an2}Too hot and their marshmallow</b>
+<b>will be tough and chewy.</b>
+
+389
+00:15:40,440 --> 00:15:43,200
+<b>{\an2}Too cold and it won't set.</b>
+
+390
+00:15:43,240 --> 00:15:44,680
+<b>{\an2}Here we go.</b>
+
+391
+00:15:44,720 --> 00:15:48,120
+<b>{\an2}So now that gets poured into</b>
+<b>the egg whites.</b>
+
+392
+00:15:48,160 --> 00:15:52,080
+<b>{\an2}And then gradually it will turn into</b>
+<b>a marshmallow fluff.</b>
+
+393
+00:15:52,120 --> 00:15:53,800
+<b>{\an2}And for those adding flavours...</b>
+
+394
+00:15:55,760 --> 00:15:58,000
+<b>{\an2}..there's an additional balance</b>
+<b>to be struck.</b>
+
+395
+00:15:58,040 --> 00:16:00,560
+<b>{\an2}Going with some extract into</b>
+<b>the marshmallow.</b>
+
+396
+00:16:00,600 --> 00:16:03,120
+<b>{\an2}Only, like, a cap.</b>
+<b>Extract can be quite offensive</b>
+
+397
+00:16:03,160 --> 00:16:04,680
+<b>{\an2}if you use too much of it.</b>
+
+398
+00:16:04,720 --> 00:16:06,920
+<b>{\an2}It was always going to be</b>
+<b>a couple of drops.</b>
+
+399
+00:16:06,960 --> 00:16:08,280
+<b>{\an2}But now I've spoke to the judges</b>
+
+400
+00:16:08,320 --> 00:16:10,720
+<b>{\an2}I think it's going to be maybe</b>
+<b>one drop, if that.</b>
+
+401
+00:16:10,760 --> 00:16:12,720
+<b>{\an2}Might just do lemon. Sod it.</b>
+
+402
+00:16:12,760 --> 00:16:15,920
+<b>{\an2}But while most have</b>
+<b>their marshmallows made, Keith...</b>
+
+403
+00:16:15,960 --> 00:16:17,120
+<b>{\an1}BLEEP</b>
+
+404
+00:16:17,160 --> 00:16:19,120
+<b>{\an2}..is struggling with</b>
+<b>his sugar syrup.</b>
+
+405
+00:16:19,160 --> 00:16:23,000
+<b>{\an2}It's taking a little bit longer</b>
+<b>than I expected for the, um,</b>
+
+406
+00:16:23,040 --> 00:16:25,720
+<b>{\an2}sugar to start to come up</b>
+<b>to temperature.</b>
+
+407
+00:16:25,760 --> 00:16:28,440
+<b>{\an2}I'm a little bit concerned about</b>
+<b>the time</b>
+
+408
+00:16:28,480 --> 00:16:30,120
+<b>{\an2}but we shall see.</b>
+
+409
+00:16:32,120 --> 00:16:35,080
+<b>{\an2}Bakers, you've got 30 minutes left.</b>
+
+410
+00:16:35,120 --> 00:16:38,080
+<b>{\an2}Time goes quick.</b>
+<b>That's gone really quick.</b>
+
+411
+00:16:38,120 --> 00:16:41,760
+<b>{\an2}Right. And that's as good</b>
+<b>as it will do for me.</b>
+
+412
+00:16:41,800 --> 00:16:44,440
+<b>{\an2}As Keith races to make</b>
+<b>his marshmallow...</b>
+
+413
+00:16:44,480 --> 00:16:46,720
+<b>{\an2}Right, we're ready.</b>
+
+414
+00:16:46,760 --> 00:16:49,120
+<b>{\an2}..the rest of the bakers have begun</b>
+<b>to build.</b>
+
+415
+00:16:49,160 --> 00:16:51,200
+<b>{\an2}Smells very Parma violety.</b>
+
+416
+00:16:51,240 --> 00:16:53,200
+<b>{\an2}I'm feeling stressed!</b>
+
+417
+00:16:53,240 --> 00:16:54,600
+<b>{\an2}But with so much marshmallow,</b>
+
+418
+00:16:54,640 --> 00:16:56,720
+<b>{\an2}it's essential</b>
+<b>the bakers' other elements</b>
+
+419
+00:16:56,760 --> 00:16:59,040
+<b>{\an2}are able to punch through</b>
+<b>the sweetness.</b>
+
+420
+00:16:59,080 --> 00:17:00,680
+<b>{\an2}Just putting the jam</b>
+
+421
+00:17:00,720 --> 00:17:03,600
+<b>{\an2}on top of the biscuits.</b>
+
+422
+00:17:03,640 --> 00:17:07,720
+<b>{\an2}Not too much. Just a wee layer</b>
+<b>that'll just sort of sit.</b>
+
+423
+00:17:07,760 --> 00:17:10,640
+<b>{\an2}And while many of the bakers</b>
+<b>are relying on moulds</b>
+
+424
+00:17:10,680 --> 00:17:12,640
+<b>{\an2}to achieve a flawless finish...</b>
+
+425
+00:17:12,680 --> 00:17:15,280
+<b>{\an2}So now it'll set in the fridge</b>
+<b>until I demould it.</b>
+
+426
+00:17:15,320 --> 00:17:17,920
+<b>{\an2}That's if I can get it demoulded.</b>
+
+427
+00:17:17,960 --> 00:17:21,080
+<b>{\an2}..others are preparing for</b>
+<b>a freehand finish.</b>
+
+428
+00:17:21,120 --> 00:17:24,080
+<b>{\an2}Oh, I'm going to have to get</b>
+<b>dipping. Time is against me now.</b>
+
+429
+00:17:24,120 --> 00:17:25,880
+<b>{\an2}I just have to go really quickly.</b>
+
+430
+00:17:25,920 --> 00:17:27,840
+<b>{\an2}Please work,</b>
+<b>please work, please work.</b>
+
+431
+00:17:29,640 --> 00:17:32,000
+<b>{\an2}Bakers, you have ten minutes left.</b>
+
+432
+00:17:32,040 --> 00:17:34,880
+<b>{\an2}I really wanted to take my time</b>
+<b>on this but... Whoopsy daisy!</b>
+
+433
+00:17:34,920 --> 00:17:38,120
+<b>{\an2}So now I can start</b>
+<b>doing the marshmallow.</b>
+
+434
+00:17:38,160 --> 00:17:40,520
+<b>{\an2}As Keith's biscuits finally</b>
+<b>start coming together,</b>
+
+435
+00:17:40,560 --> 00:17:43,240
+<b>{\an2}for the teacake contingent,</b>
+<b>it's time to demould.</b>
+
+436
+00:17:43,280 --> 00:17:44,920
+<b>{\an2}Moment of truth, here we go.</b>
+
+437
+00:17:44,960 --> 00:17:47,200
+<b>{\an2}Once they come out, they're done.</b>
+
+438
+00:17:47,240 --> 00:17:49,760
+<b>{\an2}But it's just getting them out</b>
+<b>that's the tricky bit.</b>
+
+439
+00:17:49,800 --> 00:17:52,120
+<b>{\an2}I mean, they're coming out</b>
+<b>and they're not snapping.</b>
+
+440
+00:17:52,160 --> 00:17:54,280
+<b>{\an2}I was expecting a breakage,</b>
+<b>with my luck today.</b>
+
+441
+00:17:54,320 --> 00:17:56,040
+<b>{\an2}Right, that one's broken.</b>
+
+442
+00:17:56,080 --> 00:17:58,320
+<b>{\an2}That was challenge, though,</b>
+<b>with this mould.</b>
+
+443
+00:17:58,360 --> 00:18:00,520
+<b>{\an2}I need to get the chocolate</b>
+<b>round the edges</b>
+
+444
+00:18:00,560 --> 00:18:03,040
+<b>{\an2}but you do have to be very delicate</b>
+
+445
+00:18:03,080 --> 00:18:06,360
+<b>{\an2}and delicacy's not really</b>
+<b>in my skill set.</b>
+
+446
+00:18:06,400 --> 00:18:10,400
+<b>{\an2}They're just so messy underneath.</b>
+<b>Going to trim round carefully.</b>
+
+447
+00:18:10,440 --> 00:18:12,840
+<b>{\an2}Gentle, gentle, gentle...</b>
+
+448
+00:18:12,880 --> 00:18:14,480
+<b>{\an2}I need to decorate the top...</b>
+
+449
+00:18:14,520 --> 00:18:15,840
+<b>{\an2}..as best I can.</b>
+
+450
+00:18:18,160 --> 00:18:20,160
+<b>{\an2}Yeah, just jazz it up a bit.</b>
+
+451
+00:18:20,200 --> 00:18:21,800
+<b>{\an2}I'll put some peanuts on.</b>
+
+452
+00:18:23,240 --> 00:18:25,800
+<b>{\an2}I can, like, hide a lot of stuff</b>
+<b>with glitter.</b>
+
+453
+00:18:25,840 --> 00:18:27,120
+<b>{\an2}That's what I'm hoping for!</b>
+
+454
+00:18:27,160 --> 00:18:30,600
+<b>{\an2}They're just sort of like dodgy</b>
+<b>alloy wheels from, like, the 1990s.</b>
+
+455
+00:18:30,640 --> 00:18:33,040
+<b>{\an2}Oh, they look messy!</b>
+
+456
+00:18:33,080 --> 00:18:35,480
+<b>{\an2}Ah, sorry, kangaroo.</b>
+<b>You're going to get a messy bum.</b>
+
+457
+00:18:36,880 --> 00:18:38,200
+<b>{\an2}Perfect!</b>
+
+458
+00:18:38,240 --> 00:18:42,000
+<b>{\an2}OK, bakers, your time is up.</b>
+
+459
+00:18:42,040 --> 00:18:44,600
+<b>{\an2}Please step away from</b>
+<b>your biscuits.</b>
+
+460
+00:18:44,640 --> 00:18:47,040
+<b>{\an2}We got 12. That's the main thing.</b>
+
+461
+00:18:47,080 --> 00:18:48,400
+<b>{\an2}God. That was stressful.</b>
+
+462
+00:18:49,920 --> 00:18:51,560
+<b>{\an2}They look beautiful. Thank you.</b>
+
+463
+00:18:53,640 --> 00:18:56,400
+<b>{\an8}Mine looks a bag of BLEEP</b>
+<b>compared to everybody else's.</b>
+
+464
+00:19:01,840 --> 00:19:04,680
+<b>{\an8}11 batches of marshmallow biscuits</b>
+
+465
+00:19:04,720 --> 00:19:07,920
+<b>{\an8}now face the judgment of</b>
+<b>Prue and Paul.</b>
+
+466
+00:19:10,120 --> 00:19:11,880
+<b>{\an8}PRUE: Did you drop three of them?</b>
+
+467
+00:19:11,920 --> 00:19:13,600
+<b>{\an2}Um, I don't know what</b>
+<b>you're on about, Prue!</b>
+
+468
+00:19:13,640 --> 00:19:14,640
+<b>{\an1}LAUGHTER</b>
+
+469
+00:19:14,680 --> 00:19:16,400
+<b>{\an2}There's nothing there,</b>
+<b>there's nothing to see!</b>
+
+470
+00:19:16,440 --> 00:19:18,720
+<b>{\an8}I mean, they look amazing</b>
+<b>bar these broken ones.</b>
+
+471
+00:19:18,760 --> 00:19:20,800
+<b>{\an2}Let's have a look</b>
+<b>and see what it's like inside.</b>
+
+472
+00:19:22,200 --> 00:19:24,640
+<b>{\an2}Thank you. It's a lovely interior.</b>
+<b>I think the balance</b>
+
+473
+00:19:24,680 --> 00:19:26,840
+<b>{\an2}between the marshmallow</b>
+<b>and the biscuit is good.</b>
+
+474
+00:19:28,280 --> 00:19:30,360
+<b>{\an2}Oh, it's delicious.</b>
+<b>Oh, thank you.</b>
+
+475
+00:19:30,400 --> 00:19:31,760
+<b>{\an2}Very spicy.</b>
+
+476
+00:19:31,800 --> 00:19:33,400
+<b>{\an2}The topping I like,</b>
+
+477
+00:19:33,440 --> 00:19:35,600
+<b>{\an2}but it's totally overwhelmed</b>
+<b>by the biscuit.</b>
+
+478
+00:19:35,640 --> 00:19:37,280
+<b>{\an2}It's so potent</b>
+
+479
+00:19:37,320 --> 00:19:39,240
+<b>{\an2}that a delicate thing like</b>
+<b>a marshmallow's</b>
+
+480
+00:19:39,280 --> 00:19:40,840
+<b>{\an2}never going to stand a chance.</b>
+<b>Mm-hm.</b>
+
+481
+00:19:40,880 --> 00:19:42,360
+<b>{\an2}Do you know, I don't really agree</b>
+
+482
+00:19:42,400 --> 00:19:46,000
+<b>{\an2}because, frankly, marshmallow</b>
+<b>deserves to be overridden. Mm-hm.</b>
+
+483
+00:19:46,040 --> 00:19:47,440
+<b>{\an2}I think it works beautifully.</b>
+
+484
+00:19:47,480 --> 00:19:49,800
+<b>{\an2}Thank you very much.</b>
+<b>That's OK. Thank you, thank you.</b>
+
+485
+00:19:55,040 --> 00:19:56,320
+<b>{\an2}OK, let's have a look.</b>
+
+486
+00:19:57,440 --> 00:19:59,720
+<b>{\an2}Oh, my goodness.</b>
+<b>That's neat as a pin, isn't it?</b>
+
+487
+00:20:01,280 --> 00:20:03,160
+<b>{\an2}Um, the Parma violet,</b>
+
+488
+00:20:03,200 --> 00:20:04,720
+<b>{\an2}I'm not getting too much of that,</b>
+
+489
+00:20:04,760 --> 00:20:06,720
+<b>{\an2}which for me is a good thing. OK.</b>
+
+490
+00:20:06,760 --> 00:20:08,640
+<b>{\an2}You do get that lemon</b>
+<b>coming through.</b>
+
+491
+00:20:08,680 --> 00:20:12,320
+<b>{\an2}So you end up with a pretty</b>
+<b>decent marshmallow biscuit.</b>
+
+492
+00:20:12,360 --> 00:20:14,560
+<b>{\an2}Do you know, I think it's amazing.</b>
+
+493
+00:20:14,600 --> 00:20:16,440
+<b>{\an2}I think you've got</b>
+<b>so many flavours in there</b>
+
+494
+00:20:16,480 --> 00:20:18,560
+<b>{\an2}but you get them one after another.</b>
+<b>It's perfect.</b>
+
+495
+00:20:18,600 --> 00:20:20,000
+<b>{\an2}Oh, thank you.</b>
+
+496
+00:20:20,040 --> 00:20:22,840
+<b>{\an2}Well done. I was so nervous.</b>
+<b>Thank you. Well done. Thank you.</b>
+
+497
+00:20:25,800 --> 00:20:26,880
+<b>{\an8}Very pretty.</b>
+
+498
+00:20:26,920 --> 00:20:28,280
+<b>{\an2}Yeah.</b>
+
+499
+00:20:28,320 --> 00:20:31,880
+<b>{\an2}I baked a pistachio and vanilla</b>
+<b>marshmallow biscuit.</b>
+
+500
+00:20:31,920 --> 00:20:33,880
+<b>{\an2}I think your flavours</b>
+<b>are really good.</b>
+
+501
+00:20:33,920 --> 00:20:37,680
+<b>{\an2}The jam comes through, the biscuit,</b>
+<b>you do get that pistachio flavour.</b>
+
+502
+00:20:37,720 --> 00:20:39,240
+<b>{\an2}My only comment would be</b>
+
+503
+00:20:39,280 --> 00:20:42,080
+<b>{\an2}the biscuit needed a little bit</b>
+<b>longer in the oven.</b>
+
+504
+00:20:42,120 --> 00:20:43,280
+<b>{\an2}Oh!</b>
+
+505
+00:20:46,480 --> 00:20:48,160
+<b>{\an8}You could've spun the chocolate</b>
+
+506
+00:20:48,200 --> 00:20:50,640
+<b>{\an2}a little bit neater than that,</b>
+<b>but I do like them.</b>
+
+507
+00:20:50,680 --> 00:20:52,040
+<b>{\an2}I think they do look pretty nice.</b>
+
+508
+00:20:52,080 --> 00:20:53,320
+<b>{\an2}Ooh. Oh, wow.</b>
+
+509
+00:20:53,360 --> 00:20:54,880
+<b>{\an2}Ooh, hello.</b>
+
+510
+00:20:54,920 --> 00:20:57,160
+<b>{\an2}I think your chocolate's</b>
+<b>a bit thick down at the bottom.</b>
+
+511
+00:20:57,200 --> 00:20:58,800
+<b>{\an2}That should've been paper thin.</b>
+
+512
+00:21:00,000 --> 00:21:02,280
+<b>{\an2}Your orange jam is delicious.</b>
+
+513
+00:21:02,320 --> 00:21:03,360
+<b>{\an2}Yeah.</b>
+
+514
+00:21:03,400 --> 00:21:06,280
+<b>{\an2}I think if, instead of putting</b>
+<b>a blob of jam in the middle,</b>
+
+515
+00:21:06,320 --> 00:21:08,040
+<b>{\an2}you'd put a layer of jam... Yeah.</b>
+
+516
+00:21:08,080 --> 00:21:10,400
+<b>{\an2}..then every mouthful</b>
+<b>would've been perfect.</b>
+
+517
+00:21:14,200 --> 00:21:15,880
+<b>{\an8}Well, they all look neat as a pin</b>
+
+518
+00:21:15,920 --> 00:21:17,440
+<b>{\an8}and they're certainly identical.</b>
+
+519
+00:21:17,480 --> 00:21:19,160
+<b>{\an2}Let's cut one of these open.</b>
+
+520
+00:21:21,600 --> 00:21:23,160
+<b>{\an2}Good crack on the chocolate.</b>
+
+521
+00:21:23,200 --> 00:21:25,600
+<b>{\an2}Looks lovely inside, Josh.</b>
+
+522
+00:21:25,640 --> 00:21:28,720
+<b>{\an2}Nice and thin.</b>
+<b>Chocolate's beautifully done.</b>
+
+523
+00:21:28,760 --> 00:21:32,000
+<b>{\an2}I like the balance between the</b>
+<b>sweet and the tartness...</b>
+
+524
+00:21:32,040 --> 00:21:33,440
+<b>{\an2}Yeah. ..which comes from the jam.</b>
+
+525
+00:21:33,480 --> 00:21:36,080
+<b>{\an2}You've got the nice fruits</b>
+<b>coming through in there.</b>
+
+526
+00:21:36,120 --> 00:21:37,840
+<b>{\an2}Pretty, pretty spot-on.</b>
+
+527
+00:21:41,240 --> 00:21:44,400
+<b>{\an2}Well, your roses worked, didn't</b>
+<b>they? Yeah, they did. Perfect.</b>
+
+528
+00:21:46,160 --> 00:21:48,160
+<b>{\an2}The rose flavour's definitely there.</b>
+
+529
+00:21:48,200 --> 00:21:50,040
+<b>{\an2}But I don't think it's too much.</b>
+
+530
+00:21:50,080 --> 00:21:51,560
+<b>{\an2}I think, yeah, I think you're right.</b>
+
+531
+00:21:51,600 --> 00:21:53,200
+<b>{\an2}I think the rose level</b>
+<b>is about right.</b>
+
+532
+00:21:53,240 --> 00:21:57,000
+<b>{\an2}The berry in there needed to be a</b>
+<b>little bit stronger and more of it,</b>
+
+533
+00:21:57,040 --> 00:21:59,600
+<b>{\an2}but I think it's very neat and</b>
+<b>I think you've done a decent job.</b>
+
+534
+00:22:02,400 --> 00:22:06,440
+<b>{\an8}They are a bit messy but I do think</b>
+<b>they're exciting and attractive.</b>
+
+535
+00:22:06,480 --> 00:22:08,240
+<b>{\an2}Yeah, they look like crowns,</b>
+<b>don't they?</b>
+
+536
+00:22:08,280 --> 00:22:10,040
+<b>{\an1}ABBI LAUGHS</b>
+
+537
+00:22:10,080 --> 00:22:11,920
+<b>{\an2}There's a lot of orange in there.</b>
+
+538
+00:22:11,960 --> 00:22:13,880
+<b>{\an2}Yes, I think probably</b>
+<b>a little bit too much.</b>
+
+539
+00:22:13,920 --> 00:22:15,320
+<b>{\an2}The biscuit is lovely and crispy</b>
+
+540
+00:22:15,360 --> 00:22:17,640
+<b>{\an2}but the orange is really punching.</b>
+
+541
+00:22:17,680 --> 00:22:21,800
+<b>{\an2}And be careful to allow yourself</b>
+<b>time to finish off your bakes...</b>
+
+542
+00:22:21,840 --> 00:22:24,000
+<b>{\an2}Yeah. ..with a little bit more</b>
+<b>finesse. Yeah.</b>
+
+543
+00:22:26,120 --> 00:22:28,040
+<b>{\an8}Well, at first glance</b>
+<b>they look pretty good.</b>
+
+544
+00:22:28,080 --> 00:22:30,520
+<b>{\an2}When you look a bit closer,</b>
+<b>they're a little bit messy.</b>
+
+545
+00:22:30,560 --> 00:22:33,560
+<b>{\an2}Interesting inside. I mean, you've</b>
+<b>got a lot going on in there</b>
+
+546
+00:22:33,600 --> 00:22:34,960
+<b>{\an2}when it comes to the layers.</b>
+
+547
+00:22:35,000 --> 00:22:38,600
+<b>{\an2}These are a peanut biscuit</b>
+<b>with white chocolate</b>
+
+548
+00:22:38,640 --> 00:22:41,280
+<b>{\an2}and peanut butter ganache</b>
+<b>and a banana marshmallow.</b>
+
+549
+00:22:41,320 --> 00:22:42,960
+<b>{\an2}I don't quite know what</b>
+<b>I think about that</b>
+
+550
+00:22:43,000 --> 00:22:45,440
+<b>{\an2}because I think technically</b>
+<b>it's perfect. Hmm.</b>
+
+551
+00:22:45,480 --> 00:22:47,760
+<b>{\an2}Maybe I don't quite share your</b>
+<b>four-year-old's tastes.</b>
+
+552
+00:22:47,800 --> 00:22:49,760
+<b>{\an2}Yeah, possibly so, yeah, yeah!</b>
+
+553
+00:22:49,800 --> 00:22:51,680
+<b>{\an2}Texture wise it's spot-on.</b>
+
+554
+00:22:51,720 --> 00:22:53,920
+<b>{\an2}And not a big thick layer</b>
+<b>of chocolate. Yeah.</b>
+
+555
+00:22:53,960 --> 00:22:55,720
+<b>{\an2}It's paper thin and that's how</b>
+<b>it should be.</b>
+
+556
+00:22:55,760 --> 00:22:57,480
+<b>{\an2}If you hadn't put the cartwheel on,</b>
+
+557
+00:22:57,520 --> 00:23:00,160
+<b>{\an2}they would've looked ten times</b>
+<b>better. Yeah. I know.</b>
+
+558
+00:23:06,160 --> 00:23:07,480
+<b>{\an8}Bit messy, aren't they?</b>
+
+559
+00:23:07,520 --> 00:23:10,120
+<b>{\an2}Well, I knew they weren't gonna be</b>
+
+560
+00:23:10,160 --> 00:23:12,200
+<b>{\an2}the most attractive offering</b>
+<b>in the tent.</b>
+
+561
+00:23:12,240 --> 00:23:14,840
+<b>{\an2}I, I wasn't planning on them being</b>
+<b>quite so messy.</b>
+
+562
+00:23:14,880 --> 00:23:16,920
+<b>{\an2}They're probably gonna</b>
+<b>taste amazing.</b>
+
+563
+00:23:16,960 --> 00:23:19,000
+<b>{\an2}Keith, you're looking really</b>
+<b>worried.</b>
+
+564
+00:23:22,960 --> 00:23:25,760
+<b>{\an2}Keith the truth is, it really</b>
+<b>is delicious.</b>
+
+565
+00:23:25,800 --> 00:23:27,800
+<b>{\an2}The, erm, marshmallow's holding</b>
+<b>its shape.</b>
+
+566
+00:23:27,840 --> 00:23:30,200
+<b>{\an2}The raspberry jam is terrific.</b>
+
+567
+00:23:30,240 --> 00:23:32,840
+<b>{\an2}This is the nicest,</b>
+<b>crispest biscuit.</b>
+
+568
+00:23:32,880 --> 00:23:34,840
+<b>{\an2}So is it ugly but nice?</b>
+
+569
+00:23:34,880 --> 00:23:36,760
+<b>{\an2}It's beauty and</b>
+<b>the beast, that's what it is.</b>
+
+570
+00:23:36,800 --> 00:23:39,240
+<b>{\an2}Beauty's on the inside.</b>
+<b>But look at it. I'll take that.</b>
+
+571
+00:23:39,280 --> 00:23:40,920
+<b>{\an2}Thank you very much, Keith.</b>
+<b>Cheers.</b>
+
+572
+00:23:45,200 --> 00:23:48,400
+<b>{\an8}So these are biscuit</b>
+<b>with ground pistachios,</b>
+
+573
+00:23:48,440 --> 00:23:52,160
+<b>{\an2}rhubarb and ginger jam</b>
+<b>and then chocolate on the top.</b>
+
+574
+00:23:52,200 --> 00:23:54,160
+<b>{\an2}Where's the, where's the ginger?</b>
+
+575
+00:23:54,200 --> 00:23:56,600
+<b>{\an2}The jam. It was, it was there.</b>
+<b>Where is it?</b>
+
+576
+00:23:56,640 --> 00:23:58,320
+<b>{\an2}I, I think it ran a wee bit.</b>
+
+577
+00:23:58,360 --> 00:24:00,400
+<b>{\an2}Well, it ran out</b>
+<b>the tent that's what it's done.</b>
+
+578
+00:24:00,440 --> 00:24:02,000
+<b>{\an2}There's nothing here. Never mind.</b>
+
+579
+00:24:02,040 --> 00:24:04,160
+<b>{\an2}He's trying to find some.</b>
+<b>Oh, stop it!</b>
+
+580
+00:24:04,200 --> 00:24:06,040
+<b>{\an2}ALISON: Oh, he's trying to see...</b>
+<b>Oh, no.</b>
+
+581
+00:24:07,320 --> 00:24:09,640
+<b>{\an2}No. There's gotta be some somewhere.</b>
+
+582
+00:24:09,680 --> 00:24:12,160
+<b>{\an2}There is.</b>
+<b>I just put a wee thin layer on.</b>
+
+583
+00:24:12,200 --> 00:24:14,840
+<b>{\an2}Why? Why? Because I didn't want it</b>
+<b>to overpower it.</b>
+
+584
+00:24:14,880 --> 00:24:17,040
+<b>{\an2}See, you've got a wee bit there.</b>
+
+585
+00:24:17,080 --> 00:24:19,480
+<b>{\an2}Oh, dearie me, never mind.</b>
+
+586
+00:24:19,520 --> 00:24:22,480
+<b>{\an2}It is, it is dearie me because</b>
+<b>otherwise it's nicely constructed.</b>
+
+587
+00:24:22,520 --> 00:24:25,160
+<b>{\an2}The biscuit is beautiful,</b>
+<b>the chocolate's nice and thin.</b>
+
+588
+00:24:25,200 --> 00:24:27,840
+<b>{\an2}You've done a good job</b>
+<b>but we needed the jam.</b>
+
+589
+00:24:35,400 --> 00:24:38,320
+<b>{\an2}Well, they look very sophisticated</b>
+<b>and beautifully piped</b>
+
+590
+00:24:38,360 --> 00:24:42,000
+<b>{\an2}and the spinning is just so thin</b>
+<b>and lovely.</b>
+
+591
+00:24:42,040 --> 00:24:44,440
+<b>{\an2}My instinct is that</b>
+<b>the biscuits are too thick.</b>
+
+592
+00:24:44,480 --> 00:24:46,600
+<b>{\an2}Because I think that's quite</b>
+<b>a mouthful.</b>
+
+593
+00:24:47,920 --> 00:24:51,200
+<b>{\an2}I think they're,</b>
+<b>the biscuit, you think it's thick</b>
+
+594
+00:24:51,240 --> 00:24:52,920
+<b>{\an8}but it's not because it crumbles</b>
+
+595
+00:24:52,960 --> 00:24:54,600
+<b>{\an8}and it's so delicate,</b>
+
+596
+00:24:54,640 --> 00:24:56,960
+<b>{\an8}and the chocolate comes through -</b>
+<b>not dark chocolate,</b>
+
+597
+00:24:57,000 --> 00:25:00,560
+<b>{\an8}but it has a beautiful malted</b>
+<b>aftertaste in the mouth.</b>
+
+598
+00:25:00,600 --> 00:25:02,200
+<b>{\an2}I think they're delicate,</b>
+
+599
+00:25:02,240 --> 00:25:03,840
+<b>{\an2}I think they're pretty and I have</b>
+<b>to...</b>
+
+600
+00:25:03,880 --> 00:25:06,440
+<b>{\an2}Oh, good for you.</b>
+<b>Yeah!</b>
+
+601
+00:25:07,840 --> 00:25:10,040
+<b>{\an2}Thank you. Ah. I tell you what,</b>
+
+602
+00:25:10,080 --> 00:25:13,800
+<b>{\an2}that pleases me as much as it</b>
+<b>pleases you.</b>
+
+603
+00:25:13,840 --> 00:25:16,880
+<b>{\an2}Ooh, that's a handshake. I'll have</b>
+<b>two of those. Thanks.</b>
+
+604
+00:25:24,200 --> 00:25:26,240
+<b>{\an2}I got a Hollywood handshake.</b>
+
+605
+00:25:28,080 --> 00:25:29,680
+<b>{\an2}I was not expecting that at all.</b>
+
+606
+00:25:31,280 --> 00:25:33,400
+<b>{\an2}Yes!</b>
+
+607
+00:25:33,440 --> 00:25:35,480
+<b>{\an2}I'm so proud.</b>
+
+608
+00:25:35,520 --> 00:25:38,840
+<b>{\an2}I don't think I could've got any</b>
+<b>better than that.</b>
+
+609
+00:25:38,880 --> 00:25:41,960
+<b>{\an2}Because the judges aren't blind,</b>
+
+610
+00:25:42,000 --> 00:25:45,800
+<b>{\an2}they could see that it looked</b>
+<b>like a flipping mess.</b>
+
+611
+00:25:45,840 --> 00:25:49,360
+<b>{\an2}You can't be worried about these</b>
+<b>things cos it's done.</b>
+
+612
+00:25:49,400 --> 00:25:52,280
+<b>{\an2}And I can't do anything about it.</b>
+
+613
+00:25:52,320 --> 00:25:55,480
+<b>{\an2}And so, yeah, you've just got</b>
+<b>to enjoy the moment,</b>
+
+614
+00:25:55,520 --> 00:25:59,280
+<b>{\an2}keep smiling cos that's what</b>
+<b>life's all about, isn't it?</b>
+
+615
+00:26:03,360 --> 00:26:06,760
+<b>{\an2}While the bakers could practise</b>
+<b>their marshmallow biscuits</b>
+
+616
+00:26:06,800 --> 00:26:09,400
+<b>{\an2}the next challenge is a mystery.</b>
+
+617
+00:26:09,440 --> 00:26:11,800
+<b>{\an2}Hello, bakers,</b>
+<b>welcome back to the tent.</b>
+
+618
+00:26:11,840 --> 00:26:15,040
+<b>{\an2}It's time for your Technical</b>
+<b>Challenge which today has been set</b>
+
+619
+00:26:15,080 --> 00:26:17,480
+<b>{\an2}for you by the lovely Prue.</b>
+<b>Any words of wisdom?</b>
+
+620
+00:26:17,520 --> 00:26:20,600
+<b>{\an2}I've only got one piece of advice</b>
+<b>for you guys,</b>
+
+621
+00:26:20,640 --> 00:26:23,800
+<b>{\an2}and that is use your time wisely.</b>
+
+622
+00:26:23,840 --> 00:26:28,400
+<b>{\an2}Now, as always, this challenge is</b>
+<b>gonna be judged blind</b>
+
+623
+00:26:28,440 --> 00:26:30,160
+<b>{\an2}so, guys, off you go.</b>
+
+624
+00:26:30,200 --> 00:26:32,080
+<b>{\an2}Off you pop and when we say go we</b>
+<b>mean go,</b>
+
+625
+00:26:32,120 --> 00:26:35,280
+<b>{\an2}don't skulk back pretending</b>
+<b>to look for your phone charger.</b>
+
+626
+00:26:35,320 --> 00:26:37,240
+<b>{\an2}OK, Prue would like you to make</b>
+
+627
+00:26:37,280 --> 00:26:42,800
+<b>{\an2}a batch of 12 perfectly baked</b>
+<b>custard creams.</b>
+
+628
+00:26:42,840 --> 00:26:44,600
+<b>{\an2}Your custard creams should be</b>
+
+629
+00:26:44,640 --> 00:26:47,400
+<b>{\an2}made with a short buttery biscuit</b>
+
+630
+00:26:47,440 --> 00:26:49,800
+<b>{\an2}and imprinted with that classic</b>
+<b>custard cream design</b>
+
+631
+00:26:49,840 --> 00:26:53,040
+<b>{\an2}and they should be filled with</b>
+<b>a custard buttercream.</b>
+
+632
+00:26:53,080 --> 00:26:56,760
+<b>{\an2}Sounds delicious. You've got one and</b>
+<b>a half hours for this.</b>
+
+633
+00:26:56,800 --> 00:26:59,480
+<b>{\an2}That does not sound long enough.</b>
+<b>On your marks.</b>
+
+634
+00:26:59,520 --> 00:27:00,920
+<b>{\an2}Get set. Bake!</b>
+
+635
+00:27:02,000 --> 00:27:03,200
+<b>{\an2}Oh, my gosh.</b>
+
+636
+00:27:03,240 --> 00:27:07,200
+<b>{\an2}I've never made custard creams.</b>
+<b>I've eaten them. But never made one.</b>
+
+637
+00:27:07,240 --> 00:27:09,880
+<b>{\an2}It's good because you know what they</b>
+<b>look and taste like.</b>
+
+638
+00:27:09,920 --> 00:27:12,480
+<b>{\an2}It's bad because you know what they</b>
+<b>look and taste like.</b>
+
+639
+00:27:12,520 --> 00:27:15,920
+<b>{\an2}Custard creams. I have no idea.</b>
+
+640
+00:27:15,960 --> 00:27:18,680
+<b>{\an2}I'm a huge fan of custard so I'm</b>
+<b>looking forward to all of this.</b>
+
+641
+00:27:18,720 --> 00:27:22,200
+<b>{\an2}Huge custard man, yeah. I'm from the</b>
+<b>North, mate, have it for breakfast.</b>
+
+642
+00:27:24,480 --> 00:27:27,600
+<b>{\an2}Custard creams, Prue, I think this</b>
+<b>is a great Technical Challenge.</b>
+
+643
+00:27:27,640 --> 00:27:29,360
+<b>{\an2}But do you think it's too simple?</b>
+
+644
+00:27:29,400 --> 00:27:32,920
+<b>{\an2}It's not that simple.</b>
+<b>It's actually easy to go wrong.</b>
+
+645
+00:27:32,960 --> 00:27:35,720
+<b>{\an2}I think the most common problem</b>
+<b>will be people not chilling their</b>
+
+646
+00:27:35,760 --> 00:27:37,360
+<b>{\an2}biscuit dough enough.</b>
+
+647
+00:27:37,400 --> 00:27:40,520
+<b>{\an2}It needs to go into the oven</b>
+<b>really, really cold.</b>
+
+648
+00:27:40,560 --> 00:27:42,200
+<b>{\an2}If it's a slightest bit warm,</b>
+
+649
+00:27:42,240 --> 00:27:45,200
+<b>{\an2}the butter will start to melt and</b>
+<b>you'll lose the definition</b>
+
+650
+00:27:45,240 --> 00:27:48,160
+<b>{\an2}and the shape and the next most</b>
+<b>common problem will be not getting</b>
+
+651
+00:27:48,200 --> 00:27:51,000
+<b>{\an2}the creme au beurre</b>
+<b>properly chilled.</b>
+
+652
+00:27:51,040 --> 00:27:53,040
+<b>{\an2}It's all about chilling and timing.</b>
+
+653
+00:27:53,080 --> 00:27:54,640
+<b>{\an2}Choose your, uh, biscuit Prue. Hmm.</b>
+
+654
+00:27:58,160 --> 00:28:00,440
+<b>{\an2}It holds together beautifully.</b>
+
+655
+00:28:00,480 --> 00:28:01,920
+<b>{\an2}Beautiful custard flavour.</b>
+
+656
+00:28:01,960 --> 00:28:04,760
+<b>{\an2}but there's a lovely snap to</b>
+<b>it as well in the mouth.</b>
+
+657
+00:28:04,800 --> 00:28:07,320
+<b>{\an2}I tell you what these</b>
+<b>taste a whole heap better</b>
+
+658
+00:28:07,360 --> 00:28:08,920
+<b>{\an2}than the ones in the packet.</b>
+
+659
+00:28:11,040 --> 00:28:14,080
+<b>{\an2}First instruction - make biscuit</b>
+<b>dough, chill in freezer.</b>
+
+660
+00:28:14,120 --> 00:28:17,960
+<b>{\an2}Just says make the biscuit dough.</b>
+<b>Which is really helpful.</b>
+
+661
+00:28:18,000 --> 00:28:19,320
+<b>{\an2}Thanks, Prue.</b>
+
+662
+00:28:19,360 --> 00:28:22,560
+<b>{\an2}I actually looked up a custard</b>
+<b>cream recipe last night. Shh.</b>
+
+663
+00:28:22,600 --> 00:28:26,200
+<b>{\an2}You cream together your butter</b>
+<b>and sugar and then add in your egg</b>
+
+664
+00:28:26,240 --> 00:28:28,320
+<b>{\an2}and then you add in your flour</b>
+
+665
+00:28:28,360 --> 00:28:31,040
+<b>{\an2}and then I've put the custard</b>
+<b>powder in with the flour.</b>
+
+666
+00:28:31,080 --> 00:28:32,840
+<b>{\an2}Hey, Dana. Hi, Alison.</b>
+
+667
+00:28:32,880 --> 00:28:34,320
+<b>{\an2}You look like you're ahead.</b>
+
+668
+00:28:34,360 --> 00:28:36,440
+<b>{\an2}Oh, don't say that.</b>
+<b>You're doing good.</b>
+
+669
+00:28:36,480 --> 00:28:39,400
+<b>{\an2}Cos that's how it was last week and</b>
+<b>I came last, didn't I? But, erm...</b>
+
+670
+00:28:39,440 --> 00:28:42,040
+<b>{\an2}Well, no, listen, don't</b>
+<b>put no pressure on yourself.</b>
+
+671
+00:28:42,080 --> 00:28:43,480
+<b>{\an2}Yeah. Have you done this before?</b>
+
+672
+00:28:43,520 --> 00:28:46,320
+<b>{\an2}No. It's just biscuit, isn't it?</b>
+<b>It's just, just biscuit.</b>
+
+673
+00:28:46,360 --> 00:28:49,280
+<b>{\an2}It's just biscuit. It's not</b>
+<b>just biscuit, it's a custard cream.</b>
+
+674
+00:28:49,320 --> 00:28:51,680
+<b>{\an2}Get it</b>
+<b>straight in the freezer.</b>
+
+675
+00:28:51,720 --> 00:28:54,920
+<b>{\an2}I get the impression from how Prue</b>
+<b>was describing it that you</b>
+
+676
+00:28:54,960 --> 00:28:57,400
+<b>{\an2}haven't got a great</b>
+<b>deal of time to mess around.</b>
+
+677
+00:28:57,440 --> 00:28:59,760
+<b>{\an2}Whole thing about this</b>
+<b>is freezing</b>
+
+678
+00:28:59,800 --> 00:29:02,040
+<b>{\an2}cos you've got a stamp</b>
+<b>and you wanna be able to stamp it</b>
+
+679
+00:29:02,080 --> 00:29:04,520
+<b>{\an2}and see it, don't you? Cos</b>
+<b>if you don't, what's the point?</b>
+
+680
+00:29:04,560 --> 00:29:06,240
+<b>{\an2}It's not a custard cream.</b>
+
+681
+00:29:06,280 --> 00:29:09,200
+<b>{\an2}It's kind of amazing.</b>
+<b>I know I'd love that. Did you know</b>
+<b>that existed until today? No.</b>
+
+682
+00:29:09,240 --> 00:29:11,000
+<b>{\an2}It, it's brilliant. No, me neither.</b>
+
+683
+00:29:11,040 --> 00:29:15,680
+<b>{\an2}It's almost like a game.</b>
+<b>Where we've got to be the quickest</b>
+<b>to the button.</b>
+
+684
+00:29:15,720 --> 00:29:18,040
+<b>{\an2}To the buzzer? Yeah.</b>
+
+685
+00:29:18,080 --> 00:29:20,720
+<b>{\an2}Who's got the baking? Paul or Prue?</b>
+
+686
+00:29:20,760 --> 00:29:22,680
+<b>{\an2}Paul.</b>
+
+687
+00:29:22,720 --> 00:29:25,560
+<b>{\an2}Who's gonna win the Bake Off</b>
+<b>this year? Don't... Keith.</b>
+
+688
+00:29:29,120 --> 00:29:33,040
+<b>{\an2}So step number two is for the</b>
+<b>custard buttercream, make</b>
+
+689
+00:29:33,080 --> 00:29:35,560
+<b>{\an2}a sugar syrup in a small pan</b>
+<b>and boil to 121 Celsius.</b>
+
+690
+00:29:35,600 --> 00:29:38,760
+<b>{\an2}Oh, it's getting very</b>
+<b>technical now.</b>
+
+691
+00:29:38,800 --> 00:29:40,080
+<b>{\an2}Dissolve.</b>
+
+692
+00:29:40,120 --> 00:29:42,200
+<b>{\an2}It's made like a French</b>
+<b>meringue buttercream</b>
+
+693
+00:29:42,240 --> 00:29:44,240
+<b>{\an2}and I have made one already.</b>
+<b>So I know what I'm doing.</b>
+
+694
+00:29:44,280 --> 00:29:46,880
+<b>{\an2}So this is gonna heat up and then</b>
+<b>I'm gonna pour it into my egg</b>
+
+695
+00:29:46,920 --> 00:29:49,400
+<b>{\an2}yolks and whisk it</b>
+<b>until they're really big and fluffy.</b>
+
+696
+00:29:49,440 --> 00:29:52,720
+<b>{\an2}Well, we've just zoomed past 121 so</b>
+<b>I'll just leave it there for a sec.</b>
+
+697
+00:29:52,760 --> 00:29:54,600
+<b>{\an2}It's fine.</b>
+
+698
+00:29:55,680 --> 00:29:58,200
+<b>{\an2}I've just</b>
+<b>got this to 121 degrees.</b>
+
+699
+00:29:58,240 --> 00:30:01,080
+<b>{\an2}And I shall be plonking it in here</b>
+<b>now with the egg yolks.</b>
+
+700
+00:30:01,120 --> 00:30:03,480
+<b>{\an2}I know you've gotta do</b>
+<b>this really slowly.</b>
+
+701
+00:30:03,520 --> 00:30:05,400
+<b>{\an2}If you chuck it all in it</b>
+<b>will like split.</b>
+
+702
+00:30:07,160 --> 00:30:08,880
+<b>{\an2}The eggs haven't whisked up,</b>
+
+703
+00:30:08,920 --> 00:30:12,520
+<b>{\an2}the buttercream has all gone to pot</b>
+<b>and I need to start again.</b>
+
+704
+00:30:15,000 --> 00:30:17,640
+<b>{\an2}So it's getting nice</b>
+<b>and thick. Which is what we want.</b>
+
+705
+00:30:17,680 --> 00:30:19,920
+<b>{\an2}Sieve custard powder then</b>
+<b>whisk again.</b>
+
+706
+00:30:19,960 --> 00:30:24,360
+<b>{\an2}Get as much of that as possible.</b>
+<b>And give it another whisk.</b>
+
+707
+00:30:26,080 --> 00:30:30,000
+<b>{\an2}The buttercream's looking better.</b>
+<b>I'm still a lot behind though.</b>
+
+708
+00:30:32,200 --> 00:30:35,600
+<b>{\an2}When ready, whisk the butter into</b>
+<b>the buttercream.</b>
+
+709
+00:30:35,640 --> 00:30:37,360
+<b>{\an2}And once you incorporate</b>
+<b>the butter into it,</b>
+
+710
+00:30:37,400 --> 00:30:39,720
+<b>{\an2}it will obviously increase in</b>
+<b>volume, thicken up.</b>
+
+711
+00:30:39,760 --> 00:30:42,160
+<b>{\an2}I'm just gonna keep on whisking it</b>
+<b>and then it gets nice and fluffy.</b>
+
+712
+00:30:42,200 --> 00:30:44,600
+<b>{\an2}If it's too loose it's just gonna</b>
+<b>splodge out the side everywhere.</b>
+
+713
+00:30:44,640 --> 00:30:46,160
+<b>{\an2}Plaafff, it's never good.</b>
+
+714
+00:30:46,200 --> 00:30:47,600
+<b>{\an2}This is pretty terrible.</b>
+
+715
+00:30:47,640 --> 00:30:51,560
+<b>{\an2}I can see flecks of yellow but I</b>
+<b>can't get it to whisk any more.</b>
+
+716
+00:30:51,600 --> 00:30:54,080
+<b>{\an2}I'm not sure about</b>
+<b>the consistency...</b>
+
+717
+00:30:55,120 --> 00:30:57,280
+<b>{\an2}..but I will go with this.</b>
+
+718
+00:30:58,920 --> 00:31:03,080
+<b>{\an2}Right, roll out the biscuit dough</b>
+<b>and chill in the freezer.</b>
+
+719
+00:31:03,120 --> 00:31:05,960
+<b>{\an2}It's a lot of chilling.</b>
+<b>We need to make 12.</b>
+
+720
+00:31:06,000 --> 00:31:09,600
+<b>{\an2}That is 24 biscuits.</b>
+<b>So it needs to be thin.</b>
+
+721
+00:31:09,640 --> 00:31:13,360
+<b>{\an2}Custard creams,</b>
+<b>about three mil thick, I reckon.</b>
+
+722
+00:31:13,400 --> 00:31:16,800
+<b>{\an2}We're rolling, it's looking all</b>
+<b>right, yeah, the dough's nice.</b>
+
+723
+00:31:18,160 --> 00:31:21,680
+<b>{\an2}Cristy.</b>
+<b>Have you used my biscuit dough?</b>
+
+724
+00:31:23,200 --> 00:31:25,760
+<b>{\an2}You have.</b>
+<b>Oh, my God, I'm so sorry.</b>
+
+725
+00:31:25,800 --> 00:31:27,320
+<b>{\an2}That's my biscuit dough.</b>
+
+726
+00:31:27,360 --> 00:31:29,160
+<b>{\an2}Ah!</b>
+
+727
+00:31:29,200 --> 00:31:32,480
+<b>{\an2}Rowan! Ah, there you go.</b>
+<b>I'm so sorry, Rowan.</b>
+
+728
+00:31:32,520 --> 00:31:33,840
+<b>{\an2}No, it's fine. I thought...</b>
+
+729
+00:31:33,880 --> 00:31:36,320
+<b>{\an2}Are you swapping dough, you kids?</b>
+
+730
+00:31:36,360 --> 00:31:38,280
+<b>{\an2}Rowan, what really happened?</b>
+
+731
+00:31:38,320 --> 00:31:39,400
+<b>{\an2}I found my dough missing.</b>
+
+732
+00:31:39,440 --> 00:31:41,920
+<b>{\an2}Sabotage? Sabotage, no.</b>
+<b>Cristy, you've done a great job.</b>
+
+733
+00:31:41,960 --> 00:31:44,640
+<b>{\an2}Do you feel like you rolled his out</b>
+<b>better than you're doing yours?</b>
+
+734
+00:31:44,680 --> 00:31:46,680
+<b>{\an2}Yeah, for sure.</b>
+<b>Oh, no, what's going on here?</b>
+
+735
+00:31:46,720 --> 00:31:47,760
+<b>{\an2}Don't.</b>
+
+736
+00:31:47,800 --> 00:31:51,760
+<b>{\an2}Feel like this is a bit sticky.</b>
+<b>Need a bit more of this. Sorry.</b>
+
+737
+00:31:51,800 --> 00:31:55,240
+<b>{\an2}Before their dough is ready</b>
+<b>to be cut and stamped...</b>
+
+738
+00:31:55,280 --> 00:31:57,240
+<b>{\an2}I think that'll do.</b>
+
+739
+00:31:57,280 --> 00:31:59,320
+<b>{\an2}..it must be chilled thoroughly.</b>
+
+740
+00:31:59,360 --> 00:32:01,840
+<b>{\an2}The longer it chills</b>
+<b>the better definition it'll be</b>
+
+741
+00:32:01,880 --> 00:32:04,240
+<b>{\an2}but the less time it will have</b>
+<b>to bake and then cool down.</b>
+
+742
+00:32:04,280 --> 00:32:06,320
+<b>{\an2}But it's a process that</b>
+<b>can't be rushed.</b>
+
+743
+00:32:06,360 --> 00:32:11,400
+<b>{\an2}It's not working. Sticking.</b>
+<b>More time in the fridge.</b>
+
+744
+00:32:11,440 --> 00:32:15,960
+<b>{\an2}You've got 45 minutes left,</b>
+<b>everyone, 45 minutes.</b>
+
+745
+00:32:18,360 --> 00:32:20,680
+<b>{\an2}Please be ready, please be ready,</b>
+<b>please be ready.</b>
+
+746
+00:32:20,720 --> 00:32:21,960
+<b>{\an2}So I'm hoping these are set</b>
+
+747
+00:32:22,000 --> 00:32:24,400
+<b>{\an2}and they'll push out of this mould</b>
+
+748
+00:32:24,440 --> 00:32:28,000
+<b>{\an2}but we're gonna find out in</b>
+<b>a moment, aren't we? Stamp.</b>
+
+749
+00:32:28,040 --> 00:32:30,120
+<b>{\an2}I don't know how hard to push.</b>
+
+750
+00:32:30,160 --> 00:32:33,120
+<b>{\an2}Am I gonna go all the way through?</b>
+<b>See, look, it's getting stuck.</b>
+
+751
+00:32:33,160 --> 00:32:35,360
+<b>{\an2}Is this happening for other people?</b>
+
+752
+00:32:35,400 --> 00:32:37,440
+<b>{\an2}I'm probably doing it wrong.</b>
+
+753
+00:32:37,480 --> 00:32:39,840
+<b>{\an2}Give it a bit of welly.</b>
+
+754
+00:32:39,880 --> 00:32:41,680
+<b>{\an2}Yeah, looks all right.</b>
+
+755
+00:32:41,720 --> 00:32:45,240
+<b>{\an2}Come on, out you come.</b>
+<b>It is a pretty little pattern.</b>
+
+756
+00:32:45,280 --> 00:32:46,680
+<b>{\an2}It's quite sweet, I think.</b>
+
+757
+00:32:46,720 --> 00:32:49,040
+<b>{\an2}It's not a uniform custard cream</b>
+<b>but she's the first,</b>
+
+758
+00:32:49,080 --> 00:32:50,800
+<b>{\an2}it's like the first pancake.</b>
+
+759
+00:32:50,840 --> 00:32:54,280
+<b>{\an2}It's always the worst one</b>
+<b>but we go uphill from here.</b>
+
+760
+00:32:54,320 --> 00:32:57,640
+<b>{\an2}They're not looking too bad at</b>
+<b>the moment.</b>
+
+761
+00:32:57,680 --> 00:32:59,520
+<b>{\an2}Can I press the button?</b>
+
+762
+00:32:59,560 --> 00:33:00,920
+<b>{\an2}You can do.</b>
+
+763
+00:33:00,960 --> 00:33:02,680
+<b>{\an2}Hey, presto.</b>
+
+764
+00:33:02,720 --> 00:33:03,960
+<b>{\an2}So I'm gonna go as far</b>
+
+765
+00:33:04,000 --> 00:33:05,720
+<b>{\an2}and say that was the best one.</b>
+
+766
+00:33:05,760 --> 00:33:07,320
+<b>{\an2}Some of us have just got the touch.</b>
+
+767
+00:33:07,360 --> 00:33:10,240
+<b>{\an2}You do. It won't stop sticking</b>
+<b>so it's go back in the freezer</b>
+
+768
+00:33:10,280 --> 00:33:12,400
+<b>{\an2}with a layer of flour.</b>
+
+769
+00:33:12,440 --> 00:33:15,840
+<b>{\an2}Nightmare, aren't they? After you.</b>
+<b>Thank you.</b>
+
+770
+00:33:15,880 --> 00:33:19,800
+<b>{\an2}It's sticking to the... Agh!</b>
+<b>..cutter.</b>
+
+771
+00:33:19,840 --> 00:33:22,280
+<b>{\an2}Ah, not at all neat.</b>
+
+772
+00:33:22,320 --> 00:33:25,840
+<b>{\an2}I'm very concerned about this.</b>
+
+773
+00:33:25,880 --> 00:33:29,840
+<b>{\an2}This dough has gone too soft</b>
+<b>to manipulate. Freezer.</b>
+
+774
+00:33:29,880 --> 00:33:32,640
+<b>{\an2}Bakers, you've got half</b>
+<b>an hour left.</b>
+
+775
+00:33:32,680 --> 00:33:34,760
+<b>{\an2}Ah. Running out of time.</b>
+
+776
+00:33:34,800 --> 00:33:39,480
+<b>{\an2}That's not very long.</b>
+<b>I need to get mine in the oven.</b>
+
+777
+00:33:39,520 --> 00:33:42,960
+<b>{\an2}It just says bake.</b>
+<b>13 to start with.</b>
+
+778
+00:33:43,000 --> 00:33:44,840
+<b>{\an2}Eight minutes.</b>
+
+779
+00:33:44,880 --> 00:33:46,840
+<b>{\an2}So I'm gonna go</b>
+<b>for about 12 minutes.</b>
+
+780
+00:33:46,880 --> 00:33:48,840
+<b>{\an2}They're quite pale, aren't they?</b>
+
+781
+00:33:48,880 --> 00:33:50,840
+<b>{\an2}Quite insipid actually, like me in</b>
+<b>the winter.</b>
+
+782
+00:33:52,160 --> 00:33:54,120
+<b>{\an2}Come on, custard cream.</b>
+
+783
+00:33:54,160 --> 00:33:56,120
+<b>{\an2}Abbi, get a bit closer.</b>
+
+784
+00:33:57,680 --> 00:33:59,120
+<b>{\an2}It's already melting.</b>
+
+785
+00:33:59,160 --> 00:34:00,880
+<b>{\an2}I think the design's just gonna</b>
+<b>be lost.</b>
+
+786
+00:34:00,920 --> 00:34:03,040
+<b>{\an2}I didn't chill them long enough,</b>
+<b>I know I didn't.</b>
+
+787
+00:34:04,360 --> 00:34:06,960
+<b>{\an2}So I've put a batch of 12 in.</b>
+
+788
+00:34:07,000 --> 00:34:09,680
+<b>{\an2}It's gonna be tough to go again.</b>
+
+789
+00:34:09,720 --> 00:34:11,520
+<b>{\an2}I had timing issues this morning.</b>
+
+790
+00:34:11,560 --> 00:34:14,680
+<b>{\an2}Bakers, you've got ten minutes left,</b>
+<b>ten minutes.</b>
+
+791
+00:34:14,720 --> 00:34:16,680
+<b>{\an2}I don't know when they're gonna</b>
+<b>be ready.</b>
+
+792
+00:34:16,720 --> 00:34:18,960
+<b>{\an2}Oh, I don't know, I don't know.</b>
+<b>It's hard to call, isn't it?</b>
+
+793
+00:34:19,000 --> 00:34:21,680
+<b>{\an2}As soon as I start seeing</b>
+<b>them getting brown then they're</b>
+<b>coming out.</b>
+
+794
+00:34:21,720 --> 00:34:22,720
+<b>{\an2}I love a custard cream</b>
+
+795
+00:34:22,760 --> 00:34:25,760
+<b>{\an2}and I'm gonna be mentally scarred by</b>
+<b>them now, aren't I, forever?</b>
+
+796
+00:34:25,800 --> 00:34:28,000
+<b>{\an2}I'm never gonna be able</b>
+<b>to eat one again, am I?</b>
+
+797
+00:34:28,040 --> 00:34:30,320
+<b>{\an2}I'm coming out.</b>
+<b>Mine look a bit ropey.</b>
+
+798
+00:34:30,360 --> 00:34:31,680
+<b>{\an2}But they're coming out whatever.</b>
+
+799
+00:34:31,720 --> 00:34:35,200
+<b>{\an2}They're looking all right</b>
+<b>I think actually, yeah. Looking</b>
+<b>custard cream-ish.</b>
+
+800
+00:34:35,240 --> 00:34:36,600
+<b>{\an2}That one's nice.</b>
+
+801
+00:34:36,640 --> 00:34:37,680
+<b>{\an2}This one's gonna be a top.</b>
+
+802
+00:34:37,720 --> 00:34:40,360
+<b>{\an2}This one's gonna be a bottom.</b>
+<b>I'm a man with a plan.</b>
+
+803
+00:34:40,400 --> 00:34:43,000
+<b>{\an2}I'm gonna take these out cos</b>
+<b>they've gotta cool down.</b>
+
+804
+00:34:43,040 --> 00:34:44,800
+<b>{\an2}I will put it in the freezer.</b>
+
+805
+00:34:44,840 --> 00:34:46,360
+<b>{\an2}Ah...</b>
+
+806
+00:34:49,800 --> 00:34:51,480
+<b>{\an2}I dropped.</b>
+
+807
+00:34:51,520 --> 00:34:55,040
+<b>{\an2}Rowan, what you doing? I'm warming</b>
+<b>my cream. Rowan.</b>
+
+808
+00:34:57,720 --> 00:34:59,920
+<b>{\an2}I don't think my buttercream's as</b>
+<b>nice as I would like.</b>
+
+809
+00:34:59,960 --> 00:35:03,440
+<b>{\an2}I've probably overfilled them</b>
+<b>but it doesn't matter.</b>
+
+810
+00:35:03,480 --> 00:35:07,000
+<b>{\an2}I'm shaking. This is ridiculous.</b>
+<b>I can't do it.</b>
+
+811
+00:35:07,040 --> 00:35:08,880
+<b>{\an2}Bakers, you've got one minute left.</b>
+
+812
+00:35:08,920 --> 00:35:12,800
+<b>{\an2}If I can't get 12 out at least</b>
+<b>I'm-a get six out.</b>
+
+813
+00:35:12,840 --> 00:35:14,520
+<b>{\an2}I don't know what they're gonna say.</b>
+
+814
+00:35:14,560 --> 00:35:16,640
+<b>{\an2}They don't look perfect to me.</b>
+
+815
+00:35:16,680 --> 00:35:18,400
+<b>{\an2}So ugly.</b>
+
+816
+00:35:19,800 --> 00:35:21,920
+<b>{\an2}OK, bakers, your time is up.</b>
+
+817
+00:35:21,960 --> 00:35:24,120
+<b>{\an2}Please come and bring your bakes</b>
+
+818
+00:35:24,160 --> 00:35:27,240
+<b>{\an2}and place them behind your</b>
+<b>beautiful photos.</b>
+
+819
+00:35:27,280 --> 00:35:30,640
+<b>{\an2}They are so ugly.</b>
+<b>They look absolutely...</b>
+
+820
+00:35:31,960 --> 00:35:34,120
+<b>{\an8}..rubbish.</b>
+<b>I've got custard on my trainers.</b>
+
+821
+00:35:34,160 --> 00:35:36,840
+<b>{\an2}On your meggings? On my megging?</b>
+
+822
+00:35:36,880 --> 00:35:38,920
+<b>{\an8}Yeah. What's that?</b>
+<b>Your megging, trainers.</b>
+
+823
+00:35:42,000 --> 00:35:44,960
+<b>{\an2}OK, bakers, let's welcome back</b>
+<b>our judges.</b>
+
+824
+00:35:45,000 --> 00:35:46,520
+<b>{\an2}We missed you guys.</b>
+
+825
+00:35:46,560 --> 00:35:49,600
+<b>{\an2}Paul and Prue are looking</b>
+<b>for 12 identical custard creams</b>
+
+826
+00:35:49,640 --> 00:35:52,400
+<b>{\an2}with their iconic pattern well</b>
+<b>defined and filled</b>
+
+827
+00:35:52,440 --> 00:35:54,440
+<b>{\an2}with a smooth custard buttercream</b>
+
+828
+00:35:54,480 --> 00:35:57,080
+<b>{\an2}and they have no idea</b>
+<b>whose are whose.</b>
+
+829
+00:35:57,120 --> 00:36:00,720
+<b>{\an2}Not very easy, but you seem</b>
+<b>to have more or less managed it.</b>
+
+830
+00:36:00,760 --> 00:36:01,760
+<b>{\an2}More or less!</b>
+
+831
+00:36:03,480 --> 00:36:05,280
+<b>{\an2}Shall we start over here, Prue?</b>
+
+832
+00:36:05,320 --> 00:36:07,360
+<b>{\an2}They look a bit pale,</b>
+<b>is my first thought.</b>
+
+833
+00:36:07,400 --> 00:36:08,800
+<b>{\an2}They do look a bit pale.</b>
+
+834
+00:36:08,840 --> 00:36:11,520
+<b>{\an2}There is a bit of definition</b>
+<b>there... Yes, it's good.</b>
+
+835
+00:36:11,560 --> 00:36:12,800
+<b>{\an2}..and they are pretty neat.</b>
+
+836
+00:36:12,840 --> 00:36:14,280
+<b>{\an2}And they're not overfilled.</b>
+
+837
+00:36:14,320 --> 00:36:15,360
+<b>{\an2}Nice snap.</b>
+
+838
+00:36:17,760 --> 00:36:20,480
+<b>{\an2}That biscuit just needs</b>
+<b>a bit longer in the oven.</b>
+
+839
+00:36:20,520 --> 00:36:22,480
+<b>{\an2}It's got a slightly floury taste.</b>
+
+840
+00:36:23,800 --> 00:36:24,920
+<b>{\an2}Moving on to number two.</b>
+
+841
+00:36:24,960 --> 00:36:26,880
+<b>{\an2}Now these lost a little bit of</b>
+<b>definition here.</b>
+
+842
+00:36:26,920 --> 00:36:30,120
+<b>{\an2}The filling inside is a bit sparse.</b>
+
+843
+00:36:30,160 --> 00:36:33,160
+<b>{\an2}Also it's not quite set. Mm-hm.</b>
+
+844
+00:36:33,200 --> 00:36:35,880
+<b>{\an2}Still very soft.</b>
+<b>And so's the biscuit actually.</b>
+
+845
+00:36:35,920 --> 00:36:37,240
+<b>{\an2}Not much snap to that.</b>
+
+846
+00:36:37,280 --> 00:36:40,840
+<b>{\an2}Again, I think it needs a little</b>
+<b>longer in the oven. Yeah, it does.</b>
+
+847
+00:36:40,880 --> 00:36:43,880
+<b>{\an2}This one unfortunately</b>
+<b>has very little definition.</b>
+
+848
+00:36:43,920 --> 00:36:46,360
+<b>{\an2}You can't read "custard cream"</b>
+<b>on it. Yeah.</b>
+
+849
+00:36:46,400 --> 00:36:49,320
+<b>{\an2}Well, filled though.</b>
+<b>Difference in thickness and thin.</b>
+
+850
+00:36:49,360 --> 00:36:52,440
+<b>{\an2}They're just not rolled enough</b>
+<b>because the dough was quite soft.</b>
+
+851
+00:36:55,040 --> 00:36:57,040
+<b>{\an2}The custard is</b>
+<b>better than the biscuit.</b>
+
+852
+00:36:57,080 --> 00:36:58,760
+<b>{\an2}Yeah, it is.</b>
+
+853
+00:36:58,800 --> 00:37:01,280
+<b>{\an2}This has got a bit of colour</b>
+<b>to it, which I quite like.</b>
+
+854
+00:37:01,320 --> 00:37:03,920
+<b>{\an2}We expect a little bit more</b>
+<b>definition, but it's not bad.</b>
+
+855
+00:37:03,960 --> 00:37:06,640
+<b>{\an2}The piping's pretty good. Yeah.</b>
+<b>Mm-mm.</b>
+
+856
+00:37:07,760 --> 00:37:09,440
+<b>{\an2}And tastes properly baked. Mm-hm.</b>
+
+857
+00:37:10,600 --> 00:37:14,120
+<b>{\an2}Moving on. Lovely colour,</b>
+<b>pretty even on the top and bottom.</b>
+
+858
+00:37:14,160 --> 00:37:17,280
+<b>{\an2}Very, very good. Well filled.</b>
+<b>Mm-hm.</b>
+
+859
+00:37:17,320 --> 00:37:19,360
+<b>{\an2}Needed a little bit longer</b>
+<b>in the oven.</b>
+
+860
+00:37:19,400 --> 00:37:21,360
+<b>{\an2}It's a pity because,</b>
+<b>apart from that,</b>
+
+861
+00:37:21,400 --> 00:37:25,080
+<b>{\an2}I would've said that's pretty</b>
+<b>faultless. They look wonderful.</b>
+
+862
+00:37:25,120 --> 00:37:27,360
+<b>{\an2}Now, this one's got a little bit</b>
+<b>more colour on it.</b>
+
+863
+00:37:27,400 --> 00:37:29,160
+<b>{\an2}There's a bit of definition here,</b>
+
+864
+00:37:29,200 --> 00:37:31,880
+<b>{\an2}although it's washed out on</b>
+<b>a few of them. Well filled.</b>
+
+865
+00:37:33,400 --> 00:37:36,240
+<b>{\an2}The custard comes through really</b>
+<b>nicely in it. Good flavour.</b>
+
+866
+00:37:36,280 --> 00:37:40,000
+<b>{\an2}Same old problem.</b>
+<b>A little bit underbaked.</b>
+
+867
+00:37:40,040 --> 00:37:41,440
+<b>{\an1}THUNDER RUMBLES</b>
+
+868
+00:37:41,480 --> 00:37:43,400
+<b>{\an2}Lost a bit of definition in places.</b>
+
+869
+00:37:43,440 --> 00:37:46,040
+<b>{\an2}Yeah, and a little unevenly filled.</b>
+<b>Yeah.</b>
+
+870
+00:37:48,200 --> 00:37:50,440
+<b>{\an2}There is actually a little bit</b>
+<b>of a crunch to that.</b>
+
+871
+00:37:50,480 --> 00:37:52,680
+<b>{\an2}It's not bad, but it's a</b>
+<b>bit...thick.</b>
+
+872
+00:37:53,840 --> 00:37:55,560
+<b>{\an2}This one, a lot of them,</b>
+<b>are misshapen.</b>
+
+873
+00:37:55,600 --> 00:37:57,920
+<b>{\an2}That one's thin at one end</b>
+<b>and fat at the other.</b>
+
+874
+00:37:57,960 --> 00:38:00,520
+<b>{\an2}That one there's got no definition</b>
+<b>on it at all.</b>
+
+875
+00:38:00,560 --> 00:38:02,480
+<b>{\an2}That custard actually curdled.</b>
+
+876
+00:38:03,640 --> 00:38:05,240
+<b>{\an2}It's a shame.</b>
+
+877
+00:38:05,280 --> 00:38:08,000
+<b>{\an2}This has got nice definition.</b>
+<b>Beautiful. Nice and equal.</b>
+
+878
+00:38:08,040 --> 00:38:10,400
+<b>{\an2}Colour's right. It's got the</b>
+<b>slight brown hue to it.</b>
+
+879
+00:38:10,440 --> 00:38:12,920
+<b>{\an2}That looks really good.</b>
+<b>Nice and thin.</b>
+
+880
+00:38:12,960 --> 00:38:15,680
+<b>{\an2}Yeah, mm-hm. Now you're talking,</b>
+<b>really crispy.</b>
+
+881
+00:38:15,720 --> 00:38:18,320
+<b>{\an2}That's a custard cream.</b>
+<b>In fact that's a lot better</b>
+
+882
+00:38:18,360 --> 00:38:21,760
+<b>{\an2}than a commercial custard cream.</b>
+<b>Very, very good.</b>
+
+883
+00:38:21,800 --> 00:38:24,960
+<b>{\an2}These are a bit messy.</b>
+<b>Uneven, no definition, the dough</b>
+
+884
+00:38:25,000 --> 00:38:27,640
+<b>{\an2}was obviously very soft, very</b>
+<b>difficult to cut.</b>
+
+885
+00:38:29,960 --> 00:38:33,360
+<b>{\an2}It's like rubber.</b>
+<b>Not a success, sadly. Mm-hm.</b>
+
+886
+00:38:34,880 --> 00:38:36,960
+<b>{\an2}Hmm. Now these look great.</b>
+<b>Don't they look good?</b>
+
+887
+00:38:37,000 --> 00:38:38,920
+<b>{\an2}Even, they look very professional.</b>
+
+888
+00:38:40,040 --> 00:38:44,040
+<b>{\an2}Sadly, slightly underbaked. You know</b>
+<b>why, it's cos they're too thick.</b>
+
+889
+00:38:44,080 --> 00:38:47,560
+<b>{\an2}Mm-hm, another couple of minutes</b>
+<b>that would've been perfect.</b>
+
+890
+00:38:47,600 --> 00:38:49,280
+<b>{\an2}It's a real shame.</b>
+
+891
+00:38:49,320 --> 00:38:51,520
+<b>{\an2}ALISON: Paul and Prue will now rank</b>
+<b>the custard creams</b>
+
+892
+00:38:51,560 --> 00:38:53,280
+<b>{\an2}from worst to best.</b>
+
+893
+00:38:53,320 --> 00:38:56,440
+<b>{\an2}In 11th place, we have this one.</b>
+
+894
+00:38:56,480 --> 00:38:59,200
+<b>{\an2}Keith, they're a bit of a mess.</b>
+<b>Bit misshapen.</b>
+
+895
+00:38:59,240 --> 00:39:01,520
+<b>{\an2}They look like they were done</b>
+<b>in a rush.</b>
+
+896
+00:39:01,560 --> 00:39:04,120
+<b>{\an2}In 10th spot, we have this one.</b>
+
+897
+00:39:04,160 --> 00:39:07,760
+<b>{\an2}Saku, a real mess and too soft,</b>
+<b>slightly underbaked.</b>
+
+898
+00:39:08,800 --> 00:39:10,600
+<b>{\an2}In ninth place, we have this one.</b>
+
+899
+00:39:10,640 --> 00:39:12,480
+<b>{\an2}Cristy, they're a bit uneven.</b>
+
+900
+00:39:12,520 --> 00:39:14,280
+<b>{\an2}And so, you don't get</b>
+<b>the definition.</b>
+
+901
+00:39:14,320 --> 00:39:15,880
+<b>{\an2}NOEL: Tasha's in eighth place,</b>
+
+902
+00:39:15,920 --> 00:39:17,080
+<b>{\an2}Dana seventh,</b>
+
+903
+00:39:17,120 --> 00:39:18,120
+<b>{\an2}Josh sixth,</b>
+
+904
+00:39:18,160 --> 00:39:19,280
+<b>{\an2}Matty fifth</b>
+
+905
+00:39:19,320 --> 00:39:20,840
+<b>{\an2}and Nicky in fourth.</b>
+
+906
+00:39:20,880 --> 00:39:23,200
+<b>{\an2}And in third place,</b>
+<b>we have this one.</b>
+
+907
+00:39:23,240 --> 00:39:25,160
+<b>{\an2}Rowan, they're really nice,</b>
+
+908
+00:39:25,200 --> 00:39:26,880
+<b>{\an2}they're just a little bit soft.</b>
+
+909
+00:39:28,080 --> 00:39:29,680
+<b>{\an2}In second, we have this one.</b>
+
+910
+00:39:29,720 --> 00:39:30,720
+<b>{\an2}Whose is this?</b>
+
+911
+00:39:31,800 --> 00:39:33,840
+<b>{\an2}To be honest,</b>
+<b>these were pretty good,</b>
+
+912
+00:39:33,880 --> 00:39:35,480
+<b>{\an2}just not as good as number one.</b>
+
+913
+00:39:35,520 --> 00:39:36,720
+<b>{\an2}Well done.</b>
+
+914
+00:39:36,760 --> 00:39:39,400
+<b>{\an2}Which means the winner is this one.</b>
+
+915
+00:39:39,440 --> 00:39:43,040
+<b>{\an2}Abbi! Pretty well perfect</b>
+<b>custard creams, well done.</b>
+
+916
+00:39:47,800 --> 00:39:50,080
+<b>{\an2}Oh, I'm just so, so relieved!</b>
+
+917
+00:39:50,120 --> 00:39:52,840
+<b>{\an2}I mean, "Better than a commercial</b>
+<b>custard cream."</b>
+
+918
+00:39:52,880 --> 00:39:55,360
+<b>{\an2}That's high praise.</b>
+<b>I'm really pleased about that.</b>
+
+919
+00:39:55,400 --> 00:39:57,160
+<b>{\an2}I pulled that out the bag,</b>
+<b>didn't I, really.</b>
+
+920
+00:39:57,200 --> 00:40:00,200
+<b>{\an2}That is so much better than last</b>
+<b>week when I came 12th.</b>
+
+921
+00:40:00,240 --> 00:40:01,920
+<b>{\an2}I can have a drink tonight now!</b>
+
+922
+00:40:01,960 --> 00:40:03,320
+<b>{\an1}Seventh place!</b>
+
+923
+00:40:05,720 --> 00:40:08,800
+<b>{\an2}Just the Showstopper remains</b>
+<b>before Paul and Prue decide</b>
+
+924
+00:40:08,840 --> 00:40:10,600
+<b>{\an2}who will be leaving the tent</b>
+
+925
+00:40:10,640 --> 00:40:13,160
+<b>{\an2}and who will be crowned</b>
+<b>this week's Star Baker.</b>
+
+926
+00:40:13,200 --> 00:40:15,400
+<b>{\an2}I'm really enjoying biscuit week.</b>
+
+927
+00:40:15,440 --> 00:40:19,440
+<b>{\an2}For me, highlight, Tasha's</b>
+<b>handshake. That was incredible.</b>
+
+928
+00:40:19,480 --> 00:40:22,600
+<b>{\an2}I missed it. It was my first one,</b>
+<b>it was amazing. Well deserved.</b>
+
+929
+00:40:22,640 --> 00:40:25,680
+<b>{\an2}It was well deserved. She dropped</b>
+<b>a little bit in the Tech.</b>
+
+930
+00:40:25,720 --> 00:40:29,080
+<b>{\an2}I'd like to see her do really</b>
+<b>well in the Showstopper. Yes.</b>
+
+931
+00:40:29,120 --> 00:40:32,720
+<b>{\an2}So who do you think is in danger of</b>
+<b>going? I think Keith is in trouble.</b>
+
+932
+00:40:32,760 --> 00:40:36,400
+<b>{\an2}The actual marshmallow biscuit</b>
+<b>he created looked awful.</b>
+
+933
+00:40:36,440 --> 00:40:39,200
+<b>{\an2}I mean, really big lumps</b>
+<b>of nuts on the top.</b>
+
+934
+00:40:39,240 --> 00:40:41,160
+<b>{\an2}But the taste was very good.</b>
+
+935
+00:40:41,200 --> 00:40:43,720
+<b>{\an2}I think Dana is in</b>
+<b>a little bit of trouble.</b>
+
+936
+00:40:43,760 --> 00:40:46,920
+<b>{\an2}Struggled in the Sig and she</b>
+<b>was seventh in the Technical.</b>
+
+937
+00:40:46,960 --> 00:40:49,840
+<b>{\an2}What about No Jam Nicky?</b>
+<b>That was the funniest.</b>
+
+938
+00:40:49,880 --> 00:40:52,800
+<b>{\an2}No Jam Nicky!</b>
+<b>She had literally no jam whatsoever.</b>
+
+939
+00:40:52,840 --> 00:40:56,640
+<b>{\an2}She picked two flavours,</b>
+<b>rhubarb and ginger, which</b>
+<b>really bring a flavour.</b>
+
+940
+00:40:56,680 --> 00:40:59,280
+<b>{\an2}Beautiful flavours</b>
+<b>and then hardly put them in.</b>
+
+941
+00:40:59,320 --> 00:41:01,920
+<b>{\an2}Who is in line for Star Baker</b>
+<b>at the moment?</b>
+
+942
+00:41:01,960 --> 00:41:03,920
+<b>{\an2}Rowan. Tash.</b>
+
+943
+00:41:03,960 --> 00:41:07,200
+<b>{\an2}I can't call it. I can't call it,</b>
+<b>can you call it? Nobody can.</b>
+
+944
+00:41:07,240 --> 00:41:10,000
+<b>{\an2}Not even the god of baking,</b>
+<b>Paul Hollywood!</b>
+
+945
+00:41:10,040 --> 00:41:11,960
+<b>{\an2}No, not even Paul Hollywood.</b>
+
+946
+00:41:16,160 --> 00:41:17,800
+<b>{\an2}Morning, bakers.</b>
+
+947
+00:41:17,840 --> 00:41:20,120
+<b>{\an2}For your Showstopper challenge,</b>
+
+948
+00:41:20,160 --> 00:41:25,760
+<b>{\an2}Prue and Paul would like you to make</b>
+<b>an amazing illusion biscuit display,</b>
+
+949
+00:41:25,800 --> 00:41:28,800
+<b>{\an2}which is depicting</b>
+<b>your favourite meal.</b>
+
+950
+00:41:28,840 --> 00:41:31,400
+<b>{\an2}What if their favourite meal</b>
+<b>is a plate of biscuits?</b>
+
+951
+00:41:31,440 --> 00:41:33,720
+<b>{\an2}You didn't think about that,</b>
+<b>did you, Paul?</b>
+
+952
+00:41:33,760 --> 00:41:37,560
+<b>{\an2}Now, you can choose any style of</b>
+<b>biscuit. It's completely up to you.</b>
+
+953
+00:41:37,600 --> 00:41:41,400
+<b>{\an2}But it's got a taste amazing</b>
+<b>and look visually realistic.</b>
+
+954
+00:41:41,440 --> 00:41:44,960
+<b>{\an2}You have four hours,</b>
+<b>which seems a hell of a lot of time.</b>
+
+955
+00:41:45,000 --> 00:41:47,600
+<b>{\an2}On your marks. Get set. Bake.</b>
+
+956
+00:41:50,200 --> 00:41:53,440
+<b>{\an2}I'm looking forward</b>
+<b>to the challenge today.</b>
+<b>It's a bit different, isn't it?</b>
+
+957
+00:41:53,480 --> 00:41:57,080
+<b>{\an2}It's like something you never</b>
+<b>think of doing basically,</b>
+<b>so it's pretty cool.</b>
+
+958
+00:41:57,120 --> 00:41:59,240
+<b>{\an2}I feel like I'm a very</b>
+<b>creative person,</b>
+
+959
+00:41:59,280 --> 00:42:01,320
+<b>{\an2}so I love coming up with new ideas.</b>
+
+960
+00:42:01,360 --> 00:42:04,600
+<b>{\an2}So it's kind of like my way,</b>
+<b>I can finally get inventive.</b>
+
+961
+00:42:04,640 --> 00:42:06,680
+<b>{\an2}I'm very excited, I really am.</b>
+
+962
+00:42:06,720 --> 00:42:12,640
+<b>{\an2}We've asked them to make a meal or</b>
+<b>a banquet scene out of biscuits.</b>
+
+963
+00:42:12,680 --> 00:42:17,000
+<b>{\an2}It could be burgers, it could be</b>
+<b>pizzas, it could be anything.</b>
+<b>Mine personally? Pizza.</b>
+
+964
+00:42:17,040 --> 00:42:19,800
+<b>{\an2}They really have to be a little</b>
+<b>bit artistic with this</b>
+
+965
+00:42:19,840 --> 00:42:23,200
+<b>{\an2}and certainly a little bit of</b>
+<b>sculpting knowledge would be useful.</b>
+
+966
+00:42:23,240 --> 00:42:26,080
+<b>{\an2}Nearly all the biscuits they bake</b>
+<b>are going to have to be a very</b>
+
+967
+00:42:26,120 --> 00:42:29,760
+<b>{\an2}specific shape, so there is a real</b>
+<b>danger of overworking the dough.</b>
+
+968
+00:42:29,800 --> 00:42:33,280
+<b>{\an2}And we all know that if you</b>
+<b>overwork the dough it gets tough</b>
+
+969
+00:42:33,320 --> 00:42:37,200
+<b>{\an2}and loses its crumbly texture</b>
+<b>and its crack.</b>
+
+970
+00:42:37,240 --> 00:42:39,800
+<b>{\an2}We want the biscuits</b>
+<b>to taste good, look good,</b>
+
+971
+00:42:39,840 --> 00:42:41,840
+<b>{\an2}but look like something else.</b>
+
+972
+00:42:41,880 --> 00:42:44,280
+<b>{\an2}I want it to really have</b>
+<b>that wow factor</b>
+
+973
+00:42:44,320 --> 00:42:46,240
+<b>{\an2}because it is the Showstopper</b>
+
+974
+00:42:46,280 --> 00:42:48,800
+<b>{\an2}and certainly for one baker</b>
+<b>it's their last bake.</b>
+
+975
+00:42:50,360 --> 00:42:53,880
+<b>{\an2}Hello, Josh. Hello. Hello, Josh.</b>
+<b>Right, Josh, illusion bake.</b>
+
+976
+00:42:53,920 --> 00:42:56,720
+<b>{\an2}What are you doing?</b>
+<b>I am doing burger and fries.</b>
+
+977
+00:42:56,760 --> 00:42:58,960
+<b>{\an2}I've got five different</b>
+<b>types of biscuit.</b>
+
+978
+00:42:59,000 --> 00:43:01,200
+<b>{\an2}I've got a gingerbread</b>
+<b>for the chopping board</b>
+
+979
+00:43:01,240 --> 00:43:03,480
+<b>{\an2}and then the burger</b>
+<b>is going to be a Florentine.</b>
+
+980
+00:43:03,520 --> 00:43:06,880
+<b>{\an2}Florentine, that's a very good idea.</b>
+<b>It looks so realistic as well.</b>
+
+981
+00:43:06,920 --> 00:43:10,400
+<b>{\an2}Josh's gingerbread board will</b>
+<b>display his orange shortbread fries</b>
+
+982
+00:43:10,440 --> 00:43:14,000
+<b>{\an2}and his towering burger complete</b>
+<b>with his Florentine patties,</b>
+
+983
+00:43:14,040 --> 00:43:16,000
+<b>{\an2}almond flavoured burger buns</b>
+
+984
+00:43:16,040 --> 00:43:18,960
+<b>{\an2}and salad made from strawberry</b>
+<b>flavoured sugar biscuits.</b>
+
+985
+00:43:19,000 --> 00:43:21,520
+<b>{\an2}I love this idea. You've thought</b>
+<b>this through really well.</b>
+
+986
+00:43:21,560 --> 00:43:23,520
+<b>{\an2}Do you know what would</b>
+<b>really help you?</b>
+
+987
+00:43:23,560 --> 00:43:26,120
+<b>{\an2}If you get a real burger and chips</b>
+<b>and put it to the side,</b>
+
+988
+00:43:26,160 --> 00:43:29,280
+<b>{\an2}just so we've got something to look</b>
+<b>at the difference between the two.</b>
+
+989
+00:43:29,320 --> 00:43:31,880
+<b>{\an2}Shall we order it now? Yes.</b>
+<b>You might lose it though.</b>
+
+990
+00:43:31,920 --> 00:43:35,480
+<b>{\an2}It might disappear down Paul's neck!</b>
+<b>See you, Josh. Well done.</b>
+
+991
+00:43:36,480 --> 00:43:40,920
+<b>{\an2}Josh isn't the only baker recreating</b>
+<b>their favourite fast food feast.</b>
+
+992
+00:43:40,960 --> 00:43:43,000
+<b>{\an2}So I am making pizza.</b>
+
+993
+00:43:43,040 --> 00:43:45,240
+<b>{\an2}It was an absolute no-brainer.</b>
+
+994
+00:43:45,280 --> 00:43:48,280
+<b>{\an2}I literally probably have pizza</b>
+<b>every Friday night.</b>
+
+995
+00:43:48,320 --> 00:43:50,400
+<b>{\an2}Dana's gravity defined pizza</b>
+
+996
+00:43:50,440 --> 00:43:53,640
+<b>{\an2}will comprise a maple pecan</b>
+<b>shortbread base,</b>
+
+997
+00:43:53,680 --> 00:43:56,400
+<b>{\an2}date rolled stuffed crust</b>
+<b>and a tuile pepperoni.</b>
+
+998
+00:43:56,440 --> 00:43:59,800
+<b>{\an2}What happened in the Signature?</b>
+<b>Paul said he did like it.</b>
+
+999
+00:43:59,840 --> 00:44:02,800
+<b>{\an2}He literally said those words.</b>
+<b>What about Prue? Prue liked it.</b>
+
+1000
+00:44:02,840 --> 00:44:05,600
+<b>{\an2}It's not enough though, is it?</b>
+<b>It was very good cop, bad cop.</b>
+
+1001
+00:44:05,640 --> 00:44:08,880
+<b>{\an2}You need blue eyes to like it,</b>
+<b>don't you? Are you slightly angry?</b>
+
+1002
+00:44:08,920 --> 00:44:10,240
+<b>{\an2}Livid.</b>
+
+1003
+00:44:11,520 --> 00:44:13,080
+<b>{\an2}First batch in.</b>
+
+1004
+00:44:13,120 --> 00:44:15,000
+<b>{\an2}With multiple batches to bake</b>
+
+1005
+00:44:15,040 --> 00:44:18,120
+<b>{\an2}in various shapes, sizes,</b>
+<b>thicknesses and doughs...</b>
+
+1006
+00:44:18,160 --> 00:44:20,720
+<b>{\an2}That's going to go in the oven</b>
+<b>for 36 minutes.</b>
+
+1007
+00:44:20,760 --> 00:44:24,160
+<b>{\an2}..the bakers will need to work</b>
+<b>as efficiently as possible...</b>
+
+1008
+00:44:24,200 --> 00:44:26,400
+<b>{\an2}Right, behave yourselves.</b>
+
+1009
+00:44:26,440 --> 00:44:30,000
+<b>{\an2}..if they are to keep their biscuit</b>
+<b>production line running smoothly.</b>
+
+1010
+00:44:30,040 --> 00:44:31,680
+<b>{\an2}There is just so much to do.</b>
+
+1011
+00:44:31,720 --> 00:44:34,400
+<b>{\an2}I've selected things and done them</b>
+<b>at the right thickness,</b>
+
+1012
+00:44:34,440 --> 00:44:38,400
+<b>{\an2}so the oven temperature doesn't</b>
+<b>really need to change much at all</b>
+<b>throughout the whole bake.</b>
+
+1013
+00:44:38,440 --> 00:44:41,160
+<b>{\an2}I bake these, then they come out.</b>
+<b>Then I bake my steamer basket.</b>
+
+1014
+00:44:41,200 --> 00:44:43,440
+<b>{\an2}Then I bake the other half</b>
+<b>of my steamer basket.</b>
+
+1015
+00:44:43,480 --> 00:44:46,000
+<b>{\an2}Then I bake my dumplings.</b>
+<b>Then I bake my other dumplings.</b>
+
+1016
+00:44:46,040 --> 00:44:48,040
+<b>{\an2}Then I do the batter ones</b>
+<b>towards the end.</b>
+
+1017
+00:44:48,080 --> 00:44:51,360
+<b>{\an2}Just got to tick everything off to</b>
+<b>make sure I don't miss anything.</b>
+
+1018
+00:44:51,400 --> 00:44:53,200
+<b>{\an2}I'm going to do like a cheeseboard.</b>
+
+1019
+00:44:53,240 --> 00:44:57,280
+<b>{\an2}I've made marzipan to go on top</b>
+<b>of the biscotti to give you</b>
+<b>the cured meat illusion.</b>
+
+1020
+00:44:57,320 --> 00:44:59,800
+<b>{\an2}What's happening here?</b>
+<b>Is that bacon?</b>
+
+1021
+00:44:59,840 --> 00:45:03,320
+<b>{\an2}I knew it looked like bacon,</b>
+<b>but it's not. What is it?</b>
+<b>It's supposed to be Parma ham.</b>
+
+1022
+00:45:03,360 --> 00:45:06,800
+<b>{\an2}Oh, yeah, that's fine. Yeah, it does</b>
+<b>look like Parma ham. Does it? Yeah.</b>
+
+1023
+00:45:06,840 --> 00:45:09,720
+<b>{\an2}Alongside her marzipan ham</b>
+<b>covered biscotti,</b>
+
+1024
+00:45:09,760 --> 00:45:13,760
+<b>{\an2}Cristy's grazing board will feature</b>
+<b>fondant-topped ginger biscuits</b>
+
+1025
+00:45:13,800 --> 00:45:16,280
+<b>{\an2}masquerading as slices of cheese,</b>
+
+1026
+00:45:16,320 --> 00:45:18,840
+<b>{\an2}and chorizo and orange</b>
+<b>and pistachio biscuits</b>
+
+1027
+00:45:18,880 --> 00:45:21,560
+<b>{\an2}that will be stacked to make</b>
+<b>an array of cheeses.</b>
+
+1028
+00:45:21,600 --> 00:45:22,880
+<b>{\an2}Oh, look at the bacon!</b>
+
+1029
+00:45:22,920 --> 00:45:24,200
+<b>{\an2}It's Parma ham.</b>
+
+1030
+00:45:24,240 --> 00:45:26,240
+<b>{\an2}It's Parma ham. It's not bacon.</b>
+
+1031
+00:45:26,280 --> 00:45:28,200
+<b>{\an2}Same thing, innit?</b>
+<b>That's what I said!</b>
+
+1032
+00:45:29,400 --> 00:45:31,760
+<b>{\an2}It does look like bacon. All right,</b>
+<b>don't laugh at me.</b>
+
+1033
+00:45:31,800 --> 00:45:34,640
+<b>{\an2}Cristy's not the only baker counting</b>
+<b>on cured meat</b>
+
+1034
+00:45:34,680 --> 00:45:36,080
+<b>{\an2}to make an impression.</b>
+
+1035
+00:45:36,120 --> 00:45:38,520
+<b>{\an2}This is sugar cookie prosciutto.</b>
+
+1036
+00:45:38,560 --> 00:45:40,560
+<b>{\an2}I love a charcuterie night</b>
+<b>with my mates.</b>
+
+1037
+00:45:40,600 --> 00:45:42,920
+<b>{\an2}It's quite nice to get everyone</b>
+<b>around the dinner table,</b>
+
+1038
+00:45:42,960 --> 00:45:45,920
+<b>{\an2}and you can just kind of chill out,</b>
+<b>talk to people,</b>
+
+1039
+00:45:45,960 --> 00:45:48,520
+<b>{\an2}eat some really smelly cheese,</b>
+
+1040
+00:45:48,560 --> 00:45:51,360
+<b>{\an2}and gorge on crackers and down</b>
+<b>the wine. It's great.</b>
+
+1041
+00:45:51,400 --> 00:45:54,760
+<b>{\an2}Featuring prosciutto sugar biscuits,</b>
+<b>and slices of bread</b>
+
+1042
+00:45:54,800 --> 00:45:57,480
+<b>{\an2}and cheese made from Polish</b>
+<b>gingerbread,</b>
+
+1043
+00:45:57,520 --> 00:46:01,480
+<b>{\an2}Rowan's attempting a recreation of</b>
+<b>his favourite student night in.</b>
+
+1044
+00:46:01,520 --> 00:46:03,280
+<b>{\an2}So you've got a cupboard full</b>
+<b>of pinot</b>
+
+1045
+00:46:03,320 --> 00:46:05,400
+<b>{\an2}and a load of charcuterie in</b>
+<b>the fridge? Yeah.</b>
+
+1046
+00:46:05,440 --> 00:46:07,160
+<b>{\an2}And that's your university life?</b>
+
+1047
+00:46:07,200 --> 00:46:09,760
+<b>{\an2}That's me, yeah. Question, how do</b>
+<b>you afford all this?</b>
+
+1048
+00:46:09,800 --> 00:46:11,960
+<b>{\an2}This is like...</b>
+<b>You're at university.</b>
+
+1049
+00:46:12,000 --> 00:46:14,440
+<b>{\an2}I'm at uni. Yet you're having</b>
+<b>one of these boards?</b>
+
+1050
+00:46:14,480 --> 00:46:18,320
+<b>{\an2}You don't want to see my overdraft,</b>
+<b>Alison. You don't. I don't.</b>
+
+1051
+00:46:18,360 --> 00:46:21,320
+<b>{\an2}The battle of the grazing boards has</b>
+<b>a third contender.</b>
+
+1052
+00:46:21,360 --> 00:46:23,240
+<b>{\an2}It's like a cheese board is</b>
+<b>what I'm going for.</b>
+
+1053
+00:46:23,280 --> 00:46:26,120
+<b>{\an2}There's going to be a brie,</b>
+<b>camembert, Swiss,</b>
+
+1054
+00:46:26,160 --> 00:46:29,560
+<b>{\an2}some crackers. Yeah, I've got</b>
+<b>tonnes to do.</b>
+
+1055
+00:46:29,600 --> 00:46:31,960
+<b>{\an2}Yeah, maybe too much. We'll see.</b>
+
+1056
+00:46:32,000 --> 00:46:34,360
+<b>{\an2}Matty's ambitious cheese board</b>
+<b>will be made up</b>
+
+1057
+00:46:34,400 --> 00:46:37,120
+<b>{\an2}of six different biscuits,</b>
+<b>including two shortbreads,</b>
+
+1058
+00:46:37,160 --> 00:46:40,280
+<b>{\an2}macaron grapes,</b>
+<b>and garibaldi crackers.</b>
+
+1059
+00:46:40,320 --> 00:46:42,200
+<b>{\an2}Who do you think your toughest</b>
+
+1060
+00:46:42,240 --> 00:46:45,000
+<b>{\an2}competition is?</b>
+<b>Anyone you're scared of?</b>
+
+1061
+00:46:45,040 --> 00:46:47,760
+<b>{\an2}Abbi. Abbi. It's so nerve-racking</b>
+<b>being behind</b>
+
+1062
+00:46:47,800 --> 00:46:50,760
+<b>{\an2}Abbi as well, cos I can see</b>
+<b>everything she's doing.</b>
+
+1063
+00:46:50,800 --> 00:46:52,320
+<b>{\an2}This is my steamer basket.</b>
+
+1064
+00:46:52,360 --> 00:46:54,200
+<b>{\an2}This is the lattice part of it.</b>
+
+1065
+00:46:54,240 --> 00:46:57,640
+<b>{\an2}So for my Showstopper, I am making</b>
+<b>a dim sum brunch</b>
+
+1066
+00:46:57,680 --> 00:47:00,200
+<b>{\an2}because I love Chinese food.</b>
+
+1067
+00:47:00,240 --> 00:47:02,120
+<b>{\an2}And I like cooking it a lot,</b>
+
+1068
+00:47:02,160 --> 00:47:03,880
+<b>{\an2}it's like my favourite thing</b>
+<b>to cook.</b>
+
+1069
+00:47:03,920 --> 00:47:05,640
+<b>{\an2}So I thought, you know what,</b>
+<b>I'll give it a go,</b>
+
+1070
+00:47:05,680 --> 00:47:06,920
+<b>{\an2}make it out of biscuit.</b>
+
+1071
+00:47:06,960 --> 00:47:08,960
+<b>{\an2}Abbi's dim sum feast will</b>
+<b>see marzipan</b>
+
+1072
+00:47:09,000 --> 00:47:11,480
+<b>{\an2}and cherry-filled brandy snap spring</b>
+<b>rolls,</b>
+
+1073
+00:47:11,520 --> 00:47:14,160
+<b>{\an2}alongside a lemon and Earl Grey</b>
+<b>biscuit steamer</b>
+
+1074
+00:47:14,200 --> 00:47:17,560
+<b>{\an2}and apricot and pistachio filled</b>
+<b>biscuit dumplings.</b>
+
+1075
+00:47:17,600 --> 00:47:20,840
+<b>{\an2}And I'm also making fortune cookies,</b>
+<b>which aren't technically an illusion</b>
+
+1076
+00:47:20,880 --> 00:47:24,560
+<b>{\an2}but it feels like it wouldn't be</b>
+<b>complete without fortune cookies.</b>
+
+1077
+00:47:24,600 --> 00:47:28,120
+<b>{\an2}So, I've written some</b>
+<b>little fortunes.</b>
+
+1078
+00:47:28,160 --> 00:47:31,640
+<b>{\an2}One says - Watch out, things are</b>
+<b>getting "in tents".</b>
+
+1079
+00:47:31,680 --> 00:47:32,960
+<b>{\an2}Cos we're in a tent.</b>
+
+1080
+00:47:34,240 --> 00:47:38,400
+<b>{\an2}Also trying to impress with</b>
+<b>an East Asian theme is Tasha.</b>
+
+1081
+00:47:38,440 --> 00:47:42,200
+<b>{\an2}I'm making a Japanese katsu.</b>
+
+1082
+00:47:42,240 --> 00:47:43,520
+<b>{\an2}When my friends and I go to</b>
+
+1083
+00:47:43,560 --> 00:47:47,120
+<b>{\an2}a new Japanese restaurant we always</b>
+<b>kind of base</b>
+
+1084
+00:47:47,160 --> 00:47:51,840
+<b>{\an2}our judgment of the restaurant on</b>
+<b>how well they do the katsu.</b>
+
+1085
+00:47:53,080 --> 00:47:56,840
+<b>{\an2}Tasha's biscuity take on her</b>
+<b>benchmark meal will see orange</b>
+
+1086
+00:47:56,880 --> 00:47:58,920
+<b>{\an2}and almond biscotti chicken,</b>
+
+1087
+00:47:58,960 --> 00:48:01,960
+<b>{\an2}an intricately painted Palet Breton</b>
+<b>biscuit bowl</b>
+
+1088
+00:48:02,000 --> 00:48:04,280
+<b>{\an2}and matcha Viennese cups.</b>
+
+1089
+00:48:04,320 --> 00:48:06,520
+<b>{\an2}You had an up and down day</b>
+<b>yesterday.</b>
+
+1090
+00:48:08,440 --> 00:48:10,880
+<b>{\an2}I think in the technical you did OK,</b>
+
+1091
+00:48:10,920 --> 00:48:13,320
+<b>{\an2}but in the signature you smashed it</b>
+<b>out the park.</b>
+
+1092
+00:48:13,360 --> 00:48:16,040
+<b>{\an2}I expect today to be as good as</b>
+<b>your signature.</b>
+
+1093
+00:48:16,080 --> 00:48:20,080
+<b>{\an2}No pressure. No pressure. See you</b>
+<b>later, Tash. Thank you.</b>
+
+1094
+00:48:20,120 --> 00:48:21,800
+<b>{\an2}Oh, my God.</b>
+
+1095
+00:48:21,840 --> 00:48:25,040
+<b>{\an2}While Tasha toils to recreate</b>
+<b>yesterday's success,</b>
+
+1096
+00:48:25,080 --> 00:48:29,040
+<b>{\an2}one baker is hoping history won't be</b>
+<b>repeating itself today.</b>
+
+1097
+00:48:29,080 --> 00:48:31,600
+<b>{\an2}I'm hoping to present you</b>
+<b>with something that looks</b>
+
+1098
+00:48:31,640 --> 00:48:33,840
+<b>{\an2}a bit better than the two dog's</b>
+<b>breakfasts</b>
+
+1099
+00:48:33,880 --> 00:48:35,760
+<b>{\an2}that I presented you with yesterday.</b>
+
+1100
+00:48:35,800 --> 00:48:37,280
+<b>{\an2}Well, they tasted great.</b>
+
+1101
+00:48:37,320 --> 00:48:40,600
+<b>{\an2}I've called it my Lee on</b>
+<b>Solent lunchtime meal deal.</b>
+
+1102
+00:48:42,000 --> 00:48:45,400
+<b>{\an2}I work from home and I live near</b>
+<b>the seaside,</b>
+
+1103
+00:48:45,440 --> 00:48:48,200
+<b>{\an2}so quite often when I make my lunch,</b>
+<b>I'll go down to</b>
+
+1104
+00:48:48,240 --> 00:48:50,920
+<b>{\an2}the seaside and sit on the beach</b>
+<b>for half an hour. Ah, that's lovely.</b>
+
+1105
+00:48:50,960 --> 00:48:53,480
+<b>{\an2}And eat your meal deal. See the</b>
+<b>waves coming in, eat my meal deal.</b>
+
+1106
+00:48:53,520 --> 00:48:54,920
+<b>{\an2}And if I've been a good boy</b>
+
+1107
+00:48:54,960 --> 00:48:57,520
+<b>{\an2}and I've worked hard in</b>
+<b>the morning, I treat myself to</b>
+
+1108
+00:48:57,560 --> 00:48:59,520
+<b>{\an2}a pink and white squirty ice cream.</b>
+
+1109
+00:48:59,560 --> 00:49:00,960
+<b>{\an2}Keith's Viennese biscuit</b>
+
+1110
+00:49:01,000 --> 00:49:04,560
+<b>{\an2}and raspberry buttercream ice cream</b>
+<b>cone will sit beside his shortbread</b>
+
+1111
+00:49:04,600 --> 00:49:08,200
+<b>{\an2}ham and tomato sandwich with</b>
+<b>a spiced biscuit crust,</b>
+
+1112
+00:49:08,240 --> 00:49:12,440
+<b>{\an2}and a portion of almond tuile crisps</b>
+<b>contained within their cylindrical</b>
+
+1113
+00:49:12,480 --> 00:49:13,800
+<b>{\an2}gingerbread packaging.</b>
+
+1114
+00:49:13,840 --> 00:49:17,720
+<b>{\an2}I'm creating the two halves</b>
+<b>of my Pringles tube.</b>
+
+1115
+00:49:17,760 --> 00:49:20,960
+<b>{\an2}But of course as soon as</b>
+<b>the heat hits it,</b>
+
+1116
+00:49:21,000 --> 00:49:23,160
+<b>{\an2}it all flops down to the bottom</b>
+<b>of the oven,</b>
+
+1117
+00:49:23,200 --> 00:49:24,840
+<b>{\an2}so I've got to really watch them.</b>
+
+1118
+00:49:25,920 --> 00:49:27,160
+<b>{\an2}So that goes in.</b>
+
+1119
+00:49:28,600 --> 00:49:33,520
+<b>{\an2}There's two things I've got to put</b>
+<b>on - the timer and glasses.</b>
+
+1120
+00:49:33,560 --> 00:49:35,800
+<b>{\an2}So I can see what's going on.</b>
+
+1121
+00:49:35,840 --> 00:49:39,080
+<b>{\an2}I'm just going to brush</b>
+<b>the garibaldi with some egg white.</b>
+
+1122
+00:49:39,120 --> 00:49:41,240
+<b>{\an2}I think it gives it a glaze.</b>
+
+1123
+00:49:41,280 --> 00:49:45,120
+<b>{\an2}That I'm then going to hide with</b>
+<b>fondant. So why are we bothering?</b>
+
+1124
+00:49:45,160 --> 00:49:47,720
+<b>{\an2}These are the burger buns. They've</b>
+<b>kept their shape really nicely.</b>
+
+1125
+00:49:47,760 --> 00:49:50,400
+<b>{\an2}While it's important</b>
+<b>the bakers' biscuits showcase</b>
+
+1126
+00:49:50,440 --> 00:49:53,000
+<b>{\an2}a variety of tastes and textures...</b>
+
+1127
+00:49:53,040 --> 00:49:54,480
+<b>{\an2}Biscotti in.</b>
+
+1128
+00:49:54,520 --> 00:49:56,240
+<b>{\an2}This is the burger</b>
+
+1129
+00:49:56,280 --> 00:49:57,640
+<b>{\an2}and it's a Florentine burger,</b>
+
+1130
+00:49:57,680 --> 00:50:00,120
+<b>{\an2}so I've got walnuts, pecans</b>
+<b>and almonds in there.</b>
+
+1131
+00:50:00,160 --> 00:50:03,680
+<b>{\an2}..Paul and Prue are expecting</b>
+<b>convincing illusion biscuits...</b>
+
+1132
+00:50:03,720 --> 00:50:04,960
+<b>{\an2}These are the gingerbread cups.</b>
+
+1133
+00:50:05,000 --> 00:50:07,720
+<b>{\an2}..so the bakers need to get creative</b>
+<b>with their moulds.</b>
+
+1134
+00:50:07,760 --> 00:50:09,520
+<b>{\an2}This is the steamer basket.</b>
+
+1135
+00:50:09,560 --> 00:50:10,840
+<b>{\an2}This basically is just</b>
+
+1136
+00:50:10,880 --> 00:50:13,280
+<b>{\an2}to hold everything in place</b>
+<b>while it bakes.</b>
+
+1137
+00:50:13,320 --> 00:50:16,400
+<b>{\an2}And hope their choice</b>
+<b>of biscuit is robust enough.</b>
+
+1138
+00:50:16,440 --> 00:50:21,000
+<b>{\an2}Trying to make a bowl.</b>
+<b>This is the Palet Breton.</b>
+
+1139
+00:50:21,040 --> 00:50:23,720
+<b>{\an2}It's really strong. I tried</b>
+<b>different doughs</b>
+
+1140
+00:50:23,760 --> 00:50:26,040
+<b>{\an2}and they just kind of melted in</b>
+<b>the oven.</b>
+
+1141
+00:50:26,080 --> 00:50:28,000
+<b>{\an2}And Keith's gingerbread</b>
+<b>crisp tubes...</b>
+
+1142
+00:50:28,040 --> 00:50:29,320
+<b>{\an2}BLEEP.</b>
+
+1143
+00:50:29,360 --> 00:50:31,120
+<b>{\an2}..have done just that.</b>
+
+1144
+00:50:31,160 --> 00:50:32,840
+<b>{\an2}I can't believe the state of this.</b>
+
+1145
+00:50:34,240 --> 00:50:37,280
+<b>{\an2}The two halves of the cylinder,</b>
+<b>they've both slid off.</b>
+
+1146
+00:50:37,320 --> 00:50:38,360
+<b>{\an2}Yeah, a bit panicky.</b>
+
+1147
+00:50:40,120 --> 00:50:42,760
+<b>{\an2}I made sure I made plenty of</b>
+<b>gingerbread</b>
+
+1148
+00:50:42,800 --> 00:50:45,480
+<b>{\an2}for fear of this happening.</b>
+
+1149
+00:50:47,040 --> 00:50:49,920
+<b>{\an2}But I can't afford</b>
+<b>to get it wrong twice.</b>
+
+1150
+00:50:54,280 --> 00:50:56,600
+<b>{\an8}Bakers, you have halfway left.</b>
+
+1151
+00:50:56,640 --> 00:50:57,760
+<b>{\an8}Halfway left?</b>
+
+1152
+00:50:57,800 --> 00:50:59,680
+<b>{\an8}You're halfway left.</b>
+
+1153
+00:50:59,720 --> 00:51:00,800
+<b>{\an2}Halfway there.</b>
+
+1154
+00:51:00,840 --> 00:51:03,640
+<b>{\an2}I've got my next try at</b>
+<b>the gingerbread cylinder.</b>
+
+1155
+00:51:03,680 --> 00:51:06,600
+<b>{\an2}I would say it's slightly better.</b>
+<b>I just...</b>
+
+1156
+00:51:06,640 --> 00:51:09,640
+<b>{\an2}I'm really desperate for this</b>
+<b>to happen.</b>
+
+1157
+00:51:09,680 --> 00:51:12,960
+<b>{\an2}As Keith's crisp tube takes</b>
+<b>a second shot in the oven,</b>
+
+1158
+00:51:13,000 --> 00:51:16,000
+<b>{\an2}the other bakers' illusions are</b>
+<b>starting to take shape.</b>
+
+1159
+00:51:16,040 --> 00:51:21,200
+<b>{\an2}Now I'm just assembling the little</b>
+<b>pizza and the stuffed crust.</b>
+
+1160
+00:51:21,240 --> 00:51:23,080
+<b>{\an2}This is the camembert.</b>
+
+1161
+00:51:23,120 --> 00:51:25,640
+<b>{\an2}This is one of my two different</b>
+<b>shapes of dumplings,</b>
+
+1162
+00:51:25,680 --> 00:51:28,680
+<b>{\an2}and I'm just filling it with</b>
+<b>apricot and pistachio filling.</b>
+
+1163
+00:51:28,720 --> 00:51:30,800
+<b>{\an2}I've got my tomato rings</b>
+<b>with the strawberry biscuit.</b>
+
+1164
+00:51:30,840 --> 00:51:32,760
+<b>{\an2}I've put some crushed</b>
+<b>boiled sweets,</b>
+
+1165
+00:51:32,800 --> 00:51:34,280
+<b>{\an2}into there and they're going to</b>
+<b>melt,</b>
+
+1166
+00:51:34,320 --> 00:51:36,800
+<b>{\an2}and they'll form the watery bit</b>
+<b>inside a tomato.</b>
+
+1167
+00:51:36,840 --> 00:51:39,360
+<b>{\an2}Saku, is that real onions?</b>
+<b>Yeah, that's real onion.</b>
+
+1168
+00:51:39,400 --> 00:51:41,600
+<b>{\an2}But you're not supposed</b>
+<b>to do real onions, babe.</b>
+
+1169
+00:51:41,640 --> 00:51:45,040
+<b>{\an2}You're supposed to make it look like</b>
+<b>onion. It is a side dish.</b>
+
+1170
+00:51:45,080 --> 00:51:46,400
+<b>{\an2}But it's real onions?</b>
+
+1171
+00:51:49,640 --> 00:51:50,720
+<b>{\an2}Really?</b>
+
+1172
+00:51:50,760 --> 00:51:53,880
+<b>{\an2}Alongside Saku's onions will be</b>
+<b>a biscuit rendering of</b>
+
+1173
+00:51:53,920 --> 00:51:57,080
+<b>{\an2}a traditional Sri Lankan breakfast,</b>
+<b>featuring coconut</b>
+
+1174
+00:51:57,120 --> 00:51:58,840
+<b>{\an2}and cardamom biscuit hoppers,</b>
+
+1175
+00:51:58,880 --> 00:52:01,680
+<b>{\an2}rotis of cheddar, rosemary and black</b>
+<b>pepper,</b>
+
+1176
+00:52:01,720 --> 00:52:04,840
+<b>{\an1}and a chocolate and coffee</b>
+<b>biscuit chicken curry.</b>
+
+1177
+00:52:04,880 --> 00:52:07,480
+<b>{\an2}Sri Lankan breakfast is</b>
+<b>very filling.</b>
+
+1178
+00:52:07,520 --> 00:52:10,800
+<b>{\an2}So you can hold on for</b>
+<b>the whole day until dinner time,</b>
+
+1179
+00:52:10,840 --> 00:52:15,120
+<b>{\an2}maybe lunch time for me, after</b>
+<b>having that breakfast.</b>
+
+1180
+00:52:17,360 --> 00:52:20,360
+<b>{\an2}Of course Sri Lankan food is</b>
+<b>the best in the world!</b>
+
+1181
+00:52:22,080 --> 00:52:23,840
+<b>{\an2}Without a doubt.</b>
+
+1182
+00:52:23,880 --> 00:52:25,760
+<b>{\an2}Saku might be trying to recreate</b>
+
+1183
+00:52:25,800 --> 00:52:27,680
+<b>{\an2}a traditional Sri Lankan breakfast,</b>
+
+1184
+00:52:27,720 --> 00:52:30,280
+<b>{\an2}but Nicky has some traditions</b>
+<b>of her own.</b>
+
+1185
+00:52:30,320 --> 00:52:32,760
+<b>{\an2}I'm just sandwiching</b>
+<b>the biscuits together now</b>
+
+1186
+00:52:32,800 --> 00:52:35,280
+<b>{\an2}to sort of resemble a wee bit</b>
+<b>of steak.</b>
+
+1187
+00:52:35,320 --> 00:52:37,080
+<b>{\an2}So I'm doing a steak pie</b>
+
+1188
+00:52:37,120 --> 00:52:40,480
+<b>{\an2}because even now when I go home,</b>
+
+1189
+00:52:40,520 --> 00:52:42,240
+<b>{\an2}Mum always cooks a steak pie.</b>
+
+1190
+00:52:43,360 --> 00:52:45,440
+<b>{\an2}Beneath her shortbread pie crust,</b>
+
+1191
+00:52:45,480 --> 00:52:48,000
+<b>{\an2}Nicky's chocolate steak biscuits</b>
+<b>will be sandwiched with</b>
+
+1192
+00:52:48,040 --> 00:52:49,880
+<b>{\an2}a hazelnut and orange ganache.</b>
+
+1193
+00:52:49,920 --> 00:52:53,680
+<b>{\an2}Rosehip marzipan peas and shortbread</b>
+<b>chips will sit alongside on</b>
+
+1194
+00:52:53,720 --> 00:52:56,120
+<b>{\an2}a plate of decorated gingerbread.</b>
+
+1195
+00:52:56,160 --> 00:52:59,400
+<b>{\an2}I believe Dan is doing</b>
+<b>a pie as well.</b>
+
+1196
+00:52:59,440 --> 00:53:01,160
+<b>{\an2}No pressure again. Just seems</b>
+
+1197
+00:53:01,200 --> 00:53:04,160
+<b>{\an2}to be all I ever do is get</b>
+<b>under pressure, doesn't it?</b>
+
+1198
+00:53:04,200 --> 00:53:06,280
+<b>{\an2}Yeah, cos Dan's pretty good.</b>
+
+1199
+00:53:06,320 --> 00:53:09,080
+<b>{\an2}So, I don't know how I'll get on.</b>
+
+1200
+00:53:10,240 --> 00:53:13,400
+<b>{\an2}So I am doing a cheese</b>
+<b>and onion pie.</b>
+
+1201
+00:53:13,440 --> 00:53:15,200
+<b>{\an2}When I shout from the kitchen,</b>
+<b>"What pie do you</b>
+
+1202
+00:53:15,240 --> 00:53:17,120
+<b>{\an2}"want for tea this weekend?",</b>
+<b>it's always cheese</b>
+
+1203
+00:53:17,160 --> 00:53:19,840
+<b>{\an2}and onion pie.</b>
+<b>Yeah, so it's a firm favourite.</b>
+
+1204
+00:53:19,880 --> 00:53:21,640
+<b>{\an2}Sat on gingerbread plates,</b>
+
+1205
+00:53:21,680 --> 00:53:24,560
+<b>{\an2}Dan's shortbread pie pastry</b>
+<b>will be sliced</b>
+
+1206
+00:53:24,600 --> 00:53:27,080
+<b>{\an2}to reveal pistachio</b>
+<b>shortbread onions</b>
+
+1207
+00:53:27,120 --> 00:53:29,200
+<b>{\an2}and an orange curd cheese sauce.</b>
+
+1208
+00:53:29,240 --> 00:53:30,840
+<b>{\an2}Nestled next to his pie will be</b>
+
+1209
+00:53:30,880 --> 00:53:35,120
+<b>{\an2}a generous portion of shortbread</b>
+<b>peas and vanilla biscuit chips.</b>
+
+1210
+00:53:35,160 --> 00:53:38,040
+<b>{\an2}Quite a mess, your work station.</b>
+<b>It's giving me a panic attack.</b>
+
+1211
+00:53:38,080 --> 00:53:41,320
+<b>{\an2}I know. I'm in the process of</b>
+<b>clearing my decks at the moment.</b>
+
+1212
+00:53:41,360 --> 00:53:44,440
+<b>{\an2}You know who loves that? Paul</b>
+<b>Hollywood.</b>
+
+1213
+00:53:44,480 --> 00:53:45,880
+<b>{\an2}Like, this would freak him out.</b>
+
+1214
+00:53:45,920 --> 00:53:48,040
+<b>{\an2}Yeah, I know. He'd just be like,</b>
+<b>"Argh!" That's why he</b>
+
+1215
+00:53:48,080 --> 00:53:50,680
+<b>{\an2}was just like tutting and shaking</b>
+<b>his head walking past me before.</b>
+
+1216
+00:53:50,720 --> 00:53:52,720
+<b>{\an2}Have you ever seen one</b>
+<b>of his work stations?</b>
+
+1217
+00:53:52,760 --> 00:53:54,280
+<b>{\an2}No. Denim.</b>
+
+1218
+00:53:55,720 --> 00:53:56,800
+<b>{\an2}Starched denim.</b>
+
+1219
+00:53:59,720 --> 00:54:02,120
+<b>{\an2}Bakers, you have one hour left.</b>
+
+1220
+00:54:02,160 --> 00:54:04,400
+<b>{\an2}It's so exciting, just one hour.</b>
+
+1221
+00:54:04,440 --> 00:54:09,600
+<b>{\an2}Ooh. Cannot begin to tell you how</b>
+<b>relieved I am with that.</b>
+
+1222
+00:54:09,640 --> 00:54:11,320
+<b>{\an2}Ah!</b>
+
+1223
+00:54:11,360 --> 00:54:14,840
+<b>{\an2}With his crisp tube trauma in</b>
+<b>the past, Keith is free</b>
+
+1224
+00:54:14,880 --> 00:54:16,640
+<b>{\an2}to finish his final batches...</b>
+
+1225
+00:54:16,680 --> 00:54:19,680
+<b>{\an2}I'm making these things called tuile</b>
+<b>biscuits</b>
+
+1226
+00:54:19,720 --> 00:54:22,160
+<b>{\an2}to represent crisps.</b>
+
+1227
+00:54:22,200 --> 00:54:25,080
+<b>{\an2}..and the rest of the bakers can</b>
+<b>start bringing their illusions</b>
+
+1228
+00:54:25,120 --> 00:54:26,760
+<b>{\an2}to life with decoration.</b>
+
+1229
+00:54:26,800 --> 00:54:28,920
+<b>{\an2}So, yeah, I love this bit.</b>
+
+1230
+00:54:28,960 --> 00:54:32,800
+<b>{\an2}I'm just painting up</b>
+<b>the gingerbread plate.</b>
+
+1231
+00:54:32,840 --> 00:54:35,800
+<b>{\an2}It's quite hard cos the icing's</b>
+<b>not set.</b>
+
+1232
+00:54:35,840 --> 00:54:38,680
+<b>{\an2}This is what makes it look</b>
+<b>like bamboo.</b>
+
+1233
+00:54:38,720 --> 00:54:41,200
+<b>{\an2}Doing some lattice work here</b>
+<b>to achieve the red</b>
+
+1234
+00:54:41,240 --> 00:54:44,040
+<b>{\an2}and white chequered parchment you</b>
+<b>usually get your burger served on.</b>
+
+1235
+00:54:45,240 --> 00:54:46,760
+<b>{\an2}Cut this, cut this.</b>
+
+1236
+00:54:46,800 --> 00:54:48,560
+<b>{\an2}Chuffing heck. I'm looking around</b>
+
+1237
+00:54:48,600 --> 00:54:52,600
+<b>{\an2}and everybody's is so good</b>
+<b>and realistic.</b>
+
+1238
+00:54:52,640 --> 00:54:53,640
+<b>{\an2}This is shocking.</b>
+
+1239
+00:54:55,960 --> 00:54:59,640
+<b>{\an2}Bakers, you have 30 minutes left.</b>
+
+1240
+00:54:59,680 --> 00:55:01,920
+<b>{\an2}I'm putting melted chocolate onto</b>
+<b>these florentines just</b>
+
+1241
+00:55:01,960 --> 00:55:03,240
+<b>{\an2}to make them look like the burgers.</b>
+
+1242
+00:55:03,280 --> 00:55:05,440
+<b>{\an2}Is there anything I can do</b>
+<b>to help you? No.</b>
+
+1243
+00:55:05,480 --> 00:55:06,880
+<b>{\an2}Do you want to get on my shoulders?</b>
+
+1244
+00:55:06,920 --> 00:55:08,680
+<b>{\an2}No. OK, maybe later.</b>
+
+1245
+00:55:08,720 --> 00:55:09,880
+<b>{\an2}But thank you.</b>
+
+1246
+00:55:12,160 --> 00:55:15,640
+<b>{\an2}This is royal icing which is</b>
+<b>the tomato sauce.</b>
+
+1247
+00:55:15,680 --> 00:55:17,800
+<b>{\an2}My favourite bit actually is</b>
+<b>the tomato rings.</b>
+
+1248
+00:55:17,840 --> 00:55:19,520
+<b>{\an2}They look really, really pretty.</b>
+
+1249
+00:55:20,760 --> 00:55:24,560
+<b>{\an2}This is meant to represent the seeds</b>
+<b>of the tomato.</b>
+
+1250
+00:55:24,600 --> 00:55:27,080
+<b>{\an2}The top of the camembert,</b>
+<b>I've just torched it.</b>
+
+1251
+00:55:27,120 --> 00:55:28,560
+<b>{\an2}This is white chocolate</b>
+
+1252
+00:55:28,600 --> 00:55:31,920
+<b>{\an2}and this is creating</b>
+<b>the cheese pull for the pizza.</b>
+
+1253
+00:55:31,960 --> 00:55:34,600
+<b>{\an2}Just got to make the brie look like</b>
+<b>the brie.</b>
+
+1254
+00:55:34,640 --> 00:55:36,160
+<b>{\an2}Yeah, we're getting there now,</b>
+<b>aren't we?</b>
+
+1255
+00:55:36,200 --> 00:55:38,600
+<b>{\an2}Bakers, you have five minutes left.</b>
+
+1256
+00:55:38,640 --> 00:55:40,640
+<b>{\an2}Scissors, scissors, scissors!</b>
+
+1257
+00:55:42,680 --> 00:55:44,360
+<b>{\an2}Get some chips on,</b>
+<b>let's see how they look.</b>
+
+1258
+00:55:44,400 --> 00:55:46,680
+<b>{\an2}I do like my chips on</b>
+<b>the darker side.</b>
+
+1259
+00:55:46,720 --> 00:55:50,280
+<b>{\an2}Just piping the grapes</b>
+<b>and the olives.</b>
+
+1260
+00:55:50,320 --> 00:55:51,520
+<b>{\an2}How long do we have?</b>
+
+1261
+00:55:51,560 --> 00:55:53,640
+<b>{\an2}Bakers, you have one minute left.</b>
+
+1262
+00:55:57,040 --> 00:55:59,040
+<b>{\an2}Tuile pepperoni.</b>
+
+1263
+00:55:59,080 --> 00:56:00,800
+<b>{\an2}Taking it to the wire.</b>
+
+1264
+00:56:03,520 --> 00:56:04,960
+<b>{\an2}They're little gherkins.</b>
+
+1265
+00:56:05,000 --> 00:56:06,640
+<b>{\an2}Right.</b>
+
+1266
+00:56:06,680 --> 00:56:09,240
+<b>{\an2}Bakers, that is time up.</b>
+
+1267
+00:56:09,280 --> 00:56:11,520
+<b>{\an2}Please step away from</b>
+<b>your Showstoppers.</b>
+
+1268
+00:56:13,280 --> 00:56:15,240
+<b>{\an2}It's so bad.</b>
+
+1269
+00:56:15,280 --> 00:56:19,560
+<b>{\an2}First time in three things I haven't</b>
+<b>had an absolutely mad panic.</b>
+
+1270
+00:56:19,600 --> 00:56:21,080
+<b>{\an2}Have I forgotten anything?</b>
+
+1271
+00:56:21,120 --> 00:56:22,720
+<b>{\an2}Josh's is BLEEP outrageous.</b>
+
+1272
+00:56:22,760 --> 00:56:24,520
+<b>{\an2}Yeah, that's sick, innit?</b>
+
+1273
+00:56:29,760 --> 00:56:33,840
+<b>{\an2}It's judgment time for the bakers'</b>
+<b>biscuit illusion banquets.</b>
+
+1274
+00:56:33,880 --> 00:56:37,480
+<b>{\an2}Tasha, would you like to bring up</b>
+<b>your Showstopper, please?</b>
+
+1275
+00:56:45,360 --> 00:56:47,160
+<b>{\an8}I think it looks good.</b>
+
+1276
+00:56:47,200 --> 00:56:49,480
+<b>{\an2}Thank you.</b>
+
+1277
+00:56:49,520 --> 00:56:51,200
+<b>{\an2}It's very pretty.</b>
+
+1278
+00:56:51,240 --> 00:56:54,480
+<b>{\an2}It does give the illusion of being</b>
+<b>a chicken katsu.</b>
+
+1279
+00:56:54,520 --> 00:56:56,720
+<b>{\an2}Um, I'll take a little bit of the...</b>
+
+1280
+00:56:56,760 --> 00:57:00,080
+<b>{\an2}It is a Palet Breton lemon-flavoured</b>
+<b>bowl.</b>
+
+1281
+00:57:00,120 --> 00:57:02,440
+<b>{\an2}Hmm. Mm. Good, isn't it?</b>
+
+1282
+00:57:02,480 --> 00:57:04,640
+<b>{\an2}That biscuit is nice</b>
+<b>and sharp with flavour.</b>
+
+1283
+00:57:04,680 --> 00:57:06,600
+<b>{\an2}Limoncello comes through nicely.</b>
+
+1284
+00:57:06,640 --> 00:57:08,280
+<b>{\an2}Let's have some of the chicken.</b>
+
+1285
+00:57:08,320 --> 00:57:12,240
+<b>{\an2}This one is an orange and almond</b>
+<b>biscotti coated in white chocolate.</b>
+
+1286
+00:57:12,280 --> 00:57:14,000
+<b>{\an2}That biscotti's delicious.</b>
+
+1287
+00:57:14,040 --> 00:57:15,320
+<b>{\an2}Oh.</b>
+
+1288
+00:57:15,360 --> 00:57:18,040
+<b>{\an2}I love the crunch, the flavour.</b>
+
+1289
+00:57:18,080 --> 00:57:20,720
+<b>{\an2}The texture's spot on.</b>
+<b>Really good.</b>
+
+1290
+00:57:20,760 --> 00:57:23,360
+<b>{\an2}Both of those biscuits are perfect.</b>
+
+1291
+00:57:23,400 --> 00:57:26,400
+<b>{\an2}You have set a bar that's</b>
+<b>a little bit high.</b>
+
+1292
+00:57:26,440 --> 00:57:27,760
+<b>{\an2}Well done.</b>
+
+1293
+00:57:27,800 --> 00:57:29,280
+<b>{\an2}Thank you so much.</b>
+
+1294
+00:57:31,160 --> 00:57:33,800
+<b>{\an8}Well, I think that it looks</b>
+<b>wonderful.</b>
+
+1295
+00:57:33,840 --> 00:57:36,040
+<b>{\an2}Let's have a look at this.</b>
+<b>That's the ginger.</b>
+
+1296
+00:57:39,400 --> 00:57:42,720
+<b>{\an2}Ginger's got a good flavour,</b>
+<b>nice and warm.</b>
+
+1297
+00:57:42,760 --> 00:57:44,200
+<b>{\an2}Is this a biscotti? Yeah.</b>
+
+1298
+00:57:44,240 --> 00:57:46,520
+<b>{\an2}Almond and dried cherry.</b>
+
+1299
+00:57:46,560 --> 00:57:48,760
+<b>{\an2}Biscotti's very nice,</b>
+<b>it's nice and tangy.</b>
+
+1300
+00:57:48,800 --> 00:57:50,200
+<b>{\an2}I think you've done well.</b>
+
+1301
+00:57:50,240 --> 00:57:51,720
+<b>{\an2}It's smart, it's neat. Well done.</b>
+
+1302
+00:57:51,760 --> 00:57:53,120
+<b>{\an2}Thank you, guys.</b>
+
+1303
+00:57:55,320 --> 00:57:57,000
+<b>{\an2}We'll start...</b>
+<b>We'll have a look at these.</b>
+
+1304
+00:57:57,040 --> 00:57:58,200
+<b>{\an2}These are...</b>
+
+1305
+00:57:58,240 --> 00:58:01,400
+<b>{\an2}It's a spiced black pepper</b>
+<b>gingerbread type thing.</b>
+
+1306
+00:58:01,440 --> 00:58:02,760
+<b>{\an2}Good flavour.</b>
+
+1307
+00:58:02,800 --> 00:58:04,600
+<b>{\an2}Texture's softened slightly,</b>
+
+1308
+00:58:04,640 --> 00:58:06,600
+<b>{\an2}uh, because of the topping on it.</b>
+
+1309
+00:58:06,640 --> 00:58:08,560
+<b>{\an2}The illusion bit doesn't work</b>
+<b>all that well.</b>
+
+1310
+00:58:08,600 --> 00:58:11,120
+<b>{\an2}After a while, you realise that's</b>
+<b>maybe salami on top.</b>
+
+1311
+00:58:11,160 --> 00:58:12,520
+<b>{\an2}Is that right? Yeah.</b>
+
+1312
+00:58:12,560 --> 00:58:15,600
+<b>{\an2}But I do like the flavours,</b>
+<b>your flavours are good.</b>
+
+1313
+00:58:15,640 --> 00:58:17,080
+<b>{\an2}Yeah.</b>
+
+1314
+00:58:20,360 --> 00:58:22,720
+<b>{\an2}It's a terrific illusion. I mean,</b>
+<b>as soon as you look at it,</b>
+
+1315
+00:58:22,760 --> 00:58:25,200
+<b>{\an2}it really looks like a cheeseboard.</b>
+
+1316
+00:58:25,240 --> 00:58:27,680
+<b>{\an2}These sort of crackers,</b>
+<b>this is the one I want to try.</b>
+
+1317
+00:58:27,720 --> 00:58:29,240
+<b>{\an2}I saw you making these.</b>
+
+1318
+00:58:29,280 --> 00:58:32,240
+<b>{\an2}Yeah, they looked as if they were</b>
+<b>stuffed with cranberries.</b>
+
+1319
+00:58:32,280 --> 00:58:34,880
+<b>{\an2}Very crumbly shortbread.</b>
+
+1320
+00:58:34,920 --> 00:58:36,280
+<b>{\an2}It's lovely. Yeah.</b>
+
+1321
+00:58:36,320 --> 00:58:37,840
+<b>{\an2}Well done, Matty. Thank you, Matty.</b>
+
+1322
+00:58:37,880 --> 00:58:38,920
+<b>{\an2}Thank you, cheers.</b>
+
+1323
+00:58:42,000 --> 00:58:43,920
+<b>{\an8}I think it's clever.</b>
+
+1324
+00:58:43,960 --> 00:58:46,880
+<b>{\an2}I'm not quite sure I've seen</b>
+<b>many tomatoes...</b>
+
+1325
+00:58:46,920 --> 00:58:48,680
+<b>{\an2}..like that. No.</b>
+
+1326
+00:58:48,720 --> 00:58:50,880
+<b>{\an2}They're from the south coast. We...</b>
+
+1327
+00:58:50,920 --> 00:58:52,840
+<b>{\an2}We have very good...</b>
+
+1328
+00:58:52,880 --> 00:58:55,040
+<b>{\an2}We have very good growing</b>
+<b>conditions,</b>
+
+1329
+00:58:55,080 --> 00:58:56,880
+<b>{\an2}and you get that redness.</b>
+<b>That's amazing.</b>
+
+1330
+00:58:56,920 --> 00:58:59,560
+<b>{\an2}I do like the way you've done</b>
+<b>the bread. Oh, dear.</b>
+
+1331
+00:58:59,600 --> 00:59:01,160
+<b>{\an2}It's very soft.</b>
+
+1332
+00:59:01,200 --> 00:59:02,360
+<b>{\an2}Great flavour.</b>
+
+1333
+00:59:02,400 --> 00:59:04,640
+<b>{\an2}Your flavours are always good.</b>
+
+1334
+00:59:04,680 --> 00:59:08,360
+<b>{\an2}The issue is, I shouldn't be able to</b>
+<b>push my finger in like that. No.</b>
+
+1335
+00:59:08,400 --> 00:59:09,840
+<b>{\an2}It's too soft.</b>
+
+1336
+00:59:09,880 --> 00:59:12,120
+<b>{\an2}The ham slice in the middle,</b>
+<b>is that the same?</b>
+
+1337
+00:59:12,160 --> 00:59:13,160
+<b>{\an2}Yes.</b>
+
+1338
+00:59:13,200 --> 00:59:14,760
+<b>{\an2}That is much better baked.</b>
+
+1339
+00:59:14,800 --> 00:59:16,480
+<b>{\an2}Right, the ice cream.</b>
+
+1340
+00:59:16,520 --> 00:59:19,720
+<b>{\an2}It's vanilla-flavoured Viennese</b>
+<b>and raspberry buttercream.</b>
+
+1341
+00:59:19,760 --> 00:59:22,200
+<b>{\an2}Slightly raw inside the biscuit.</b>
+
+1342
+00:59:22,240 --> 00:59:24,800
+<b>{\an2}You struggled on this one a bit,</b>
+<b>Keith.</b>
+
+1343
+00:59:29,480 --> 00:59:32,080
+<b>{\an2}I have to say, I've never seen</b>
+<b>a pizza that deep.</b>
+
+1344
+00:59:32,120 --> 00:59:34,240
+<b>{\an2}Neither have I, to be honest!</b>
+
+1345
+00:59:34,280 --> 00:59:36,040
+<b>{\an2}But that's the dream.</b>
+
+1346
+00:59:36,080 --> 00:59:38,760
+<b>{\an2}So, the bottom two are the</b>
+<b>shortbread,</b>
+
+1347
+00:59:38,800 --> 00:59:42,880
+<b>{\an2}and the top is just a vanilla</b>
+<b>biscuit with the date filling.</b>
+
+1348
+00:59:44,000 --> 00:59:45,680
+<b>{\an2}Well, I enjoyed all that a lot.</b>
+
+1349
+00:59:45,720 --> 00:59:47,280
+<b>{\an2}You've done a really good job</b>
+<b>with that.</b>
+
+1350
+00:59:47,320 --> 00:59:49,160
+<b>{\an2}I think the flavours and textures</b>
+<b>are clever.</b>
+
+1351
+00:59:49,200 --> 00:59:50,760
+<b>{\an2}And it's so original.</b>
+
+1352
+00:59:50,800 --> 00:59:52,400
+<b>{\an2}I mean, I love the date-stuffed</b>
+<b>crust.</b>
+
+1353
+00:59:52,440 --> 00:59:54,200
+<b>{\an2}Thank you, Dana. Thank you.</b>
+
+1354
+00:59:56,800 --> 00:59:58,960
+<b>{\an2}I like the look of this,</b>
+<b>this is clever.</b>
+
+1355
+00:59:59,000 --> 01:00:01,440
+<b>{\an2}Love the steam basket. Very nice,</b>
+<b>steamer basket, it's beautiful.</b>
+
+1356
+01:00:01,480 --> 01:00:02,800
+<b>{\an2}Absolutely perfect.</b>
+
+1357
+01:00:02,840 --> 01:00:04,000
+<b>{\an2}And what's in these?</b>
+
+1358
+01:00:04,040 --> 01:00:06,680
+<b>{\an2}So, it's an apricot, pistachio</b>
+<b>and thyme filling.</b>
+
+1359
+01:00:08,400 --> 01:00:11,040
+<b>{\an2}Filling is very strong,</b>
+<b>but it's delicious.</b>
+
+1360
+01:00:11,080 --> 01:00:15,400
+<b>{\an2}And the biscuit is crisp</b>
+<b>and flavoursome.</b>
+
+1361
+01:00:15,440 --> 01:00:18,280
+<b>{\an2}It looks like a dim sum.</b>
+<b>This looks lovely.</b>
+
+1362
+01:00:18,320 --> 01:00:20,080
+<b>{\an2}So, I think you've done a decent job</b>
+<b>with this.</b>
+
+1363
+01:00:20,120 --> 01:00:21,400
+<b>{\an2}The illusion works.</b>
+
+1364
+01:00:21,440 --> 01:00:23,240
+<b>{\an2}Thank you very much.</b>
+<b>Thank you. Well done.</b>
+
+1365
+01:00:26,640 --> 01:00:28,640
+<b>{\an2}These are the rotis?</b>
+<b>Very delicious.</b>
+
+1366
+01:00:28,680 --> 01:00:31,240
+<b>{\an2}That is fantastic.</b>
+<b>They're so good.</b>
+
+1367
+01:00:31,280 --> 01:00:34,960
+<b>{\an2}That in its own right should be</b>
+<b>a well-known Sri Lankan delicacy.</b>
+
+1368
+01:00:35,000 --> 01:00:36,800
+<b>{\an2}OK. Let's try a hopper.</b>
+
+1369
+01:00:38,280 --> 01:00:39,920
+<b>{\an2}The spices in there are good,</b>
+
+1370
+01:00:39,960 --> 01:00:41,560
+<b>{\an2}but I think you could've done</b>
+<b>more with that.</b>
+
+1371
+01:00:41,600 --> 01:00:44,440
+<b>{\an2}Perhaps if you'd have made the egg</b>
+<b>a little bigger</b>
+
+1372
+01:00:44,480 --> 01:00:47,080
+<b>{\an2}and done it with spring onion,</b>
+<b>a bit of chilli,</b>
+
+1373
+01:00:47,120 --> 01:00:49,280
+<b>{\an2}so that it looked more colourful.</b>
+<b>Yes.</b>
+
+1374
+01:00:52,880 --> 01:00:55,280
+<b>{\an8}It's just beautiful. Amazing.</b>
+
+1375
+01:00:56,360 --> 01:00:58,200
+<b>{\an2}Are these chips shortbread?</b>
+
+1376
+01:00:58,240 --> 01:01:01,120
+<b>{\an2}Uh, just vanilla,</b>
+<b>like a sable biscuit.</b>
+
+1377
+01:01:01,160 --> 01:01:03,560
+<b>{\an2}They taste nice,</b>
+<b>but they are a little bit burnt.</b>
+
+1378
+01:01:03,600 --> 01:01:05,400
+<b>{\an2}Let's have a look at this pie.</b>
+
+1379
+01:01:05,440 --> 01:01:07,360
+<b>{\an2}What is the biscuit here?</b>
+<b>This is...</b>
+
+1380
+01:01:07,400 --> 01:01:09,800
+<b>{\an2}It's, like, a pistachio shortbread</b>
+<b>in there, as well.</b>
+
+1381
+01:01:09,840 --> 01:01:12,000
+<b>{\an2}Do you know, I think it's</b>
+<b>absolutely delicious. It is.</b>
+
+1382
+01:01:12,040 --> 01:01:14,400
+<b>{\an2}I think it's a triumph,</b>
+<b>I really do.</b>
+
+1383
+01:01:14,440 --> 01:01:17,080
+<b>{\an2}I think you've done a great job</b>
+<b>on the biscuits,</b>
+
+1384
+01:01:17,120 --> 01:01:20,040
+<b>{\an2}except for the overbaking slightly.</b>
+
+1385
+01:01:20,080 --> 01:01:21,800
+<b>{\an2}And the filling is wonderful.</b>
+
+1386
+01:01:21,840 --> 01:01:23,760
+<b>{\an2}Well done. Excellent.</b>
+<b>Well done, Dan.</b>
+
+1387
+01:01:23,800 --> 01:01:25,240
+<b>{\an2}Thank you very much. Thanks.</b>
+
+1388
+01:01:29,000 --> 01:01:31,320
+<b>{\an2}It's a good looking thing.</b>
+<b>I mean, it's...</b>
+
+1389
+01:01:31,360 --> 01:01:33,800
+<b>{\an2}It's neat. It's quite well detailed,</b>
+<b>and it is neat.</b>
+
+1390
+01:01:33,840 --> 01:01:35,520
+<b>{\an2}Right, let's try the shortbread.</b>
+
+1391
+01:01:36,640 --> 01:01:39,320
+<b>{\an2}To be honest, your chips do look</b>
+<b>more like shortbread fingers</b>
+
+1392
+01:01:39,360 --> 01:01:41,520
+<b>{\an2}than chips.</b>
+<b>LAUGHING: They do, don't they?</b>
+
+1393
+01:01:41,560 --> 01:01:42,960
+<b>{\an2}They do, don't they?</b>
+
+1394
+01:01:43,000 --> 01:01:44,760
+<b>{\an2}What is the beef?</b>
+
+1395
+01:01:44,800 --> 01:01:49,000
+<b>{\an2}The beef is a chocolate biscuit</b>
+<b>with chocolate ganache,</b>
+
+1396
+01:01:49,040 --> 01:01:51,160
+<b>{\an2}with orange and hazelnuts</b>
+<b>through it.</b>
+
+1397
+01:01:51,200 --> 01:01:53,240
+<b>{\an2}The chocolate and hazelnut</b>
+<b>are beautiful.</b>
+
+1398
+01:01:53,280 --> 01:01:55,320
+<b>{\an2}The texture falls apart</b>
+<b>in the mouth.</b>
+
+1399
+01:01:55,360 --> 01:01:57,000
+<b>{\an2}And the ganache just tops it off.</b>
+
+1400
+01:01:57,040 --> 01:01:59,120
+<b>{\an2}It's a good sandwich biscuit.</b>
+<b>Mm.</b>
+
+1401
+01:01:59,160 --> 01:02:00,560
+<b>{\an2}And what's the bowl made of?</b>
+
+1402
+01:02:00,600 --> 01:02:01,720
+<b>{\an2}Gingerbread.</b>
+
+1403
+01:02:01,760 --> 01:02:02,880
+<b>{\an2}Gingerbread. Gingerbread.</b>
+
+1404
+01:02:02,920 --> 01:02:05,600
+<b>{\an2}The flavour of the ginger's very</b>
+<b>gingery. It's too thick and</b>
+<b>underbaked.</b>
+
+1405
+01:02:05,640 --> 01:02:07,240
+<b>{\an2}Just needed longer in the oven...</b>
+<b>Yeah.</b>
+
+1406
+01:02:07,280 --> 01:02:09,800
+<b>{\an2}..and thinner, and it would've</b>
+<b>been better. Yeah.</b>
+
+1407
+01:02:14,880 --> 01:02:17,720
+<b>{\an2}Josh, it is so neat,</b>
+
+1408
+01:02:17,760 --> 01:02:20,240
+<b>{\an2}and so clearly what it is.</b>
+
+1409
+01:02:20,280 --> 01:02:22,000
+<b>{\an2}I think it's a little triumph.</b>
+
+1410
+01:02:22,040 --> 01:02:23,800
+<b>{\an2}I think it's a big triumph.</b>
+
+1411
+01:02:23,840 --> 01:02:26,160
+<b>{\an2}This is the orange shortbread,</b>
+<b>isn't it? Yeah.</b>
+
+1412
+01:02:26,200 --> 01:02:27,760
+<b>{\an2}That's beautiful. Beautiful.</b>
+
+1413
+01:02:27,800 --> 01:02:29,160
+<b>{\an2}Delicate. Light.</b>
+
+1414
+01:02:29,200 --> 01:02:30,240
+<b>{\an2}Hmm.</b>
+
+1415
+01:02:30,280 --> 01:02:32,080
+<b>{\an2}Oh, look at that.</b>
+<b>Look at that tomato.</b>
+
+1416
+01:02:32,120 --> 01:02:35,360
+<b>{\an2}Look at that tomato. Let me hold</b>
+<b>it up. That's clever.</b>
+
+1417
+01:02:35,400 --> 01:02:37,960
+<b>{\an2}You can see through it.</b>
+
+1418
+01:02:38,000 --> 01:02:39,800
+<b>{\an2}Isn't that amazing?</b>
+
+1419
+01:02:39,840 --> 01:02:41,920
+<b>{\an2}Let's try this chocolate one.</b>
+
+1420
+01:02:41,960 --> 01:02:43,720
+<b>{\an2}There's walnuts, pecans</b>
+<b>and almonds in there,</b>
+
+1421
+01:02:43,760 --> 01:02:45,600
+<b>{\an2}and then some currants</b>
+<b>and some cherries, as well.</b>
+
+1422
+01:02:45,640 --> 01:02:47,880
+<b>{\an2}It's chewy, it's crispy, it's zingy,</b>
+
+1423
+01:02:47,920 --> 01:02:49,240
+<b>{\an2}it's full of flavour.</b>
+
+1424
+01:02:49,280 --> 01:02:53,200
+<b>{\an2}I think overall you've created...</b>
+<b>something a little bit special.</b>
+
+1425
+01:02:54,360 --> 01:02:57,480
+<b>{\an2}You don't often get illusion stuff</b>
+<b>that tastes</b>
+
+1426
+01:02:57,520 --> 01:02:59,040
+<b>{\an2}and looks as good as that.</b>
+<b>Thank you.</b>
+
+1427
+01:02:59,080 --> 01:03:01,720
+<b>{\an2}That's amazing, mate. Yeah, well</b>
+<b>done. Cheers, thank you. Well done.</b>
+
+1428
+01:03:03,360 --> 01:03:04,760
+<b>{\an2}That was incredible, wasn't it?</b>
+
+1429
+01:03:04,800 --> 01:03:06,160
+<b>{\an2}Wasn't expecting that at all.</b>
+
+1430
+01:03:06,200 --> 01:03:07,480
+<b>{\an2}Know what, mate?</b>
+
+1431
+01:03:08,640 --> 01:03:09,720
+<b>{\an2}Oh, come on.</b>
+
+1432
+01:03:09,760 --> 01:03:11,960
+<b>{\an2}I'll come to you.</b>
+<b>Oh, thank you. Oh, wow.</b>
+
+1433
+01:03:12,000 --> 01:03:15,040
+<b>{\an2}That was amazing.</b>
+<b>Honestly, it was seriously good.</b>
+
+1434
+01:03:15,080 --> 01:03:16,480
+<b>{\an2}Amazing.</b>
+
+1435
+01:03:17,960 --> 01:03:19,960
+<b>{\an2}I think Josh has pipped Star Baker.</b>
+
+1436
+01:03:20,000 --> 01:03:21,400
+<b>{\an2}But that's fine.</b>
+
+1437
+01:03:21,440 --> 01:03:22,720
+<b>{\an2}Another time.</b>
+
+1438
+01:03:22,760 --> 01:03:24,440
+<b>{\an2}I was...</b>
+
+1439
+01:03:24,480 --> 01:03:26,880
+<b>{\an2}..touching distance,</b>
+<b>and then it was gone.</b>
+
+1440
+01:03:26,920 --> 01:03:29,920
+<b>{\an2}I'm actually quite good at</b>
+<b>making a real steak pie,</b>
+
+1441
+01:03:29,960 --> 01:03:32,920
+<b>{\an2}but maybe not so much out</b>
+<b>of biscuit.</b>
+
+1442
+01:03:32,960 --> 01:03:36,520
+<b>{\an2}So, I've got a right to be</b>
+<b>a bit concerned, I think.</b>
+
+1443
+01:03:40,360 --> 01:03:43,080
+<b>{\an2}It's decision time for</b>
+<b>Paul and Prue.</b>
+
+1444
+01:03:43,120 --> 01:03:45,160
+<b>{\an2}Who will be crowned Star Baker</b>
+
+1445
+01:03:45,200 --> 01:03:46,920
+<b>{\an2}and who will be leaving the tent?</b>
+
+1446
+01:03:46,960 --> 01:03:49,240
+<b>{\an2}What a Showstopper.</b>
+<b>You got your handshake out.</b>
+
+1447
+01:03:49,280 --> 01:03:50,920
+<b>{\an2}Ah. Yeah, it was delayed.</b>
+
+1448
+01:03:50,960 --> 01:03:54,000
+<b>{\an2}It was, because I was so full</b>
+<b>of biscuit.</b>
+
+1449
+01:03:54,040 --> 01:03:56,040
+<b>{\an2}It... Everything was numb.</b>
+
+1450
+01:03:56,080 --> 01:03:57,960
+<b>{\an2}And then, eventually,</b>
+<b>it hit me, and I went,</b>
+
+1451
+01:03:58,000 --> 01:04:00,080
+<b>{\an2}"Hang on a minute, I owe him</b>
+<b>a handshake." That was so good.</b>
+
+1452
+01:04:00,120 --> 01:04:02,840
+<b>{\an2}Josh is definitely in the running</b>
+<b>for Star Baker. Yeah.</b>
+
+1453
+01:04:02,880 --> 01:04:07,400
+<b>{\an2}I mean, he was sort midway,</b>
+<b>but he's just escalated himself</b>
+
+1454
+01:04:07,440 --> 01:04:10,120
+<b>{\an2}into the position of challenging</b>
+<b>for Star Baker.</b>
+
+1455
+01:04:10,160 --> 01:04:13,000
+<b>{\an2}I'm really thrilled about Tash,</b>
+<b>cos I think she's up there, too.</b>
+
+1456
+01:04:13,040 --> 01:04:16,000
+<b>{\an2}I agree. I mean, she's hardly</b>
+<b>put a foot wrong.</b>
+
+1457
+01:04:16,040 --> 01:04:18,040
+<b>{\an2}Who do you think's in danger</b>
+<b>of going?</b>
+
+1458
+01:04:18,080 --> 01:04:20,120
+<b>{\an2}Keith. Yeah, Keith.</b>
+
+1459
+01:04:20,160 --> 01:04:24,720
+<b>{\an2}The thing is with Keith, he's got</b>
+<b>flavour, he's delivering good taste.</b>
+
+1460
+01:04:24,760 --> 01:04:26,960
+<b>{\an2}Nicky has struggled a bit, as well.</b>
+
+1461
+01:04:27,000 --> 01:04:29,640
+<b>{\an2}I mean, when you look at her bakes</b>
+<b>and look at everybody else's,</b>
+
+1462
+01:04:29,680 --> 01:04:31,840
+<b>{\an2}you think, "Oh, hang on a minute.</b>
+
+1463
+01:04:31,880 --> 01:04:34,280
+<b>{\an2}"It's not as good as we initially</b>
+<b>thought it was."</b>
+
+1464
+01:04:34,320 --> 01:04:36,720
+<b>{\an2}Well, I'm glad I'm not in your</b>
+<b>shoes, judges.</b>
+
+1465
+01:04:36,760 --> 01:04:39,840
+<b>{\an2}We'd quite like to have eaten</b>
+<b>70 biscuits.</b>
+
+1466
+01:04:45,120 --> 01:04:47,360
+<b>{\an2}Bakers, well done,</b>
+<b>it's been an amazing week</b>
+
+1467
+01:04:47,400 --> 01:04:49,440
+<b>{\an2}and it was a fabulous show stopper.</b>
+
+1468
+01:04:49,480 --> 01:04:53,080
+<b>{\an2}Fortunately, I've got the great job</b>
+<b>of announcing which one of you</b>
+
+1469
+01:04:53,120 --> 01:04:56,520
+<b>{\an2}will be Star Baker this week.</b>
+
+1470
+01:04:56,560 --> 01:05:01,840
+<b>{\an2}And the person who is Star Baker</b>
+<b>this week is...</b>
+
+1471
+01:05:04,720 --> 01:05:06,200
+<b>{\an2}..Tasha.</b>
+
+1472
+01:05:11,600 --> 01:05:17,520
+<b>{\an2}Now, sadly, I have the job</b>
+<b>of letting go of one baker.</b>
+
+1473
+01:05:17,560 --> 01:05:19,560
+<b>{\an2}And with just getting to</b>
+<b>knowing you all,</b>
+
+1474
+01:05:19,600 --> 01:05:21,600
+<b>{\an2}we're absolutely adoring you.</b>
+
+1475
+01:05:21,640 --> 01:05:25,320
+<b>{\an2}But the baker leaving today is...</b>
+
+1476
+01:05:31,040 --> 01:05:33,320
+<b>{\an2}..Keith.</b>
+
+1477
+01:05:33,360 --> 01:05:35,360
+<b>{\an2}Sorry, Keith. That's all right.</b>
+
+1478
+01:05:36,800 --> 01:05:40,920
+<b>{\an2}I feel fine. There's nothing sad</b>
+<b>about this moment.</b>
+
+1479
+01:05:40,960 --> 01:05:43,200
+<b>{\an2}Thank you very much. It's been so</b>
+<b>lovely to meet you, Prue.</b>
+
+1480
+01:05:43,240 --> 01:05:45,480
+<b>{\an2}I've had the most fantastic time.</b>
+
+1481
+01:05:45,520 --> 01:05:48,480
+<b>{\an2}I said to somebody, the first</b>
+<b>weekend there was bruises</b>
+
+1482
+01:05:48,520 --> 01:05:52,640
+<b>{\an2}up and down my arms where I was</b>
+<b>pinching myself every half hour.</b>
+
+1483
+01:05:52,680 --> 01:05:56,360
+<b>{\an2}So, I don't know how many hours</b>
+<b>I'm going to spend in the rest</b>
+
+1484
+01:05:56,400 --> 01:05:58,280
+<b>{\an2}of my life banging on about this.</b>
+
+1485
+01:05:59,480 --> 01:06:02,000
+<b>{\an2}Very happy to still be here.</b>
+
+1486
+01:06:02,040 --> 01:06:03,720
+<b>{\an2}So, yes, happy.</b>
+
+1487
+01:06:03,760 --> 01:06:06,600
+<b>{\an2}But sad at the same time,</b>
+<b>because Keith's gone.</b>
+
+1488
+01:06:08,000 --> 01:06:09,320
+<b>{\an2}Well done.</b>
+
+1489
+01:06:09,360 --> 01:06:12,200
+<b>{\an2}Tasha's such a deserving Star Baker</b>
+<b>this week, because her signature</b>
+
+1490
+01:06:12,240 --> 01:06:14,840
+<b>{\an2}yesterday - and I tasted her</b>
+<b>signature - it was incredible.</b>
+
+1491
+01:06:14,880 --> 01:06:17,920
+<b>{\an2}So, it was well worth Star Baker</b>
+<b>for the week on its own.</b>
+
+1492
+01:06:17,960 --> 01:06:20,480
+<b>{\an2}The handshake, I'll remember that</b>
+<b>for a long time.</b>
+
+1493
+01:06:22,040 --> 01:06:23,560
+<b>{\an2}Well done.</b>
+
+1494
+01:06:23,600 --> 01:06:25,680
+<b>{\an2}It's the weirdest feeling,</b>
+
+1495
+01:06:25,720 --> 01:06:28,440
+<b>{\an2}because you put all this time</b>
+<b>and this energy and...</b>
+
+1496
+01:06:29,600 --> 01:06:31,920
+<b>{\an2}At the end of the day,</b>
+<b>it's biscuit, or it's cake,</b>
+
+1497
+01:06:31,960 --> 01:06:33,720
+<b>{\an2}or it's something that you eat.</b>
+
+1498
+01:06:33,760 --> 01:06:35,720
+<b>{\an2}But...</b>
+
+1499
+01:06:35,760 --> 01:06:38,040
+<b>{\an2}..it means so much.</b>
+
+1500
+01:06:38,080 --> 01:06:40,000
+<b>{\an2}And, yeah...</b>
+
+1501
+01:06:41,440 --> 01:06:43,760
+<b>{\an2}Yeah, it's... it's a really</b>
+<b>good feeling.</b>
+
+1502
+01:06:44,800 --> 01:06:46,480
+<b>{\an2}Next time - it's bread week...</b>
+
+1503
+01:06:46,520 --> 01:06:48,440
+<b>{\an2}I'm really nervous.</b>
+<b>You're nervous about this one?</b>
+
+1504
+01:06:48,480 --> 01:06:49,760
+<b>{\an2}I just don't want him to not</b>
+<b>like it.</b>
+
+1505
+01:06:49,800 --> 01:06:51,400
+<b>{\an2}It's all about Paul? Yeah.</b>
+
+1506
+01:06:51,440 --> 01:06:54,880
+<b>{\an2}..as the bakers take on a classic</b>
+<b>cottage loaf signature.</b>
+
+1507
+01:06:54,920 --> 01:06:57,440
+<b>{\an2}Oh! It's enormous.</b>
+<b>Oh, my God.</b>
+
+1508
+01:06:57,480 --> 01:06:59,560
+<b>{\an2}A traditional technical...</b>
+
+1509
+01:06:59,600 --> 01:07:01,520
+<b>{\an2}..that leaves some hot under</b>
+<b>the collar.</b>
+
+1510
+01:07:01,560 --> 01:07:03,000
+<b>{\an2}Cool those balls!</b>
+
+1511
+01:07:03,040 --> 01:07:04,400
+<b>{\an2}And a plaited show stopper...</b>
+
+1512
+01:07:04,440 --> 01:07:05,720
+<b>{\an2}Help me, Lord.</b>
+
+1513
+01:07:05,760 --> 01:07:07,520
+<b>{\an2}..that has them tied up in knots.</b>
+
+1514
+01:07:07,560 --> 01:07:08,720
+<b>{\an2}Stressful.</b>
+
+1515
+01:07:08,760 --> 01:07:09,800
+<b>{\an1}GLASS BREAKS</b>
+
+1516
+01:07:09,840 --> 01:07:11,080
+<b>{\an2}Oh!</b>
+
+1517
+01:07:11,120 --> 01:07:13,800
+<b>{\an2}Chuffing heck.</b>
+<b>You just want an easy life.</b>
+
+1518
+01:07:13,840 --> 01:07:16,040
+<b>{\an8}Are you a Star Baker in the making?</b>
+
+1519
+01:07:16,080 --> 01:07:20,880
+<b>{\an8}If you'd like to apply for the</b>
+<b>next series of Bake Off, visit...</b>
+
+1520
+01:07:46,440 --> 01:07:49,760
+<b>{\an9}Subtitles by Red Bee Media</b>
+

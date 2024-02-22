@@ -1,0 +1,5957 @@
+﻿1
+00:00:00,260 --> 00:00:03,759
+<font color="#FFFF00">Wow, I love your new car!</font>
+<font color="#ffffff">Yeah, it's really fast.</font>
+
+2
+00:00:03,760 --> 00:00:05,839
+<font color="#FFFF00">Driving down to the tent?</font>
+<font color="#ffffff">Soon as we've started the show.</font>
+
+3
+00:00:05,840 --> 00:00:08,519
+<font color="#ffffff">BOTH: Welcome to</font>
+<font color="#ffffff">The Great British Bake Off.</font>
+
+4
+00:00:08,520 --> 00:00:09,879
+<font color="#ffffff">See you, Paul!</font>
+
+5
+00:00:09,880 --> 00:00:11,799
+{\an1}<font color="#ffffff">ENGINE PURRS</font>
+
+6
+00:00:11,800 --> 00:00:13,279
+<font color="#ffffff">Do you want a lift?</font>
+
+7
+00:00:13,280 --> 00:00:15,079
+<font color="#FFFF00">Uh, I, I think I'll walk.</font>
+
+8
+00:00:15,080 --> 00:00:16,959
+<font color="#ffffff">Wow, such an athlete.</font>
+
+9
+00:00:16,960 --> 00:00:18,439
+<font color="#FFFF00">Got to get my steps in.</font>
+
+10
+00:00:18,440 --> 00:00:19,839
+{\an1}<font color="#ffffff">BIRDSONG</font>
+
+11
+00:00:19,840 --> 00:00:24,119
+<font color="#ffffff">Getting to the semifinal meant</font>
+<font color="#ffffff">surviving the trials of pastry week.</font>
+
+12
+00:00:24,120 --> 00:00:25,439
+<font color="#00FFFF">No-one wants a soggy tart.</font>
+
+13
+00:00:25,440 --> 00:00:26,799
+<font color="#ffffff">And it was Steph...</font>
+
+14
+00:00:26,800 --> 00:00:28,079
+<font color="#11FF11">It's delicious.</font>
+
+15
+00:00:28,080 --> 00:00:30,719
+<font color="#ffffff">..who emerged victorious again...</font>
+
+16
+00:00:30,720 --> 00:00:33,199
+<font color="#00FFFF">Just got Star</font>
+<font color="#00FFFF">Baker for the fourth time.</font>
+
+17
+00:00:33,200 --> 00:00:35,519
+<font color="#ffffff">..while Rosie's performance</font>
+<font color="#ffffff">put her in the bottom two...</font>
+
+18
+00:00:35,520 --> 00:00:37,239
+<font color="#11FF11">Your filling is very dry.</font>
+<font color="#11FF11">It's very bitty.</font>
+
+19
+00:00:37,240 --> 00:00:39,079
+<font color="#ffffff">..in the end...</font>
+<font color="#00FFFF">Quack!</font>
+
+20
+00:00:39,080 --> 00:00:41,479
+<font color="#ffffff">..it was another baker...</font>
+<font color="#11FF11">It just doesn't look good.</font>
+
+21
+00:00:41,480 --> 00:00:43,159
+<font color="#ffffff">..who proved to be...</font>
+<font color="#00FFFF">Hot damn!</font>
+
+22
+00:00:43,160 --> 00:00:44,639
+<font color="#ffffff">..extra flaky...</font>
+<font color="#FFFF00">Henry.</font>
+
+23
+00:00:44,640 --> 00:00:46,159
+<font color="#ffffff">..and their time in the tent was up.</font>
+
+24
+00:00:46,160 --> 00:00:47,639
+<font color="#00FFFF">It's been a pleasure, darling.</font>
+
+25
+00:00:47,640 --> 00:00:48,679
+<font color="#FFFF00">This time...</font>
+
+26
+00:00:48,680 --> 00:00:50,759
+<font color="#00FFFF">Ooh, way too hot!</font>
+
+27
+00:00:50,760 --> 00:00:53,039
+<font color="#FFFF00">..the bakers tackle high-end</font>
+<font color="#FFFF00">patisserie...</font>
+
+28
+00:00:53,040 --> 00:00:54,119
+<font color="#00FFFF">This is not good.</font>
+
+29
+00:00:54,120 --> 00:00:55,279
+<font color="#FFFF00">..and geometry...</font>
+
+30
+00:00:55,280 --> 00:00:57,719
+<font color="#00FFFF">Roll the pastry into a square.</font>
+
+31
+00:00:57,720 --> 00:00:59,879
+<font color="#FFFF00">..with a domed signature...</font>
+<font color="#11FF11">Yes!</font>
+
+32
+00:00:59,880 --> 00:01:01,359
+<font color="#FFFF00">..a symmetrical technical...</font>
+
+33
+00:01:01,360 --> 00:01:02,639
+<font color="#00FFFF">Cut into two rectangles.</font>
+
+34
+00:01:02,640 --> 00:01:04,239
+<font color="#11FF11">I can kind of picture what</font>
+<font color="#11FF11">it looks like.</font>
+
+35
+00:01:04,240 --> 00:01:06,279
+<font color="#FFFF00">..and a sugar cube showstopper.</font>
+
+36
+00:01:06,280 --> 00:01:08,359
+<font color="#00FFFF">If you break it, gone.</font>
+
+37
+00:01:08,360 --> 00:01:10,319
+<font color="#FFFF00">Excellence is expected...</font>
+
+38
+00:01:10,320 --> 00:01:12,039
+<font color="#ffffff">It's the semifinal,</font>
+<font color="#ffffff">it's the semifinal.</font>
+
+39
+00:01:12,040 --> 00:01:13,919
+<font color="#FFFF00">..and the smallest of slip-ups...</font>
+
+40
+00:01:13,920 --> 00:01:16,359
+<font color="#00FFFF">I need to chill out</font>
+<font color="#00FFFF">because I'm getting stressed.</font>
+
+41
+00:01:16,360 --> 00:01:17,799
+<font color="#FFFF00">..could dash their dreams...</font>
+
+42
+00:01:17,800 --> 00:01:18,879
+<font color="#00FFFF">I never feel calm.</font>
+
+43
+00:01:18,880 --> 00:01:20,799
+<font color="#FFFF00">..of competing in the final.</font>
+
+44
+00:01:20,800 --> 00:01:21,999
+<font color="#00FFFF">I'm having a total disaster.</font>
+
+45
+00:01:22,000 --> 00:01:23,999
+<font color="#11FF11">They've definitely picked</font>
+<font color="#11FF11">a difficult one</font>
+
+46
+00:01:24,000 --> 00:01:25,800
+<font color="#11FF11">but then, you wouldn't</font>
+<font color="#11FF11">expect any less.</font>
+
+47
+00:01:45,760 --> 00:01:47,319
+{\an1}<font color="#ffffff">BIRDSONG</font>
+
+48
+00:01:47,320 --> 00:01:49,559
+<font color="#ffffff">It's the semifinal and</font>
+<font color="#ffffff">the four remaining bakers</font>
+
+49
+00:01:49,560 --> 00:01:54,919
+{\an5}<font color="#ffffff">must be cut down to a last lucky</font>
+<font color="#ffffff">three for next week's Grand Final.</font>
+
+50
+00:01:54,920 --> 00:01:56,919
+<font color="#00FFFF">So special to be in the semifinals,</font>
+
+51
+00:01:56,920 --> 00:01:59,079
+<font color="#00FFFF">regardless of what happens</font>
+<font color="#00FFFF">this week.</font>
+
+52
+00:01:59,080 --> 00:02:01,199
+<font color="#11FF11">Yes, the semifinal!</font>
+
+53
+00:02:01,200 --> 00:02:02,239
+<font color="#11FF11">What?!</font>
+
+54
+00:02:02,240 --> 00:02:03,959
+<font color="#11FF11">It's not the week to drop the ball.</font>
+
+55
+00:02:03,960 --> 00:02:06,199
+<font color="#00FFFF">I definitely would like to go</font>
+<font color="#00FFFF">through to the final.</font>
+
+56
+00:02:06,200 --> 00:02:07,479
+<font color="#00FFFF">I would be buzzing for that.</font>
+
+57
+00:02:07,480 --> 00:02:09,159
+<font color="#11FF11">No-one gets to the semifinal</font>
+<font color="#11FF11">and goes,</font>
+
+58
+00:02:09,160 --> 00:02:10,959
+<font color="#11FF11">"Don't really want to</font>
+<font color="#11FF11">do the final. Nah."</font>
+
+59
+00:02:10,960 --> 00:02:13,959
+<font color="#ffffff">If they are to triumph,</font>
+<font color="#ffffff">the bakers must succeed</font>
+
+60
+00:02:13,960 --> 00:02:17,479
+<font color="#ffffff">in three intense</font>
+<font color="#ffffff">and demanding patisserie challenges.</font>
+
+61
+00:02:17,480 --> 00:02:20,119
+<font color="#00FFFF">I do not know</font>
+<font color="#00FFFF">a lot about patisserie.</font>
+
+62
+00:02:20,120 --> 00:02:23,359
+<font color="#00FFFF">Fancy pies and tarts? I've just</font>
+<font color="#00FFFF">never been interested in doing them.</font>
+
+63
+00:02:23,360 --> 00:02:25,879
+<font color="#11FF11">This week's is blooming difficult</font>
+<font color="#11FF11">because everything's so fiddly.</font>
+
+64
+00:02:25,880 --> 00:02:28,919
+<font color="#00FFFF">I think patisserie's gonna test</font>
+<font color="#00FFFF">everything I've learnt so far.</font>
+
+65
+00:02:28,920 --> 00:02:32,959
+<font color="#00FFFF">It needs to be kind of refined and</font>
+<font color="#00FFFF">it needs to kind of look perfect.</font>
+
+66
+00:02:32,960 --> 00:02:34,999
+<font color="#00FFFF">I'm a bit worried about that.</font>
+
+67
+00:02:35,000 --> 00:02:38,080
+<font color="#11FF11">Technically this is</font>
+<font color="#11FF11">one of the hardest things we'll do.</font>
+
+68
+00:02:44,400 --> 00:02:46,519
+<font color="#ffffff">Morning bakers,</font>
+<font color="#ffffff">welcome back to the tent</font>
+
+69
+00:02:46,520 --> 00:02:48,799
+<font color="#ffffff">and your very first</font>
+<font color="#ffffff">semifinal challenge.</font>
+
+70
+00:02:48,800 --> 00:02:53,519
+{\an5}<font color="#FFFF00">Today the judges would like you to</font>
+<font color="#FFFF00">make something that Sandi is</font>
+<font color="#FFFF00">very passionate about.</font>
+
+71
+00:02:53,520 --> 00:02:55,959
+<font color="#ffffff">Yeah, honestly. These are like</font>
+<font color="#ffffff">the creme de la creme</font>
+
+72
+00:02:55,960 --> 00:02:58,479
+<font color="#ffffff">of the bakery world. Yeah, no, these</font>
+<font color="#ffffff">are domed tartlets, right?</font>
+
+73
+00:02:58,480 --> 00:03:00,399
+<font color="#ffffff">What's not to get excit...?</font>
+<font color="#ffffff">SHE HYPERVENTILATES</font>
+
+74
+00:03:00,400 --> 00:03:02,999
+<font color="#ffffff">It, uh, it's... You'll have to take</font>
+<font color="#ffffff">over. It's too much for me.</font><font color="#FFFF00"> OK!</font>
+
+75
+00:03:03,000 --> 00:03:05,639
+<font color="#FFFF00">The judges would like you</font>
+<font color="#FFFF00">to make eight...</font>
+
+76
+00:03:05,640 --> 00:03:06,799
+<font color="#ffffff">Eight!</font>
+<font color="#ffffff">SANDI CHUCKLES</font>
+
+77
+00:03:06,800 --> 00:03:11,079
+<font color="#FFFF00">..elegant, beautifully</font>
+<font color="#FFFF00">decorated, domed tartlets.</font>
+
+78
+00:03:11,080 --> 00:03:15,839
+<font color="#FFFF00">They must have a sweet pastry case</font>
+<font color="#FFFF00">and be exquisitely decorated.</font>
+
+79
+00:03:15,840 --> 00:03:17,239
+<font color="#FFFF00">You've got two and a half hours.</font>
+
+80
+00:03:17,240 --> 00:03:18,679
+<font color="#ffffff">On your marks...</font>
+<font color="#FFFF00">..Get set...</font>
+
+81
+00:03:18,680 --> 00:03:19,680
+<font color="#ffffff">..bake!</font>
+
+82
+00:03:21,720 --> 00:03:23,119
+<font color="#00FFFF">I'm feeling quite nervous.</font>
+
+83
+00:03:23,120 --> 00:03:26,759
+<font color="#00FFFF">It definitely hasn't sunk in that</font>
+<font color="#00FFFF">I'm in the semifinal. That's crazy.</font>
+
+84
+00:03:26,760 --> 00:03:30,679
+<font color="#00FFFF">I think in a couple of months' time</font>
+<font color="#00FFFF">I'll be like, whoa!</font>
+
+85
+00:03:30,680 --> 00:03:33,439
+<font color="#11FF11">The Signature Challenge this</font>
+<font color="#11FF11">week is a domed tart.</font>
+
+86
+00:03:33,440 --> 00:03:35,759
+<font color="#11FF11">It's very much a French pastry,</font>
+<font color="#11FF11">this,</font>
+
+87
+00:03:35,760 --> 00:03:39,999
+<font color="#11FF11">so we expect that little</font>
+<font color="#11FF11">bit of... je ne sais quoi.</font>
+
+88
+00:03:40,000 --> 00:03:42,199
+<font color="#FFFF00">They need to be absolutely</font>
+<font color="#FFFF00">identical.</font>
+
+89
+00:03:42,200 --> 00:03:44,200
+<font color="#FFFF00">They need to be as neat as pins.</font>
+
+90
+00:03:45,960 --> 00:03:49,199
+<font color="#11FF11">This challenge is all about timing,</font>
+<font color="#11FF11">it's about precision</font>
+
+91
+00:03:49,200 --> 00:03:50,799
+<font color="#11FF11">and it's about the setting.</font>
+
+92
+00:03:50,800 --> 00:03:53,399
+<font color="#11FF11">We want that flakiness</font>
+<font color="#11FF11">and butteriness</font>
+
+93
+00:03:53,400 --> 00:03:55,239
+<font color="#11FF11">that a good sweet pastry brings</font>
+
+94
+00:03:55,240 --> 00:03:57,879
+<font color="#11FF11">and then you want to pack a punch</font>
+<font color="#11FF11">with the top.</font>
+
+95
+00:03:57,880 --> 00:04:01,359
+<font color="#FFFF00">It's definitely the hardest week</font>
+<font color="#FFFF00">they've done so far</font>
+
+96
+00:04:01,360 --> 00:04:02,999
+<font color="#FFFF00">but it's the semifinal</font>
+
+97
+00:04:03,000 --> 00:04:06,079
+<font color="#FFFF00">and we have to find the three best</font>
+<font color="#FFFF00">bakers to go through to the final.</font>
+
+98
+00:04:06,080 --> 00:04:07,679
+{\an1}<font color="#ffffff">SQUEEZY BOTTLE PARPS</font>
+
+99
+00:04:07,680 --> 00:04:08,759
+<font color="#11FF11">Pardon you!</font>
+
+100
+00:04:08,760 --> 00:04:10,760
+{\an1}<font color="#ffffff">DRAWN-OUT, BUBBLING PARP</font>
+
+101
+00:04:12,280 --> 00:04:16,039
+<font color="#00FFFF">Wearing a tie for young Henry,</font>
+<font color="#00FFFF">who we miss intensely.</font>
+
+102
+00:04:16,040 --> 00:04:17,079
+<font color="#11FF11">Henry left.</font>
+
+103
+00:04:17,080 --> 00:04:19,919
+<font color="#FFFF00">He's living on in us this week</font>
+<font color="#FFFF00">but it's quite hot in the tent</font>
+
+104
+00:04:19,920 --> 00:04:21,480
+<font color="#FFFF00">so I think I'm gonna take it off.</font>
+
+105
+00:04:23,640 --> 00:04:26,079
+<font color="#00FFFF">What's the key</font>
+<font color="#00FFFF">to getting this bake right?</font>
+
+106
+00:04:26,080 --> 00:04:29,759
+{\an5}<font color="#00FFFF">The riskiest thing is</font>
+<font color="#00FFFF">just everything setting</font>
+<font color="#00FFFF">and getting it done in time.</font>
+
+107
+00:04:29,760 --> 00:04:33,639
+{\an5}<font color="#00FFFF">I'm gonna make my pastry</font>
+<font color="#00FFFF">cases which is a chocolate, sweet</font>
+<font color="#00FFFF">shortcrust pastry.</font>
+
+108
+00:04:33,640 --> 00:04:34,959
+<font color="#00FFFF">And it's really delicate.</font>
+
+109
+00:04:34,960 --> 00:04:36,639
+<font color="#00FFFF">Well, that's the aim anyway.</font>
+
+110
+00:04:36,640 --> 00:04:38,399
+<font color="#00FFFF">Morning.</font>
+<font color="#11FF11">Alice.</font><font color="#FFFF00"> Hello, Alice.</font>
+
+111
+00:04:38,400 --> 00:04:39,599
+<font color="#ffffff">Happy semifinal!</font>
+
+112
+00:04:39,600 --> 00:04:41,559
+<font color="#00FFFF">Thank you! Yeah.</font>
+
+113
+00:04:41,560 --> 00:04:43,199
+<font color="#11FF11">Tell us all about your domed tart.</font>
+
+114
+00:04:43,200 --> 00:04:48,479
+<font color="#00FFFF">Uh, so I am doing a mocha orange</font>
+<font color="#00FFFF">and hazelnut domed tart.</font>
+
+115
+00:04:48,480 --> 00:04:51,079
+<font color="#ffffff">Well, I think you've won.</font>
+<font color="#ffffff">I think that's it.</font>
+
+116
+00:04:51,080 --> 00:04:54,279
+<font color="#FFFF00">Alice's domes will be filled with</font>
+<font color="#FFFF00">a mocha mousse,</font>
+
+117
+00:04:54,280 --> 00:04:56,479
+<font color="#FFFF00">an orange curd</font>
+<font color="#FFFF00">and a hazelnut praline paste</font>
+
+118
+00:04:56,480 --> 00:04:58,359
+<font color="#FFFF00">and topped off with</font>
+<font color="#FFFF00">a chocolate mirror glaze.</font>
+
+119
+00:04:58,360 --> 00:05:00,039
+<font color="#11FF11">How big are these tartlets gonna</font>
+<font color="#11FF11">be?</font>
+
+120
+00:05:00,040 --> 00:05:02,359
+<font color="#00FFFF">They're quite, uh,</font>
+<font color="#00FFFF">they're quite big.</font>
+
+121
+00:05:02,360 --> 00:05:05,119
+<font color="#11FF11">Oh, wow, OK.</font><font color="#FFFF00"> That's quite a lot</font>
+<font color="#FFFF00">of very rich stuff.</font>
+
+122
+00:05:05,120 --> 00:05:07,079
+<font color="#00FFFF">You just get more, you know,</font>
+<font color="#00FFFF">yumminess that way.</font>
+
+123
+00:05:07,080 --> 00:05:09,199
+<font color="#11FF11">I love the idea of chocolate</font>
+<font color="#11FF11">and hazelnut together.</font>
+
+124
+00:05:09,200 --> 00:05:10,959
+<font color="#11FF11">It's one of my favourite things.</font>
+<font color="#11FF11">Good luck.</font>
+
+125
+00:05:10,960 --> 00:05:14,199
+<font color="#00FFFF">Thank you very much.</font>
+<font color="#11FF11">Thank you.</font>
+
+126
+00:05:14,200 --> 00:05:15,519
+<font color="#00FFFF">I'm making a...</font>
+
+127
+00:05:15,520 --> 00:05:20,239
+<font color="#00FFFF">I can't say it. Pa... pate sablee?</font>
+<font color="#00FFFF">Something like that.</font>
+
+128
+00:05:20,240 --> 00:05:23,399
+<font color="#00FFFF">It's quite a rich pastry.</font>
+<font color="#00FFFF">It's almost like shortbread.</font>
+
+129
+00:05:23,400 --> 00:05:24,479
+<font color="#00FFFF">Sounds French.</font>
+
+130
+00:05:24,480 --> 00:05:29,039
+<font color="#FFFF00">Steph's domes will be covered in a</font>
+<font color="#FFFF00">white chocolate glaze filled with</font>
+
+131
+00:05:29,040 --> 00:05:32,159
+<font color="#FFFF00">a raspberry jelly and lemon mousse</font>
+<font color="#FFFF00">perched on a pate sablee pastry.</font>
+
+132
+00:05:32,160 --> 00:05:34,279
+<font color="#ffffff">Do you not think "Pat Sablee"</font>
+<font color="#ffffff">sounds like a singer?</font>
+
+133
+00:05:34,280 --> 00:05:35,999
+<font color="#FFFF00">"Welcome to the stage, Pat Sablee!"</font>
+
+134
+00:05:36,000 --> 00:05:37,559
+<font color="#11FF11">"Coming in at number two!"</font><font color="#FFFF00"> Yeah!</font>
+
+135
+00:05:37,560 --> 00:05:39,039
+{\an1}<font color="#ffffff">THEY LAUGH</font>
+
+136
+00:05:39,040 --> 00:05:40,759
+<font color="#11FF11">I mean, obviously</font>
+<font color="#11FF11">we're at semifinal stage.</font>
+
+137
+00:05:40,760 --> 00:05:42,919
+<font color="#11FF11">Well, you've won the most</font>
+<font color="#11FF11">Star Bakers this year.</font>
+
+138
+00:05:42,920 --> 00:05:44,719
+<font color="#00FFFF">I know.</font>
+<font color="#11FF11">Do you see yourself in the final?</font>
+
+139
+00:05:44,720 --> 00:05:48,719
+<font color="#00FFFF">I'm trying to just take each bake as</font>
+<font color="#00FFFF">it comes and what will be will be.</font>
+
+140
+00:05:48,720 --> 00:05:51,919
+<font color="#11FF11">Good luck, Steph.</font>
+<font color="#00FFFF">Thank you.</font><font color="#FFFF00"> Good luck, Steph.</font>
+
+141
+00:05:51,920 --> 00:05:54,279
+<font color="#00FFFF">I'm just lining my pastry cases.</font>
+
+142
+00:05:54,280 --> 00:05:57,279
+<font color="#00FFFF">I don't want any gaps</font>
+<font color="#00FFFF">or any leaky filling.</font>
+
+143
+00:05:57,280 --> 00:06:00,479
+<font color="#11FF11">This is pate sablee pastry.</font>
+<font color="#11FF11">Things that come into your head</font>
+
+144
+00:06:00,480 --> 00:06:04,039
+<font color="#11FF11">when you think "patisserie" is just</font>
+<font color="#11FF11">super neat, super precise. Yes,</font>
+
+145
+00:06:04,040 --> 00:06:06,799
+<font color="#11FF11">she says, cobbling together random</font>
+<font color="#11FF11">bits of pastry, but, whatever.</font>
+
+146
+00:06:06,800 --> 00:06:10,239
+<font color="#FFFF00">If you get through - final!</font>
+<font color="#FFFF00">Did you think you were good?</font>
+
+147
+00:06:10,240 --> 00:06:12,839
+<font color="#00FFFF">Well, my family think I'm good.</font>
+<font color="#FFFF00">Family always think you're good.</font>
+
+148
+00:06:12,840 --> 00:06:15,239
+<font color="#FFFF00">When I used to do stand-up gigs and</font>
+<font color="#FFFF00">I'd absolutely die on my arse</font>
+
+149
+00:06:15,240 --> 00:06:17,239
+<font color="#FFFF00">my mum and dad would go,</font>
+<font color="#FFFF00">"We thought you were funny."</font>
+
+150
+00:06:17,240 --> 00:06:19,599
+<font color="#00FFFF">I think you're funny!</font>
+<font color="#00FFFF">I laugh at you all the time.</font>
+
+151
+00:06:19,600 --> 00:06:21,439
+<font color="#FFFF00">That's what my mum says!</font>
+
+152
+00:06:21,440 --> 00:06:22,919
+<font color="#FFFF00">"I think you're funny."</font>
+
+153
+00:06:22,920 --> 00:06:24,919
+<font color="#00FFFF">I'm doing hazelnut</font>
+<font color="#00FFFF">biscuit at the bottom.</font>
+
+154
+00:06:24,920 --> 00:06:26,359
+<font color="#00FFFF">I didn't want to do a whole case.</font>
+
+155
+00:06:26,360 --> 00:06:29,359
+{\an5}<font color="#00FFFF">That'll just go straight in the oven</font>
+<font color="#00FFFF">and then I cut the circles</font>
+<font color="#00FFFF">afterwards.</font>
+
+156
+00:06:29,360 --> 00:06:35,399
+<font color="#11FF11">So they are going in for</font>
+<font color="#11FF11">12-14 minutes at 175.</font>
+
+157
+00:06:35,400 --> 00:06:37,319
+<font color="#ffffff">With their bases in the oven,</font>
+
+158
+00:06:37,320 --> 00:06:40,279
+<font color="#ffffff">the bakers can start on the first</font>
+<font color="#ffffff">of their domes' multiple fillings.</font>
+
+159
+00:06:40,280 --> 00:06:43,279
+<font color="#00FFFF">Right, what's next? Zest a lemon.</font>
+
+160
+00:06:43,280 --> 00:06:44,799
+<font color="#11FF11">This is the filling for my dome.</font>
+
+161
+00:06:44,800 --> 00:06:48,759
+<font color="#11FF11">It kind of, it all revolves</font>
+<font color="#11FF11">around the drink, a liqueur spritz.</font>
+
+162
+00:06:48,760 --> 00:06:50,279
+<font color="#11FF11">I think it's delicious.</font>
+
+163
+00:06:50,280 --> 00:06:54,199
+{\an8}<font color="#FFFF00">David's aperitif jelly will be</font>
+<font color="#FFFF00">encased in a leche flan dome</font>
+
+164
+00:06:54,200 --> 00:06:56,319
+{\an8}<font color="#FFFF00">perched on an orange pastry disc</font>
+
+165
+00:06:56,320 --> 00:06:58,119
+{\an8}<font color="#FFFF00">topped with a mirror glaze</font>
+
+166
+00:06:58,120 --> 00:07:00,519
+{\an8}<font color="#FFFF00">flavoured with more</font>
+<font color="#FFFF00">of the botanical Italian spirit.</font>
+
+167
+00:07:00,520 --> 00:07:02,759
+<font color="#11FF11">How do you feel about the</font>
+<font color="#11FF11">possibility of being in the final?</font>
+
+168
+00:07:02,760 --> 00:07:03,959
+<font color="#00FFFF">It's quite scary, actually.</font>
+
+169
+00:07:03,960 --> 00:07:06,559
+<font color="#ffffff">And we're gonna keep coming round</font>
+<font color="#ffffff">and reminding you of that though.</font>
+
+170
+00:07:06,560 --> 00:07:08,359
+<font color="#ffffff">"It's the semifinal,</font>
+<font color="#ffffff">it's the semifinal!"</font>
+
+171
+00:07:08,360 --> 00:07:09,599
+<font color="#FFFF00">Good luck, David.</font><font color="#00FFFF"> Thanks.</font>
+
+172
+00:07:09,600 --> 00:07:10,639
+{\an1}<font color="#ffffff">SHE HUFFS</font>
+
+173
+00:07:10,640 --> 00:07:15,559
+<font color="#FFFF00">David's not the only baker</font>
+<font color="#FFFF00">opting for an alcoholic flavour.</font>
+
+174
+00:07:15,560 --> 00:07:19,359
+<font color="#00FFFF">My tarts are lemon, raspberry</font>
+<font color="#00FFFF">and mint with a hint of gin</font>
+
+175
+00:07:19,360 --> 00:07:21,439
+<font color="#00FFFF">with some pulled sugar strands</font>
+<font color="#00FFFF">and some silver leaf.</font>
+
+176
+00:07:21,440 --> 00:07:23,119
+<font color="#00FFFF">I was gonna have another</font>
+<font color="#00FFFF">element in there</font>
+
+177
+00:07:23,120 --> 00:07:25,199
+<font color="#00FFFF">and I cut it out cos I'm, I'm being,</font>
+<font color="#00FFFF">I'm being sensible.</font>
+
+178
+00:07:25,200 --> 00:07:27,719
+<font color="#00FFFF">Yeah, I know. I don't think I'm</font>
+<font color="#00FFFF">gonna get it done, am I?</font>
+
+179
+00:07:27,720 --> 00:07:29,639
+<font color="#00FFFF">But... you know.</font>
+
+180
+00:07:29,640 --> 00:07:31,319
+{\an8}<font color="#ffffff">Rosie's pate sablee pastry case</font>
+
+181
+00:07:31,320 --> 00:07:33,719
+{\an8}<font color="#ffffff">will have a raspberry gin and</font>
+<font color="#ffffff">mint creme pat,</font>
+
+182
+00:07:33,720 --> 00:07:35,639
+{\an8}<font color="#ffffff">a lemon Bavarian cream dome,</font>
+
+183
+00:07:35,640 --> 00:07:38,159
+{\an8}<font color="#ffffff">finished with a lemon mirror glaze.</font>
+
+184
+00:07:38,160 --> 00:07:41,959
+<font color="#FFFF00">I can't believe you made this far.</font>
+<font color="#00FFFF">Oh, thanks(!) Cheers.</font>
+
+185
+00:07:41,960 --> 00:07:43,159
+<font color="#FFFF00">Joking, joking.</font>
+
+186
+00:07:43,160 --> 00:07:45,399
+<font color="#FFFF00">Semifinal's pretty good.</font>
+<font color="#00FFFF">Semifinal is good enough.</font>
+
+187
+00:07:45,400 --> 00:07:48,399
+{\an5}<font color="#FFFF00">Yeah, but you want to go,</font>
+<font color="#FFFF00">"I got to the final," don't you,</font>
+<font color="#FFFF00">cos you're a vet.</font>
+
+188
+00:07:48,400 --> 00:07:49,799
+<font color="#FFFF00">If you only get to the semifinal,</font>
+
+189
+00:07:49,800 --> 00:07:53,119
+<font color="#FFFF00">you'll be operating on like a pony</font>
+<font color="#FFFF00">or something that'll come to</font>
+
+190
+00:07:53,120 --> 00:07:58,799
+<font color="#FFFF00">and go, "semifinal? Jesus, not</font>
+<font color="#FFFF00">even the final!"</font><font color="#00FFFF"> I know!</font>
+
+191
+00:07:58,800 --> 00:08:00,799
+<font color="#00FFFF">I don't think I like you any more!</font>
+
+192
+00:08:00,800 --> 00:08:04,719
+<font color="#FFFF00">I'm joking.</font><font color="#00FFFF"> Meanie!</font><font color="#FFFF00"> You've done</font>
+<font color="#FFFF00">amazingly well.</font>
+
+193
+00:08:04,720 --> 00:08:07,239
+<font color="#00FFFF">This is the lemon mousse.</font>
+
+194
+00:08:07,240 --> 00:08:09,439
+<font color="#00FFFF">I hope it's gonna be really lemony.</font>
+
+195
+00:08:09,440 --> 00:08:13,679
+<font color="#00FFFF">They never tell you that you need</font>
+<font color="#00FFFF">biceps of steel in this competition.</font>
+
+196
+00:08:13,680 --> 00:08:16,119
+<font color="#00FFFF">Oh, yeah, my arms are aching.</font>
+
+197
+00:08:16,120 --> 00:08:18,639
+<font color="#11FF11">This is my chocolate mocha mousse.</font>
+
+198
+00:08:18,640 --> 00:08:21,359
+<font color="#11FF11">I need the mousse to freeze.</font>
+
+199
+00:08:21,360 --> 00:08:23,919
+<font color="#11FF11">These need to</font>
+<font color="#11FF11">be in the freezer ASAP.</font>
+
+200
+00:08:23,920 --> 00:08:27,759
+<font color="#11FF11">You need to turn them out</font>
+<font color="#11FF11">when they're absolutely frozen.</font>
+
+201
+00:08:27,760 --> 00:08:30,999
+<font color="#FFFF00">The bakers are using moulds to</font>
+<font color="#FFFF00">achieve the all-important dome.</font>
+
+202
+00:08:31,000 --> 00:08:34,399
+<font color="#FFFF00">But if their soft, sloppy fillings</font>
+<font color="#FFFF00">are to take shape</font>
+
+203
+00:08:34,400 --> 00:08:36,440
+<font color="#FFFF00">it's vital they freeze solid.</font>
+
+204
+00:08:38,320 --> 00:08:41,399
+<font color="#00FFFF">Hopefully they'll pop out nicely.</font>
+
+205
+00:08:41,400 --> 00:08:43,479
+<font color="#00FFFF">Blooming 'eck. Let's hope so, eh?</font>
+
+206
+00:08:43,480 --> 00:08:47,279
+<font color="#00FFFF">I mean, it's the domed tart so</font>
+<font color="#00FFFF">I need, I need these domes to work.</font>
+
+207
+00:08:47,280 --> 00:08:48,719
+<font color="#11FF11">Go straight into the freezer.</font>
+
+208
+00:08:48,720 --> 00:08:50,719
+<font color="#00FFFF">So we're going in for as long</font>
+<font color="#00FFFF">as possible.</font>
+
+209
+00:08:50,720 --> 00:08:54,759
+<font color="#00FFFF">And get in the freezer and hopefully</font>
+<font color="#00FFFF">set as quick as they can.</font>
+
+210
+00:08:54,760 --> 00:08:56,799
+{\an1}<font color="#ffffff">BIRDSONG</font>
+
+211
+00:08:56,800 --> 00:09:00,319
+<font color="#FFFF00">Right we got to do a time call.</font>
+<font color="#FFFF00">Has anyone seen Sandi?</font>
+
+212
+00:09:00,320 --> 00:09:01,519
+<font color="#FFFF00">Oh, there she is.</font>
+
+213
+00:09:01,520 --> 00:09:04,399
+<font color="#FFFF00">OK. Bakers, you are halfway through!</font>
+
+214
+00:09:04,400 --> 00:09:05,599
+<font color="#FFFF00">Halfway through.</font>
+
+215
+00:09:05,600 --> 00:09:07,759
+<font color="#FFFF00">Don't worry, I got this.</font>
+
+216
+00:09:07,760 --> 00:09:11,399
+<font color="#00FFFF">Right I think I'll get</font>
+<font color="#00FFFF">the tarts out.</font>
+
+217
+00:09:11,400 --> 00:09:13,599
+<font color="#11FF11">That is ready now actually, yeah.</font>
+<font color="#11FF11">That's what I want.</font>
+
+218
+00:09:13,600 --> 00:09:14,999
+<font color="#00FFFF">Just go with that.</font>
+
+219
+00:09:15,000 --> 00:09:17,399
+<font color="#11FF11">Got to cut my circles out now</font>
+<font color="#11FF11">while it's still warm.</font>
+
+220
+00:09:17,400 --> 00:09:20,119
+<font color="#00FFFF">I'm happy with the colour.</font>
+<font color="#00FFFF">The tops are a bit scrappy.</font>
+
+221
+00:09:20,120 --> 00:09:23,239
+<font color="#00FFFF">I don't really know why the tops are</font>
+<font color="#00FFFF">scrappy but in the grand scheme of</font>
+
+222
+00:09:23,240 --> 00:09:26,599
+<font color="#00FFFF">things if the pastry's cooked,</font>
+<font color="#00FFFF">who really cares? Pfft, you know.</font>
+
+223
+00:09:26,600 --> 00:09:28,559
+<font color="#11FF11">They've spread a bit</font>
+<font color="#11FF11">but it is what it is.</font>
+
+224
+00:09:28,560 --> 00:09:30,760
+<font color="#00FFFF">Yeah, that's done, phew.</font>
+
+225
+00:09:32,600 --> 00:09:35,119
+<font color="#ffffff">To sandwich their tart cases</font>
+<font color="#ffffff">and domes</font>
+
+226
+00:09:35,120 --> 00:09:38,639
+<font color="#ffffff">the bakers are creating something</font>
+<font color="#ffffff">that packs in more flavour...</font>
+
+227
+00:09:38,640 --> 00:09:41,599
+<font color="#00FFFF">Right,</font>
+<font color="#00FFFF">next I'm gonna do my liqueur jelly.</font>
+
+228
+00:09:41,600 --> 00:09:43,959
+<font color="#ffffff">..but they must</font>
+<font color="#ffffff">get the balance right</font>
+
+229
+00:09:43,960 --> 00:09:46,199
+<font color="#ffffff">or risk overpowering</font>
+<font color="#ffffff">the rest of the bake.</font>
+
+230
+00:09:46,200 --> 00:09:49,079
+<font color="#00FFFF">This is my yuzu jelly.</font>
+
+231
+00:09:49,080 --> 00:09:51,599
+<font color="#00FFFF">Yuzu is citrus but it's really,</font>
+<font color="#00FFFF">really, really strong.</font>
+
+232
+00:09:51,600 --> 00:09:53,439
+<font color="#00FFFF">That's why</font>
+<font color="#00FFFF">it's only very, very small jelly.</font>
+
+233
+00:09:53,440 --> 00:09:55,399
+<font color="#11FF11">This is for my raspberry jelly.</font>
+
+234
+00:09:55,400 --> 00:09:58,399
+<font color="#11FF11">I do love a bit of fruit in pretty</font>
+<font color="#11FF11">much everything I do.</font>
+
+235
+00:09:58,400 --> 00:09:59,799
+<font color="#00FFFF">This is my orange curd.</font>
+
+236
+00:09:59,800 --> 00:10:02,759
+<font color="#00FFFF">I want it fairly thick cos it's got</font>
+<font color="#00FFFF">to support the dome.</font>
+
+237
+00:10:02,760 --> 00:10:04,999
+<font color="#FFFF00">Have you ever fixed a gorilla?</font><font color="#00FFFF"> No.</font>
+
+238
+00:10:05,000 --> 00:10:07,399
+<font color="#FFFF00">A chimp?</font>
+<font color="#00FFFF">No, no, monkeys just no monkeys.</font>
+
+239
+00:10:07,400 --> 00:10:09,119
+<font color="#FFFF00">No primates?</font><font color="#00FFFF"> I'm sorry.</font>
+
+240
+00:10:09,120 --> 00:10:10,519
+<font color="#FFFF00">Just sort of farm animals?</font>
+
+241
+00:10:10,520 --> 00:10:12,999
+<font color="#00FFFF">Yeah, I've treated pigs,</font>
+<font color="#00FFFF">castrated many pigs.</font>
+
+242
+00:10:13,000 --> 00:10:16,279
+<font color="#FFFF00">Castra... wow!</font>
+
+243
+00:10:16,280 --> 00:10:17,319
+<font color="#FFFF00">Wow!</font>
+
+244
+00:10:17,320 --> 00:10:19,399
+<font color="#FFFF00">Castrated pigs!</font>
+
+245
+00:10:19,400 --> 00:10:21,559
+<font color="#FFFF00">What's the biggest animal</font>
+<font color="#FFFF00">you've castrated?</font>
+
+246
+00:10:21,560 --> 00:10:22,599
+<font color="#00FFFF">A giant bull.</font>
+
+247
+00:10:22,600 --> 00:10:25,079
+<font color="#FFFF00">A bull?</font>
+<font color="#FFFF00">Bulls are quite angry anyway.</font>
+
+248
+00:10:25,080 --> 00:10:27,599
+<font color="#FFFF00">I bet when he woke up he was fuming.</font>
+
+249
+00:10:27,600 --> 00:10:30,719
+<font color="#00FFFF">Right, double cream,</font>
+<font color="#00FFFF">double cream, double cream.</font>
+
+250
+00:10:30,720 --> 00:10:34,359
+<font color="#ffffff">The bakers' domes will be built</font>
+<font color="#ffffff">up of seven separate elements,</font>
+
+251
+00:10:34,360 --> 00:10:38,239
+<font color="#ffffff">each one giving them a chance to</font>
+<font color="#ffffff">showcase their flair for flavour.</font>
+
+252
+00:10:38,240 --> 00:10:41,559
+<font color="#00FFFF">I'm just making the espresso</font>
+<font color="#00FFFF">buttercream.</font>
+
+253
+00:10:41,560 --> 00:10:43,599
+<font color="#11FF11">Rhubarb!</font>
+<font color="#11FF11">So these'll be roasted in the oven.</font>
+
+254
+00:10:43,600 --> 00:10:46,639
+<font color="#11FF11">One of my favourite flavours.</font>
+<font color="#11FF11">I just don't like things too sweet.</font>
+
+255
+00:10:46,640 --> 00:10:49,479
+<font color="#00FFFF">I'm doing the creme pat raspberry</font>
+<font color="#00FFFF">mix. I hate eating it.</font>
+
+256
+00:10:49,480 --> 00:10:51,999
+<font color="#00FFFF">I think it's horrible.</font>
+<font color="#00FFFF">I hate anything that's custardy</font>
+
+257
+00:10:52,000 --> 00:10:54,879
+<font color="#00FFFF">but it is useful</font>
+<font color="#00FFFF">as a base for things.</font>
+
+258
+00:10:54,880 --> 00:10:58,679
+<font color="#11FF11">Getting there. It's the last half</font>
+<font color="#11FF11">an hour that really stresses me out.</font>
+
+259
+00:10:58,680 --> 00:11:01,319
+<font color="#11FF11">It's like, "Yeah, everything's</font>
+<font color="#11FF11">fine," and then it's like,</font>
+
+260
+00:11:01,320 --> 00:11:03,679
+<font color="#11FF11">"Oh, God! What if NOT</font>
+<font color="#11FF11">everything is fine?"</font>
+
+261
+00:11:03,680 --> 00:11:05,399
+<font color="#ffffff">You all right, Noel?</font>
+<font color="#ffffff">You look a bit tired.</font>
+
+262
+00:11:05,400 --> 00:11:06,439
+<font color="#FFFF00">I'm fine, I'm fine.</font><font color="#ffffff"> OK.</font>
+
+263
+00:11:06,440 --> 00:11:08,879
+<font color="#FFFF00">Bakers, you got half an hour left,</font>
+<font color="#FFFF00">half an hour.</font>
+
+264
+00:11:08,880 --> 00:11:10,279
+<font color="#00FFFF">Oh, dear!</font>
+
+265
+00:11:10,280 --> 00:11:12,120
+<font color="#11FF11">Oh!</font>
+
+266
+00:11:13,280 --> 00:11:14,399
+<font color="#00FFFF">I never feel calm.</font>
+
+267
+00:11:14,400 --> 00:11:17,120
+<font color="#00FFFF">I think even</font>
+<font color="#00FFFF">when I'm done I don't feel calm.</font>
+
+268
+00:11:18,640 --> 00:11:20,039
+<font color="#11FF11">I do sometimes flap.</font>
+
+269
+00:11:20,040 --> 00:11:21,519
+<font color="#00FFFF">Right, mirror glaze.</font>
+
+270
+00:11:21,520 --> 00:11:25,079
+<font color="#00FFFF">To hide any kind of dodgy</font>
+<font color="#00FFFF">bits of mirror glaze.</font>
+
+271
+00:11:25,080 --> 00:11:27,519
+<font color="#00FFFF">It's a white chocolate mirror glaze.</font>
+
+272
+00:11:27,520 --> 00:11:29,879
+<font color="#00FFFF">Bit of sweetness in there, cos</font>
+<font color="#00FFFF">it's quite tart, the rest of it.</font>
+
+273
+00:11:29,880 --> 00:11:31,639
+<font color="#11FF11">This is white</font>
+<font color="#11FF11">chocolate for my mirror glaze.</font>
+
+274
+00:11:31,640 --> 00:11:33,599
+<font color="#11FF11">I want this to be about 32.</font>
+
+275
+00:11:33,600 --> 00:11:35,799
+<font color="#11FF11">Ooooh! Way too hot.</font>
+
+276
+00:11:35,800 --> 00:11:37,159
+<font color="#00FFFF">Just a little bit too hot, still.</font>
+
+277
+00:11:37,160 --> 00:11:39,999
+<font color="#00FFFF">I'm just gonna leave it completely</font>
+<font color="#00FFFF">alone for two minutes then it's</font>
+
+278
+00:11:40,000 --> 00:11:42,920
+<font color="#00FFFF">just gonna have to go cos I haven't</font>
+<font color="#00FFFF">got any time to do anything else.</font>
+
+279
+00:11:44,280 --> 00:11:46,719
+<font color="#00FFFF">The rhubarb you</font>
+<font color="#00FFFF">want to be JUST cooked.</font>
+
+280
+00:11:46,720 --> 00:11:48,479
+<font color="#00FFFF">It looks good. So, construct.</font>
+
+281
+00:11:48,480 --> 00:11:51,079
+<font color="#11FF11">I need to assemble it all.</font>
+
+282
+00:11:51,080 --> 00:11:53,279
+<font color="#00FFFF">My creme pate's too thin.</font>
+
+283
+00:11:53,280 --> 00:11:54,799
+<font color="#00FFFF">Eejit, eejit, eejit.</font>
+
+284
+00:11:54,800 --> 00:11:58,559
+<font color="#11FF11">This is hazelnut praline paste.</font>
+
+285
+00:11:58,560 --> 00:11:59,839
+<font color="#11FF11">It's not spreading.</font>
+
+286
+00:11:59,840 --> 00:12:01,799
+<font color="#11FF11">Come on, you.</font>
+<font color="#11FF11">Oh, this is so annoying.</font>
+
+287
+00:12:01,800 --> 00:12:03,759
+<font color="#11FF11">I'm just gonna use my fingers.</font>
+<font color="#11FF11">Don't judge.</font>
+
+288
+00:12:03,760 --> 00:12:06,639
+<font color="#00FFFF">The one thing that's a shame is</font>
+<font color="#00FFFF">that you don't see the rhubarb.</font>
+
+289
+00:12:06,640 --> 00:12:09,319
+<font color="#00FFFF">One time I did make a larger base</font>
+<font color="#00FFFF">so you could still see it.</font>
+
+290
+00:12:09,320 --> 00:12:11,559
+<font color="#00FFFF">But then it just didn't</font>
+<font color="#00FFFF">really look very good.</font>
+
+291
+00:12:11,560 --> 00:12:14,119
+<font color="#11FF11">This is for my chocolate drizzle.</font>
+<font color="#11FF11">How long have I got to go?</font>
+
+292
+00:12:14,120 --> 00:12:15,839
+<font color="#FFFF00">Bakers, you have ten minutes left,</font>
+
+293
+00:12:15,840 --> 00:12:17,959
+<font color="#FFFF00">just ten minutes for your domed</font>
+<font color="#FFFF00">tartlets.</font>
+
+294
+00:12:17,960 --> 00:12:21,039
+<font color="#ffffff">Yes! Domed tartlets!</font>
+
+295
+00:12:21,040 --> 00:12:22,199
+<font color="#00FFFF">OK!</font>
+
+296
+00:12:22,200 --> 00:12:25,519
+<font color="#00FFFF">I need to get my domes out</font>
+
+297
+00:12:25,520 --> 00:12:27,879
+<font color="#00FFFF">and hope that they are... frozen.</font>
+
+298
+00:12:27,880 --> 00:12:30,359
+<font color="#FFFF00">If the bakers'</font>
+<font color="#FFFF00">domes aren't set solid</font>
+
+299
+00:12:30,360 --> 00:12:34,359
+<font color="#FFFF00">they'll be impossible to get</font>
+<font color="#FFFF00">out of the mould without damaging.</font>
+
+300
+00:12:34,360 --> 00:12:37,119
+<font color="#00FFFF">OK. Come on. Looks like they're OK.</font>
+
+301
+00:12:37,120 --> 00:12:38,759
+<font color="#00FFFF">Pure mocha mousse.</font>
+
+302
+00:12:38,760 --> 00:12:40,399
+<font color="#11FF11">That's where the jelly's gonna go.</font>
+
+303
+00:12:40,400 --> 00:12:41,999
+<font color="#11FF11">I'm really scared.</font>
+
+304
+00:12:42,000 --> 00:12:43,919
+<font color="#11FF11">A lot softer than it was at home.</font>
+
+305
+00:12:43,920 --> 00:12:46,079
+<font color="#11FF11">I feel like this is all</font>
+<font color="#11FF11">gonna go wrong.</font>
+
+306
+00:12:46,080 --> 00:12:47,199
+<font color="#00FFFF">Like so.</font>
+
+307
+00:12:47,200 --> 00:12:49,679
+<font color="#FFFF00">They're like little</font>
+<font color="#FFFF00">sort of sweet Scotch eggs.</font>
+
+308
+00:12:49,680 --> 00:12:50,839
+<font color="#00FFFF">Yeah.</font><font color="#FFFF00"> But with no egg.</font>
+
+309
+00:12:50,840 --> 00:12:54,999
+<font color="#FFFF00">In my mind, domed tartlets</font>
+<font color="#FFFF00">were like, you know, Center Parcs.</font>
+
+310
+00:12:55,000 --> 00:12:57,079
+<font color="#00FFFF">I like little domes.</font>
+<font color="#FFFF00">I like little domes.</font>
+
+311
+00:12:57,080 --> 00:12:59,319
+<font color="#11FF11">Scotch eggs. They look good!</font>
+<font color="#00FFFF">They're fine.</font>
+
+312
+00:12:59,320 --> 00:13:00,999
+<font color="#ffffff">They look like very small implants.</font>
+
+313
+00:13:01,000 --> 00:13:02,680
+<font color="#00FFFF">Massively freaking out.</font>
+
+314
+00:13:04,600 --> 00:13:07,080
+<font color="#00FFFF">It's definitely way more</font>
+<font color="#00FFFF">set at home.</font>
+
+315
+00:13:09,760 --> 00:13:12,959
+<font color="#FFFF00">To coat the domes properly</font>
+<font color="#FFFF00">and create the desired shine</font>
+
+316
+00:13:12,960 --> 00:13:15,880
+<font color="#FFFF00">the mirror glaze must be</font>
+<font color="#FFFF00">the perfect consistency.</font>
+
+317
+00:13:18,680 --> 00:13:21,519
+<font color="#00FFFF">Yes, too thin really. But, yeah,</font>
+<font color="#00FFFF">I'll use up all the glaze I've got.</font>
+
+318
+00:13:21,520 --> 00:13:27,119
+<font color="#00FFFF">They'll still be shiny - they'll</font>
+<font color="#00FFFF">just be a bit rubbish looking.</font>
+
+319
+00:13:27,120 --> 00:13:29,639
+<font color="#11FF11">I'm not happy with it in general.</font>
+<font color="#11FF11">It's all a bit of a mess.</font>
+
+320
+00:13:29,640 --> 00:13:32,199
+<font color="#ffffff">Bakers, you have five minutes.</font><font color="#00FFFF"> Oh!</font>
+
+321
+00:13:32,200 --> 00:13:34,999
+<font color="#00FFFF">On you go.</font>
+
+322
+00:13:35,000 --> 00:13:36,479
+<font color="#11FF11">Yes!</font>
+
+323
+00:13:36,480 --> 00:13:39,999
+<font color="#00FFFF">This is supposed to be beautifully</font>
+<font color="#00FFFF">set before, you know, whatever.</font>
+
+324
+00:13:40,000 --> 00:13:42,679
+<font color="#11FF11">There you go.</font>
+<font color="#11FF11">Just piping my buttercream.</font>
+
+325
+00:13:42,680 --> 00:13:45,960
+<font color="#11FF11">I need to chill out</font>
+<font color="#11FF11">because I'm getting stressed.</font>
+
+326
+00:13:51,040 --> 00:13:52,559
+<font color="#00FFFF">My hands are getting clammy.</font>
+
+327
+00:13:52,560 --> 00:13:55,479
+<font color="#00FFFF">I literally can't grip</font>
+<font color="#00FFFF">this blimmin' piping bag.</font>
+
+328
+00:13:55,480 --> 00:13:57,359
+<font color="#FFFF00">Bakers, you have one minute left.</font>
+
+329
+00:13:57,360 --> 00:13:58,639
+<font color="#ffffff">Just one minute.</font>
+
+330
+00:13:58,640 --> 00:14:00,000
+<font color="#00FFFF">To get my layer of crunch on.</font>
+
+331
+00:14:13,760 --> 00:14:15,919
+<font color="#ffffff">Bakers, your time is up!</font>
+
+332
+00:14:15,920 --> 00:14:17,839
+<font color="#00FFFF">Done.</font>
+
+333
+00:14:17,840 --> 00:14:21,999
+<font color="#FFFF00">Please place your domed tartlets</font>
+<font color="#FFFF00">at the end of your work stations.</font>
+
+334
+00:14:22,000 --> 00:14:24,199
+<font color="#ffffff">David, please place one of those</font>
+<font color="#ffffff">drinks in my hand.</font>
+
+335
+00:14:24,200 --> 00:14:26,079
+<font color="#FFFF00">I'll have the bottle.</font>
+
+336
+00:14:26,080 --> 00:14:27,359
+<font color="#00FFFF">My creme pat isn't set.</font>
+
+337
+00:14:27,360 --> 00:14:29,799
+<font color="#00FFFF">It's sort of oozing out the top</font>
+<font color="#00FFFF">and when they cut it that one is</font>
+
+338
+00:14:29,800 --> 00:14:31,879
+<font color="#00FFFF">gonna splodge out</font>
+<font color="#00FFFF">so they're not gonna like that.</font>
+
+339
+00:14:31,880 --> 00:14:33,920
+{\an5}<font color="#11FF11">I've got some domed tarts at least.</font>
+
+340
+00:14:35,080 --> 00:14:36,599
+{\an5}<font color="#00FFFF">They look like boobs.</font>
+
+341
+00:14:36,600 --> 00:14:38,000
+<font color="#00FFFF">Never mind!</font>
+
+342
+00:14:47,000 --> 00:14:48,599
+{\an8}<font color="#ffffff">SANDI: The bakers' domed tarts</font>
+
+343
+00:14:48,600 --> 00:14:49,999
+{\an8}<font color="#ffffff">will now face the judgment</font>
+
+344
+00:14:50,000 --> 00:14:51,479
+{\an8}<font color="#ffffff">of Paul and Prue.</font>
+
+345
+00:14:51,480 --> 00:14:53,000
+<font color="#11FF11">Hello, David.</font><font color="#00FFFF"> Hiya.</font>
+
+346
+00:15:01,000 --> 00:15:03,399
+<font color="#11FF11">I love them. They look so unusual.</font>
+
+347
+00:15:03,400 --> 00:15:04,679
+{\an5}<font color="#11FF11">I've never seen anything</font>
+
+348
+00:15:04,680 --> 00:15:05,999
+<font color="#11FF11">like that in a pastry shop</font>
+
+349
+00:15:06,000 --> 00:15:07,559
+<font color="#11FF11">and I would want to buy one.</font>
+
+350
+00:15:07,560 --> 00:15:09,039
+<font color="#FFFF00">Colour's nice, it's all uniform.</font>
+
+351
+00:15:09,040 --> 00:15:10,999
+<font color="#FFFF00">If you're going to put nuts</font>
+<font color="#FFFF00">around the outside</font>
+
+352
+00:15:11,000 --> 00:15:12,519
+<font color="#FFFF00">blitz them down even smaller.</font>
+
+353
+00:15:12,520 --> 00:15:15,280
+<font color="#FFFF00">The smaller they are, the more</font>
+<font color="#FFFF00">professional it'll look.</font>
+
+354
+00:15:21,720 --> 00:15:22,759
+<font color="#FFFF00">I love the flavour.</font>
+
+355
+00:15:22,760 --> 00:15:25,319
+<font color="#FFFF00">The bitterness that comes through</font>
+<font color="#FFFF00">is from the aperitif,</font>
+
+356
+00:15:25,320 --> 00:15:27,759
+<font color="#FFFF00">which you've got in the jelly form.</font>
+<font color="#FFFF00">It's delicious.</font>
+
+357
+00:15:27,760 --> 00:15:31,399
+<font color="#FFFF00">I don't think it looks particularly</font>
+<font color="#FFFF00">good, but I do like the flavours.</font>
+
+358
+00:15:31,400 --> 00:15:33,199
+<font color="#11FF11">Particularly the rhubarb.</font>
+<font color="#00FFFF">Hmm.</font>
+
+359
+00:15:33,200 --> 00:15:36,359
+<font color="#11FF11">Because the rhubarb cuts through</font>
+<font color="#11FF11">the general richness of it all.</font>
+
+360
+00:15:36,360 --> 00:15:37,759
+<font color="#11FF11">Can I have a slug of that?</font>
+
+361
+00:15:37,760 --> 00:15:39,279
+<font color="#00FFFF">That's for you!</font>
+
+362
+00:15:39,280 --> 00:15:41,879
+<font color="#11FF11">The excuse is it's a good palate</font>
+<font color="#11FF11">clearer for the next one.</font>
+
+363
+00:15:41,880 --> 00:15:43,959
+<font color="#FFFF00">True. Thanks you very much, David.</font>
+<font color="#11FF11">Thanks, David.</font>
+
+364
+00:15:43,960 --> 00:15:45,159
+<font color="#00FFFF">Thanks, guys.</font>
+<font color="#FFFF00">Thank you.</font>
+
+365
+00:15:45,160 --> 00:15:46,720
+<font color="#ffffff">WHISPERING: OK, see you later.</font>
+
+366
+00:15:59,200 --> 00:16:00,839
+<font color="#11FF11">I absolutely love the colour.</font>
+
+367
+00:16:00,840 --> 00:16:02,879
+<font color="#11FF11">I think the size of them is perfect.</font>
+
+368
+00:16:02,880 --> 00:16:04,999
+<font color="#FFFF00">The base... don't look too bad.</font>
+
+369
+00:16:05,000 --> 00:16:07,280
+<font color="#11FF11">Nice little bits of pulled sugar,</font>
+<font color="#11FF11">I like that.</font>
+
+370
+00:16:09,640 --> 00:16:11,119
+<font color="#FFFF00">It's a shame about the creme pat.</font>
+
+371
+00:16:11,120 --> 00:16:12,999
+<font color="#FFFF00">It needs cooking out</font>
+<font color="#FFFF00">that little bit more.</font>
+
+372
+00:16:13,000 --> 00:16:14,640
+<font color="#FFFF00">It's just a little bit too soft.</font>
+
+373
+00:16:18,080 --> 00:16:19,519
+<font color="#11FF11">The jelly is perfect.</font>
+
+374
+00:16:19,520 --> 00:16:21,680
+<font color="#FFFF00">It's a shame about the creme pat.</font>
+
+375
+00:16:31,920 --> 00:16:34,239
+<font color="#FFFF00">It's not very neat down</font>
+<font color="#FFFF00">at the bottom...</font><font color="#00FFFF"> Yeah.</font>
+
+376
+00:16:34,240 --> 00:16:35,399
+<font color="#FFFF00">..on any one of them.</font>
+
+377
+00:16:35,400 --> 00:16:37,679
+<font color="#11FF11">I like the design, I love that.</font>
+
+378
+00:16:37,680 --> 00:16:38,800
+<font color="#11FF11">And the colours.</font>
+
+379
+00:16:48,360 --> 00:16:50,919
+<font color="#FFFF00">It's akin to a lemon meringue pie.</font>
+<font color="#00FFFF">OK.</font>
+
+380
+00:16:50,920 --> 00:16:54,719
+<font color="#FFFF00">The sharpness is there, the flavours</font>
+<font color="#FFFF00">are there, but it's a bit too soft.</font>
+
+381
+00:16:54,720 --> 00:16:56,959
+<font color="#11FF11">I agree it's a bit soft...</font>
+<font color="#00FFFF">Yeah, it is.</font><font color="#11FF11"> ..but if you were</font>
+
+382
+00:16:56,960 --> 00:16:59,359
+<font color="#11FF11">eating it as a pudding, with a</font>
+<font color="#11FF11">spoon, you'd be fine.</font><font color="#00FFFF"> Yeah.</font>
+
+383
+00:16:59,360 --> 00:17:01,440
+<font color="#11FF11">Nearly perfect.</font>
+<font color="#00FFFF">Thanks, thank you.</font>
+
+384
+00:17:12,000 --> 00:17:14,839
+<font color="#FFFF00">The dome - the shine you've achieved</font>
+<font color="#FFFF00">on that is fantastic.</font>
+
+385
+00:17:14,840 --> 00:17:16,999
+<font color="#FFFF00">The pipework is not</font>
+<font color="#FFFF00">particularly good.</font>
+
+386
+00:17:17,000 --> 00:17:20,439
+<font color="#11FF11">It's such a pity, Alice, because,</font>
+<font color="#11FF11">I mean, that one is near perfect</font>
+
+387
+00:17:20,440 --> 00:17:23,759
+<font color="#11FF11">and some of the others are</font>
+<font color="#11FF11">really all over the place.</font><font color="#00FFFF"> Yeah.</font>
+
+388
+00:17:23,760 --> 00:17:26,480
+<font color="#11FF11">But the overall look is</font>
+<font color="#11FF11">pretty professional.</font>
+
+389
+00:17:29,360 --> 00:17:30,879
+<font color="#11FF11">Oh, my goodness.</font>
+
+390
+00:17:30,880 --> 00:17:32,560
+{\an1}<font color="#FFFF00">It's held together quite nicely.</font>
+
+391
+00:17:36,720 --> 00:17:39,759
+<font color="#11FF11">The pastry's lovely and crisp,</font>
+<font color="#11FF11">nice flavour.</font>
+
+392
+00:17:39,760 --> 00:17:42,519
+<font color="#FFFF00">You've got a lovely buttery feel</font>
+<font color="#FFFF00">to it cos it crumbles in your mouth</font>
+
+393
+00:17:42,520 --> 00:17:43,759
+<font color="#FFFF00">and it melts beautifully.</font>
+
+394
+00:17:43,760 --> 00:17:44,999
+<font color="#FFFF00">The orange comes through.</font>
+
+395
+00:17:45,000 --> 00:17:47,279
+<font color="#11FF11">It's quite a big tartlet...</font>
+<font color="#00FFFF">Yeah.</font>
+
+396
+00:17:47,280 --> 00:17:48,479
+<font color="#11FF11">..but they are really good.</font>
+
+397
+00:17:48,480 --> 00:17:50,999
+<font color="#FFFF00">The only thing that let you down</font>
+<font color="#FFFF00">was the piping.</font><font color="#00FFFF"> Yeah.</font>
+
+398
+00:17:51,000 --> 00:17:53,959
+<font color="#FFFF00">But I think your flavours and your</font>
+<font color="#FFFF00">textures and actual base</font>
+
+399
+00:17:53,960 --> 00:17:56,639
+<font color="#FFFF00">are stunning. I think your flavours</font>
+<font color="#FFFF00">are gorgeous, well done.</font>
+
+400
+00:17:56,640 --> 00:17:58,159
+<font color="#00FFFF">Thank you very much.</font>
+
+401
+00:17:58,160 --> 00:17:59,999
+<font color="#00FFFF">I am SO happy with that.</font>
+
+402
+00:18:00,000 --> 00:18:02,399
+<font color="#00FFFF">I will take that. I'll take</font>
+<font color="#00FFFF">my rubbish piping any day.</font>
+
+403
+00:18:02,400 --> 00:18:04,999
+<font color="#00FFFF">They liked the flavours and</font>
+<font color="#00FFFF">that's the most important thing.</font>
+
+404
+00:18:05,000 --> 00:18:06,839
+<font color="#11FF11">They're judging quite harshly today.</font>
+
+405
+00:18:06,840 --> 00:18:09,759
+<font color="#11FF11">It seems like they're picking people</font>
+<font color="#11FF11">up on lots of little issues.</font>
+
+406
+00:18:09,760 --> 00:18:12,839
+<font color="#FFFF00">Their only negative was that</font>
+<font color="#FFFF00">my creme pat wasn't set.</font>
+
+407
+00:18:12,840 --> 00:18:14,999
+<font color="#FFFF00">And I did know that.</font>
+
+408
+00:18:15,000 --> 00:18:18,159
+<font color="#ffffff">I knew that mousse hadn't set</font>
+<font color="#ffffff">properly. I have no idea why.</font>
+
+409
+00:18:18,160 --> 00:18:20,439
+<font color="#00FFFF">I feel like the Technical</font>
+<font color="#00FFFF">might really matter this week</font>
+
+410
+00:18:20,440 --> 00:18:21,599
+<font color="#00FFFF">with only four of us.</font>
+
+411
+00:18:21,600 --> 00:18:24,439
+<font color="#11FF11">The Technical for patisserie is</font>
+<font color="#11FF11">quite terrifying, I think.</font>
+
+412
+00:18:24,440 --> 00:18:27,600
+<font color="#FFFF00">Yeah, patisserie Technical, that's</font>
+<font color="#FFFF00">not going to be easy, is it?</font>
+
+413
+00:18:29,240 --> 00:18:32,959
+<font color="#ffffff">SANDI:</font><font color="#00FFFF"> As usual, the bakers may have</font>
+<font color="#00FFFF">practised their signature bakes,</font>
+
+414
+00:18:32,960 --> 00:18:35,519
+<font color="#00FFFF">but, when it comes to the Technical,</font>
+<font color="#00FFFF">what they will be making</font>
+
+415
+00:18:35,520 --> 00:18:37,999
+<font color="#00FFFF">is a complete mystery.</font>
+
+416
+00:18:38,000 --> 00:18:40,639
+<font color="#ffffff">Hello, lovelies, it's time for your</font>
+<font color="#ffffff">Technical Challenge,</font>
+
+417
+00:18:40,640 --> 00:18:43,519
+<font color="#ffffff">which today has been set for you by</font>
+<font color="#ffffff">the lovely Prue.</font>
+
+418
+00:18:43,520 --> 00:18:45,159
+<font color="#ffffff">Prue, any words of wisdom?</font>
+
+419
+00:18:45,160 --> 00:18:47,959
+<font color="#11FF11">This is very difficult to make look</font>
+<font color="#11FF11">good.</font>
+
+420
+00:18:47,960 --> 00:18:49,039
+<font color="#00FFFF">Oh, God.</font>
+
+421
+00:18:49,040 --> 00:18:51,439
+<font color="#11FF11">Good luck.</font>
+<font color="#ffffff">NOEL LAUGHS</font>
+
+422
+00:18:51,440 --> 00:18:52,519
+<font color="#ffffff">OK.</font>
+
+423
+00:18:52,520 --> 00:18:54,759
+<font color="#ffffff">As ever, this Technical Challenge</font>
+<font color="#ffffff">will be judged blind</font>
+
+424
+00:18:54,760 --> 00:18:57,319
+<font color="#ffffff">so we're going to have to ask these</font>
+<font color="#ffffff">two cuties to leave the tent.</font>
+
+425
+00:18:57,320 --> 00:18:59,079
+<font color="#00FFFF">Bye.</font><font color="#ffffff"> Off you pop.</font>
+
+426
+00:18:59,080 --> 00:19:00,199
+<font color="#ffffff">Where are they going?</font>
+
+427
+00:19:00,200 --> 00:19:03,319
+<font color="#00FFFF">I believe Prue is respraying</font>
+<font color="#00FFFF">Paul's tan.</font><font color="#ffffff"> OK.</font>
+
+428
+00:19:03,320 --> 00:19:07,679
+<font color="#ffffff">Prue would like you to make</font>
+<font color="#ffffff">gateau St Honore,</font>
+
+429
+00:19:07,680 --> 00:19:08,879
+<font color="#ffffff">named after...</font>
+
+430
+00:19:08,880 --> 00:19:11,639
+<font color="#00FFFF">Obviously Saint Honore, you knew</font>
+<font color="#00FFFF">that, right? Yeah?</font><font color="#ffffff"> Absolutely.</font>
+
+431
+00:19:11,640 --> 00:19:14,079
+<font color="#00FFFF">The French patron saint of</font>
+<font color="#00FFFF">bakers and pastry chefs.</font>
+
+432
+00:19:14,080 --> 00:19:15,759
+<font color="#00FFFF">He was like a kind of Prue Leith of</font>
+<font color="#00FFFF">his day,</font>
+
+433
+00:19:15,760 --> 00:19:18,679
+<font color="#00FFFF">but without the challenging</font>
+<font color="#00FFFF">necklaces.</font><font color="#ffffff"> Wow.</font>
+
+434
+00:19:18,680 --> 00:19:22,119
+<font color="#00FFFF">Hmm, yeah, so unlike</font>
+<font color="#00FFFF">the classic round gateau shape</font>
+
+435
+00:19:22,120 --> 00:19:24,599
+<font color="#00FFFF">you may be familiar with, Prue</font>
+<font color="#00FFFF">would like your gateau St Honore</font>
+
+436
+00:19:24,600 --> 00:19:27,639
+<font color="#00FFFF">to be rectangular and</font>
+<font color="#00FFFF">comprised of two layers.</font>
+
+437
+00:19:27,640 --> 00:19:29,959
+<font color="#ffffff">The first layer must be puff pastry,</font>
+
+438
+00:19:29,960 --> 00:19:34,599
+<font color="#ffffff">followed by choux buns dipped in</font>
+<font color="#ffffff">sweet caramel and then filled</font>
+
+439
+00:19:34,600 --> 00:19:36,999
+<font color="#ffffff">with a silky creme chiboust.</font>
+
+440
+00:19:37,000 --> 00:19:38,999
+<font color="#00FFFF">You've no idea what you just said,</font>
+<font color="#00FFFF">have you?</font><font color="#ffffff"> No.</font>
+
+441
+00:19:39,000 --> 00:19:42,119
+<font color="#00FFFF">Repeat that for the second layer and</font>
+<font color="#00FFFF">finish with piped Chantilly cream.</font>
+
+442
+00:19:42,120 --> 00:19:43,479
+<font color="#ffffff">You have three and a half hours.</font>
+
+443
+00:19:43,480 --> 00:19:45,080
+<font color="#00FFFF">On your marks.</font><font color="#ffffff"> Get set.</font><font color="#00FFFF"> Bake!</font>
+
+444
+00:19:48,280 --> 00:19:50,999
+<font color="#11FF11">Oh, there's a lot of writing here.</font>
+
+445
+00:19:51,000 --> 00:19:52,999
+<font color="#00FFFF">I feel like I have heard of it</font>
+
+446
+00:19:53,000 --> 00:19:54,919
+<font color="#00FFFF">and I can kind of picture what</font>
+<font color="#00FFFF">it looks like.</font>
+
+447
+00:19:54,920 --> 00:19:56,840
+<font color="#00FFFF">I'm just going to try and not</font>
+<font color="#00FFFF">stress.</font>
+
+448
+00:19:58,000 --> 00:19:59,639
+<font color="#11FF11">I don't know what I'm doing.</font>
+
+449
+00:19:59,640 --> 00:20:01,999
+<font color="#FFFF00">I've made this a long time ago and</font>
+<font color="#FFFF00">it went wrong.</font>
+
+450
+00:20:02,000 --> 00:20:03,719
+<font color="#FFFF00">And I never made it again.</font>
+
+451
+00:20:03,720 --> 00:20:05,599
+<font color="#ffffff">They've definitely picked</font>
+<font color="#ffffff">a difficult one,</font>
+
+452
+00:20:05,600 --> 00:20:07,480
+<font color="#ffffff">but then we wouldn't expect</font>
+<font color="#ffffff">any less.</font>
+
+453
+00:20:09,240 --> 00:20:11,439
+<font color="#FFFF00">This looks pretty complicated.</font>
+
+454
+00:20:11,440 --> 00:20:13,359
+<font color="#ffffff">SHE LAUGHS</font>
+<font color="#11FF11">This is the Semifinal!</font>
+
+455
+00:20:13,360 --> 00:20:14,919
+<font color="#11FF11">It's not meant to be easy.</font>
+
+456
+00:20:14,920 --> 00:20:16,519
+<font color="#11FF11">It's a gateau St Honore.</font>
+
+457
+00:20:16,520 --> 00:20:18,999
+<font color="#11FF11">It's really difficult to</font>
+<font color="#11FF11">make it not look a mess.</font>
+
+458
+00:20:19,000 --> 00:20:20,639
+<font color="#11FF11">EVERYTHING has to be right.</font>
+
+459
+00:20:20,640 --> 00:20:22,879
+<font color="#11FF11">The choux buns have to be</font>
+<font color="#11FF11">the right size,</font>
+
+460
+00:20:22,880 --> 00:20:24,639
+<font color="#11FF11">the creams have to be</font>
+<font color="#11FF11">the right texture,</font>
+
+461
+00:20:24,640 --> 00:20:27,359
+<font color="#11FF11">the pastry has to be thin</font>
+<font color="#11FF11">and neatly trimmed.</font>
+
+462
+00:20:27,360 --> 00:20:30,639
+<font color="#11FF11">They have to do puff pastry, which</font>
+<font color="#11FF11">is going to be quite difficult.</font>
+
+463
+00:20:30,640 --> 00:20:32,279
+<font color="#FFFF00">I think it's a great challenge.</font>
+
+464
+00:20:32,280 --> 00:20:35,359
+<font color="#11FF11">It's one of the most wonderful</font>
+<font color="#11FF11">French patisseries.</font>
+
+465
+00:20:35,360 --> 00:20:36,999
+<font color="#11FF11">I mean, that looks beautiful.</font>
+
+466
+00:20:37,000 --> 00:20:38,799
+<font color="#11FF11">Nice crisp caramel.</font>
+
+467
+00:20:38,800 --> 00:20:43,279
+<font color="#11FF11">Mmm! The choux pastry is filled with</font>
+<font color="#11FF11">really satiny creme chiboust,</font>
+
+468
+00:20:43,280 --> 00:20:45,719
+<font color="#11FF11">which is basically creme patissiere</font>
+
+469
+00:20:45,720 --> 00:20:48,199
+<font color="#11FF11">but with some egg whites</font>
+<font color="#11FF11">to lighten it.</font>
+
+470
+00:20:48,200 --> 00:20:51,639
+<font color="#FFFF00">It's crispy puff,</font>
+<font color="#FFFF00">nicely set choux buns,</font>
+
+471
+00:20:51,640 --> 00:20:54,759
+<font color="#FFFF00">and you've got that softness</font>
+<font color="#FFFF00">coming from the chiboust</font>
+
+472
+00:20:54,760 --> 00:20:56,439
+<font color="#FFFF00">and from the Chantilly.</font>
+
+473
+00:20:56,440 --> 00:20:58,079
+<font color="#11FF11">The combination is fantastic.</font>
+
+474
+00:20:58,080 --> 00:21:00,119
+<font color="#FFFF00">Diabetes on a plate.</font>
+<font color="#ffffff">SHE LAUGHS</font>
+
+475
+00:21:00,120 --> 00:21:02,840
+<font color="#11FF11">This is worth every</font>
+<font color="#11FF11">single calorie, Paul.</font>
+
+476
+00:21:06,120 --> 00:21:07,959
+<font color="#00FFFF">Right, I'm just going to</font>
+<font color="#00FFFF">get on with it.</font>
+
+477
+00:21:07,960 --> 00:21:09,719
+<font color="#FFFF00">Er, we're making puff pastry.</font>
+
+478
+00:21:09,720 --> 00:21:12,159
+<font color="#FFFF00">Full puff. We're making full puff?</font>
+
+479
+00:21:12,160 --> 00:21:13,439
+<font color="#FFFF00">Yeah, we're doing full puff.</font>
+
+480
+00:21:13,440 --> 00:21:15,759
+<font color="#ffffff">Right, let's go in!</font>
+
+481
+00:21:15,760 --> 00:21:18,319
+<font color="#11FF11">So, I've not done puff pastry</font>
+<font color="#11FF11">for a long, long time.</font>
+
+482
+00:21:18,320 --> 00:21:20,239
+<font color="#11FF11">I'm definitely a rough puff</font>
+<font color="#11FF11">kind of guy.</font>
+
+483
+00:21:20,240 --> 00:21:23,999
+<font color="#FFFF00">There's a lot to do. And there's a</font>
+<font color="#FFFF00">lot to think about and not mess up.</font>
+
+484
+00:21:24,000 --> 00:21:26,599
+<font color="#ffffff">I don't want to overwork this.</font>
+
+485
+00:21:26,600 --> 00:21:28,560
+<font color="#00FFFF">OK, I just need to roll it out</font>
+<font color="#00FFFF">quite thin.</font>
+
+486
+00:21:30,520 --> 00:21:33,359
+<font color="#11FF11">"Put the butter on the dough so</font>
+<font color="#11FF11">it covers the bottom two thirds</font>
+
+487
+00:21:33,360 --> 00:21:35,519
+<font color="#11FF11">"and do a single turn and chill."</font>
+
+488
+00:21:35,520 --> 00:21:37,919
+<font color="#00FFFF">A single turn and chill.</font>
+
+489
+00:21:37,920 --> 00:21:39,559
+<font color="#00FFFF">Oh, God.</font>
+
+490
+00:21:39,560 --> 00:21:41,080
+<font color="#00FFFF">Just not nailing this.</font>
+
+491
+00:21:42,920 --> 00:21:44,319
+<font color="#FFFF00">My dough is quite sticky though.</font>
+
+492
+00:21:44,320 --> 00:21:46,879
+<font color="#FFFF00">I don't know if I should be worried</font>
+<font color="#FFFF00">about that. I don't know why.</font>
+
+493
+00:21:46,880 --> 00:21:48,960
+<font color="#00FFFF">OK, I'm going to put it</font>
+<font color="#00FFFF">in the fridge.</font>
+
+494
+00:21:53,560 --> 00:21:56,759
+<font color="#00FFFF">I think I should probably</font>
+<font color="#00FFFF">make my choux.</font>
+
+495
+00:21:56,760 --> 00:21:59,199
+<font color="#11FF11">Do you remember The Shoe People?</font>
+
+496
+00:21:59,200 --> 00:22:00,759
+<font color="#11FF11">I loved that programme.</font>
+
+497
+00:22:00,760 --> 00:22:03,159
+<font color="#11FF11"># The Shoe, Shoe, Shoe, Shoe</font>
+<font color="#11FF11">Shoe People.</font>
+
+498
+00:22:03,160 --> 00:22:04,999
+<font color="#11FF11"># Do-do-do-do-do, do. #</font>
+
+499
+00:22:05,000 --> 00:22:06,999
+<font color="#00FFFF">I've heated up the water and batter,</font>
+
+500
+00:22:07,000 --> 00:22:09,800
+<font color="#00FFFF">so I'm just going to shoot my flour</font>
+<font color="#00FFFF">in there.</font>
+
+501
+00:22:11,440 --> 00:22:13,239
+<font color="#11FF11">Does this look like choux pastry to</font>
+<font color="#11FF11">you?</font>
+
+502
+00:22:13,240 --> 00:22:15,959
+<font color="#00FFFF">I think it's meant to form</font>
+<font color="#00FFFF">a V-shape.</font>
+
+503
+00:22:15,960 --> 00:22:18,119
+<font color="#00FFFF">So like this - a V.</font>
+
+504
+00:22:18,120 --> 00:22:19,999
+<font color="#ffffff">Is this for the choux?</font>
+
+505
+00:22:20,000 --> 00:22:22,799
+<font color="#ffffff">It's q-quite firm.</font>
+<font color="#11FF11">Yeah.</font>
+
+506
+00:22:22,800 --> 00:22:26,319
+<font color="#ffffff">Look at that! Excalibur.</font>
+<font color="#ffffff"># Ahh. #</font>
+
+507
+00:22:26,320 --> 00:22:27,519
+<font color="#ffffff">Chosen one.</font>
+
+508
+00:22:27,520 --> 00:22:29,559
+<font color="#11FF11">Apparently it's something to do with</font>
+<font color="#11FF11">a triangle.</font>
+
+509
+00:22:29,560 --> 00:22:31,479
+<font color="#11FF11">I'm not getting any triangles.</font>
+<font color="#ffffff">A triangle?</font>
+
+510
+00:22:31,480 --> 00:22:32,679
+<font color="#11FF11">That's what Michael told me.</font>
+
+511
+00:22:32,680 --> 00:22:35,839
+<font color="#ffffff">Michael?! He's not here any more.</font>
+
+512
+00:22:35,840 --> 00:22:37,880
+<font color="#ffffff">Don't listen to him, he's gone!</font>
+
+513
+00:22:40,240 --> 00:22:42,399
+<font color="#FFFF00">It's actually really slack.</font>
+
+514
+00:22:42,400 --> 00:22:44,679
+<font color="#FFFF00">I don't know why it's so thin.</font>
+
+515
+00:22:44,680 --> 00:22:46,359
+<font color="#FFFF00">I might try it and see.</font>
+
+516
+00:22:46,360 --> 00:22:48,519
+<font color="#00FFFF">It says to make 28 circles.</font>
+
+517
+00:22:48,520 --> 00:22:52,159
+<font color="#00FFFF">I don't know if they're completely</font>
+<font color="#00FFFF">even, but there we go.</font>
+
+518
+00:22:52,160 --> 00:22:54,399
+<font color="#11FF11">They're not all the right size.</font>
+
+519
+00:22:54,400 --> 00:22:56,239
+<font color="#FFFF00">It's not a beautiful choux, is it?</font>
+
+520
+00:22:56,240 --> 00:22:58,599
+<font color="#11FF11">I'm putting these in.</font>
+
+521
+00:22:58,600 --> 00:23:00,159
+<font color="#ffffff">I'm thinking maybe 10 minutes.</font>
+
+522
+00:23:00,160 --> 00:23:01,759
+<font color="#FFFF00">I'm going to give them 10 minutes,</font>
+
+523
+00:23:01,760 --> 00:23:03,719
+<font color="#FFFF00">but if they're not puffing up</font>
+<font color="#FFFF00">in those 10 minutes</font>
+
+524
+00:23:03,720 --> 00:23:05,119
+<font color="#FFFF00">they get pulled and I start again.</font>
+
+525
+00:23:05,120 --> 00:23:07,999
+<font color="#ffffff">Bakers, you are halfway through</font>
+<font color="#ffffff">your Technical Challenge,</font>
+
+526
+00:23:08,000 --> 00:23:11,319
+<font color="#ffffff">halfway through.</font>
+
+527
+00:23:11,320 --> 00:23:13,239
+<font color="#ffffff">OK, kids? Halfway through.</font>
+
+528
+00:23:13,240 --> 00:23:14,600
+<font color="#ffffff">Kids?</font>
+
+529
+00:23:15,880 --> 00:23:18,199
+<font color="#ffffff">Don't leave me hanging. Steph?</font>
+
+530
+00:23:18,200 --> 00:23:19,559
+<font color="#ffffff">TOGETHER:</font><font color="#11FF11"> Halfway through.</font>
+
+531
+00:23:19,560 --> 00:23:20,799
+<font color="#ffffff">Alice, how long we got left?</font>
+
+532
+00:23:20,800 --> 00:23:21,999
+<font color="#00FFFF">Halfway through.</font>
+
+533
+00:23:22,000 --> 00:23:23,319
+<font color="#ffffff">They are listening.</font>
+
+534
+00:23:23,320 --> 00:23:24,999
+<font color="#11FF11">Er, right. Puff pastry.</font>
+
+535
+00:23:25,000 --> 00:23:27,759
+<font color="#11FF11">That was resting for ages,</font>
+<font color="#11FF11">wasn't it?</font>
+
+536
+00:23:27,760 --> 00:23:30,559
+<font color="#ffffff">Right, so let's see where we're</font>
+<font color="#ffffff">going with this now.</font>
+
+537
+00:23:30,560 --> 00:23:32,199
+<font color="#FFFF00">Yeah, the next ones a book turn.</font>
+
+538
+00:23:32,200 --> 00:23:36,519
+{\an5}<font color="#ffffff">So, a book turn, we go like this</font>
+<font color="#ffffff">and like this...</font>
+
+539
+00:23:36,520 --> 00:23:38,960
+{\an5}<font color="#ffffff">..I think. And then in half again.</font>
+
+540
+00:23:40,240 --> 00:23:43,519
+<font color="#00FFFF">I don't really know how many times</font>
+<font color="#00FFFF">I'm meant to turn this.</font>
+
+541
+00:23:43,520 --> 00:23:45,959
+<font color="#FFFF00">Looking for nice lamination</font>
+<font color="#FFFF00">cos if the butter comes through</font>
+
+542
+00:23:45,960 --> 00:23:47,079
+<font color="#FFFF00">then you're going to mess up</font>
+
+543
+00:23:47,080 --> 00:23:49,159
+<font color="#FFFF00">your nice little layers</font>
+<font color="#FFFF00">that you're trying to get.</font>
+
+544
+00:23:49,160 --> 00:23:50,519
+<font color="#ffffff">Put you back in the freezer.</font>
+
+545
+00:23:50,520 --> 00:23:52,280
+<font color="#11FF11">Right, shall I see the choux?</font>
+
+546
+00:23:53,320 --> 00:23:55,199
+<font color="#11FF11">My chouxs are puffing up OK.</font>
+
+547
+00:23:55,200 --> 00:23:56,439
+<font color="#00FFFF">They're looking nice.</font>
+<font color="#11FF11">Nice.</font>
+
+548
+00:23:56,440 --> 00:23:58,679
+<font color="#00FFFF">I think you're a choux-in.</font>
+
+549
+00:23:58,680 --> 00:24:00,480
+<font color="#FFFF00">Those are puffing,</font>
+<font color="#FFFF00">but not very well.</font>
+
+550
+00:24:02,280 --> 00:24:03,439
+<font color="#11FF11">They're done.</font>
+
+551
+00:24:03,440 --> 00:24:04,999
+<font color="#00FFFF">I have some choux buns.</font>
+
+552
+00:24:05,000 --> 00:24:06,159
+<font color="#00FFFF">They're OK.</font>
+
+553
+00:24:06,160 --> 00:24:08,839
+<font color="#ffffff">They're all very different in size,</font>
+<font color="#ffffff">but whatevs.</font>
+
+554
+00:24:08,840 --> 00:24:11,359
+<font color="#FFFF00">They're like little bricks.</font>
+
+555
+00:24:11,360 --> 00:24:13,399
+<font color="#FFFF00">I might just start again.</font>
+
+556
+00:24:13,400 --> 00:24:14,879
+<font color="#FFFF00">I'm starting again.</font>
+
+557
+00:24:14,880 --> 00:24:16,719
+{\an1}<font color="#ffffff">SHE SIGHS</font>
+
+558
+00:24:16,720 --> 00:24:19,639
+<font color="#11FF11">Right, let's roll this thing.</font>
+
+559
+00:24:19,640 --> 00:24:25,119
+<font color="#ffffff">So, "Roll the pastry</font>
+<font color="#ffffff">into a 28cm square."</font>
+
+560
+00:24:25,120 --> 00:24:27,679
+<font color="#11FF11">But it's meant to be kind of</font>
+<font color="#11FF11">in sheets of laminated butter.</font>
+
+561
+00:24:27,680 --> 00:24:29,559
+<font color="#11FF11">This seems like it's more in chunks.</font>
+
+562
+00:24:29,560 --> 00:24:31,119
+<font color="#11FF11">Chunky monkey.</font>
+
+563
+00:24:31,120 --> 00:24:33,519
+<font color="#00FFFF">I'm trying to work out why they</font>
+<font color="#00FFFF">haven't given us many folds.</font>
+
+564
+00:24:33,520 --> 00:24:35,759
+<font color="#00FFFF">Probably because if the individual</font>
+<font color="#00FFFF">layers are too thin</font>
+
+565
+00:24:35,760 --> 00:24:37,319
+<font color="#00FFFF">then the butter will burst through.</font>
+
+566
+00:24:37,320 --> 00:24:39,959
+<font color="#ffffff">I think we're getting some butter</font>
+<font color="#ffffff">seepage. Nothing to see here.</font>
+
+567
+00:24:39,960 --> 00:24:41,679
+<font color="#11FF11">I'm just going to leave it</font>
+<font color="#11FF11">to chill again.</font>
+
+568
+00:24:41,680 --> 00:24:44,239
+<font color="#11FF11">Chilling just sorts everything out.</font>
+
+569
+00:24:44,240 --> 00:24:46,199
+<font color="#FFFF00">It's happened again.</font>
+<font color="#FFFF00">My choux pastry is liquid</font>
+
+570
+00:24:46,200 --> 00:24:47,599
+<font color="#FFFF00">and I don't know why.</font>
+
+571
+00:24:47,600 --> 00:24:50,279
+<font color="#FFFF00">I don't understand.</font>
+<font color="#FFFF00">I just don't understand.</font>
+
+572
+00:24:50,280 --> 00:24:52,999
+<font color="#FFFF00">Oh, for goodness' sake,</font>
+<font color="#FFFF00">this is not going to work.</font>
+
+573
+00:24:53,000 --> 00:24:54,200
+<font color="#FFFF00">It's failed.</font>
+
+574
+00:24:56,440 --> 00:24:58,120
+<font color="#FFFF00">Go to the graveyard of choux buns.</font>
+
+575
+00:25:02,000 --> 00:25:03,679
+<font color="#FFFF00">Um, my pastry's failed as well.</font>
+
+576
+00:25:03,680 --> 00:25:05,399
+<font color="#FFFF00">All the butter's burst</font>
+<font color="#FFFF00">through my pastry.</font>
+
+577
+00:25:05,400 --> 00:25:06,919
+<font color="#FFFF00">You can see all the butter</font>
+<font color="#FFFF00">at the top.</font>
+
+578
+00:25:06,920 --> 00:25:08,360
+<font color="#FFFF00">I've got to remake everything.</font>
+
+579
+00:25:10,160 --> 00:25:11,879
+<font color="#00FFFF">Bakers, you have one ho..</font>
+
+580
+00:25:11,880 --> 00:25:13,039
+<font color="#00FFFF">Excuse me? Hello?</font>
+
+581
+00:25:13,040 --> 00:25:15,280
+<font color="#00FFFF">Bakers, you have one hour.</font>
+<font color="#00FFFF">Just one hour.</font>
+
+582
+00:25:16,800 --> 00:25:19,559
+<font color="#FFFF00">Um, I might just go home now.</font>
+<font color="#FFFF00">Oh, my God.</font>
+
+583
+00:25:19,560 --> 00:25:21,959
+<font color="#11FF11">We'll put that puff pastry in.</font>
+
+584
+00:25:21,960 --> 00:25:24,599
+<font color="#ffffff">We are in the oven.</font>
+
+585
+00:25:24,600 --> 00:25:27,639
+<font color="#11FF11">"Place a large baking tray</font>
+<font color="#11FF11">on top and bake."</font>
+
+586
+00:25:27,640 --> 00:25:29,680
+<font color="#11FF11">Otherwise it goes, "Bwoosh!"</font>
+
+587
+00:25:31,760 --> 00:25:33,159
+<font color="#00FFFF">Darling, that's not a good face.</font>
+
+588
+00:25:33,160 --> 00:25:34,719
+<font color="#FFFF00">No, everything's gone wrong, Sandi.</font>
+
+589
+00:25:34,720 --> 00:25:36,639
+<font color="#FFFF00">I'm remaking my pastry,</font>
+<font color="#FFFF00">I'm remaking my choux,</font>
+
+590
+00:25:36,640 --> 00:25:38,559
+<font color="#FFFF00">but the second choux</font>
+<font color="#FFFF00">hasn't worked either.</font><font color="#00FFFF"> OK.</font>
+
+591
+00:25:38,560 --> 00:25:40,319
+<font color="#FFFF00">I make choux all the time.</font>
+<font color="#00FFFF">What's the p...?</font>
+
+592
+00:25:40,320 --> 00:25:41,999
+<font color="#00FFFF">Well, slow down.</font>
+
+593
+00:25:42,000 --> 00:25:43,119
+<font color="#00FFFF">What's the problem?</font>
+
+594
+00:25:43,120 --> 00:25:45,519
+<font color="#FFFF00">My choux was too thin, I couldn't</font>
+<font color="#FFFF00">pipe it. It was just blobs.</font>
+
+595
+00:25:45,520 --> 00:25:48,079
+<font color="#ffffff">ROSIE SIGHS</font>
+<font color="#00FFFF">Take a breath. You've got this, OK?</font>
+
+596
+00:25:48,080 --> 00:25:51,399
+<font color="#FFFF00">I don't think I do have this, but</font>
+<font color="#FFFF00">you're very lovely.</font><font color="#00FFFF"> Yes, you do.</font>
+
+597
+00:25:51,400 --> 00:25:53,199
+<font color="#ffffff">So, what's next?</font>
+
+598
+00:25:53,200 --> 00:25:54,599
+<font color="#11FF11">"Make the creme chiboust."</font>
+
+599
+00:25:54,600 --> 00:25:57,319
+<font color="#11FF11">Chibouse? Chibouss? Chiboust?</font>
+<font color="#11FF11">Chiboo?</font>
+
+600
+00:25:57,320 --> 00:25:58,359
+<font color="#11FF11">Chiboo.</font>
+
+601
+00:25:58,360 --> 00:25:59,759
+<font color="#00FFFF">So, this is the creme pat,</font>
+
+602
+00:25:59,760 --> 00:26:02,119
+<font color="#00FFFF">but I need to make it into</font>
+<font color="#00FFFF">a creme chiboust.</font>
+
+603
+00:26:02,120 --> 00:26:04,719
+<font color="#ffffff">If only I'd concentrated more</font>
+<font color="#ffffff">in French lessons</font>
+
+604
+00:26:04,720 --> 00:26:06,719
+<font color="#ffffff">and then I might know</font>
+<font color="#ffffff">what chiboust means.</font>
+
+605
+00:26:06,720 --> 00:26:09,879
+<font color="#00FFFF">Je ne sais pas. I don't know.</font>
+
+606
+00:26:09,880 --> 00:26:11,799
+<font color="#11FF11">My creme pat's thickening very fast.</font>
+
+607
+00:26:11,800 --> 00:26:14,119
+<font color="#11FF11">To the point where it's</font>
+<font color="#11FF11">slightly splitting.</font>
+
+608
+00:26:14,120 --> 00:26:17,199
+<font color="#11FF11">I think if I get a whisk</font>
+<font color="#11FF11">I can just sort it out.</font>
+
+609
+00:26:17,200 --> 00:26:18,559
+<font color="#11FF11">Oh!</font>
+
+610
+00:26:18,560 --> 00:26:20,759
+<font color="#ffffff">I've made a creme patisserie before.</font>
+
+611
+00:26:20,760 --> 00:26:23,799
+<font color="#ffffff">I've just read about the stiff</font>
+<font color="#ffffff">egg whites, so I'm assuming</font>
+
+612
+00:26:23,800 --> 00:26:25,720
+<font color="#ffffff">it's more, like, mousse-like, maybe?</font>
+
+613
+00:26:27,760 --> 00:26:30,000
+<font color="#11FF11">So, three leaves... gelatine.</font>
+
+614
+00:26:31,440 --> 00:26:35,119
+<font color="#FFFF00">Um, I have decided...</font>
+
+615
+00:26:35,120 --> 00:26:37,159
+<font color="#FFFF00">..just to stick with</font>
+<font color="#FFFF00">my original pastry</font>
+
+616
+00:26:37,160 --> 00:26:38,599
+<font color="#FFFF00">because I've got so much to remake.</font>
+
+617
+00:26:38,600 --> 00:26:39,799
+<font color="#11FF11">Come on, Rosie, you can do it.</font>
+
+618
+00:26:39,800 --> 00:26:41,520
+<font color="#11FF11">If anyone can do that,</font>
+<font color="#11FF11">you can do it.</font>
+
+619
+00:26:43,040 --> 00:26:46,159
+<font color="#ffffff">These egg whites look</font>
+<font color="#ffffff">a bit ropey, shall we say?</font>
+
+620
+00:26:46,160 --> 00:26:47,439
+<font color="#00FFFF">So I'm just folding this in.</font>
+
+621
+00:26:47,440 --> 00:26:48,999
+<font color="#11FF11">That's lovely, isn't it? Pillowy.</font>
+
+622
+00:26:49,000 --> 00:26:54,000
+<font color="#00FFFF">I want it to be smooth but thick</font>
+<font color="#00FFFF">cos it's going inside my choux.</font>
+
+623
+00:26:56,000 --> 00:26:58,719
+<font color="#FFFF00">That's my third attempt at the choux</font>
+<font color="#FFFF00">and it's still pretty slack.</font>
+
+624
+00:26:58,720 --> 00:27:00,239
+<font color="#FFFF00">But whatever, we're piping this.</font>
+
+625
+00:27:00,240 --> 00:27:01,520
+<font color="#FFFF00">This is being piped.</font>
+
+626
+00:27:03,720 --> 00:27:05,880
+<font color="#ffffff">I'm just having a quick look</font>
+<font color="#ffffff">at this bad boy.</font>
+
+627
+00:27:07,480 --> 00:27:12,199
+<font color="#ffffff">I mean, it's pretty terrible as far</font>
+<font color="#ffffff">as how much butter's come out of it.</font>
+
+628
+00:27:12,200 --> 00:27:13,879
+<font color="#00FFFF">No idea what this is like,</font>
+
+629
+00:27:13,880 --> 00:27:16,239
+<font color="#00FFFF">but I can see it browning</font>
+<font color="#00FFFF">quite a lot on the edge.</font>
+
+630
+00:27:16,240 --> 00:27:18,079
+<font color="#00FFFF">I think that might be done.</font>
+
+631
+00:27:18,080 --> 00:27:20,959
+<font color="#11FF11">OOh, ya</font><font color="#ffffff"> BLEEP.</font>
+
+632
+00:27:20,960 --> 00:27:24,719
+<font color="#11FF11">Didn't really lift up at the edges,</font>
+<font color="#11FF11">did it? It's not a great puff.</font>
+
+633
+00:27:24,720 --> 00:27:26,719
+<font color="#FFFF00">Um, I'm making my creme pat again.</font>
+
+634
+00:27:26,720 --> 00:27:30,879
+<font color="#FFFF00">I forgot to add the gelatine because</font>
+<font color="#FFFF00">I am a massive, massive idiot.</font>
+
+635
+00:27:30,880 --> 00:27:33,599
+<font color="#FFFF00">I've done everything either</font>
+<font color="#FFFF00">twice or three times.</font>
+
+636
+00:27:33,600 --> 00:27:34,919
+<font color="#FFFF00">How long have we got left?</font>
+
+637
+00:27:34,920 --> 00:27:36,599
+<font color="#00FFFF">Bakers, you've got half an hour.</font>
+
+638
+00:27:36,600 --> 00:27:38,159
+<font color="#FFFF00">Cooked through? I don't know?</font>
+
+639
+00:27:38,160 --> 00:27:40,559
+<font color="#FFFF00">I-I'm going with it, I'm going</font>
+<font color="#FFFF00">with it, I'm going with it.</font>
+
+640
+00:27:40,560 --> 00:27:42,999
+<font color="#FFFF00">The choux is in. Who knows what</font>
+<font color="#FFFF00">it's going to do, but it's in.</font>
+
+641
+00:27:43,000 --> 00:27:45,159
+<font color="#FFFF00">It's not over. It's not over.</font>
+
+642
+00:27:45,160 --> 00:27:49,360
+<font color="#11FF11">Next is making a caramel</font>
+<font color="#11FF11">and then dipping these in it.</font>
+
+643
+00:27:50,400 --> 00:27:52,519
+<font color="#ffffff">It is starting to colour.</font>
+<font color="#ffffff">It should do.</font>
+
+644
+00:27:52,520 --> 00:27:53,879
+<font color="#ffffff">I just don't want it to burn.</font>
+
+645
+00:27:53,880 --> 00:27:56,679
+<font color="#00FFFF">Lots can go wrong in caramel.</font>
+
+646
+00:27:56,680 --> 00:27:58,559
+<font color="#ffffff">Oh, yeah!</font>
+
+647
+00:27:58,560 --> 00:28:00,879
+<font color="#00FFFF">I hope that that's not burnt.</font>
+
+648
+00:28:00,880 --> 00:28:03,399
+<font color="#ffffff">SHE SIGHS</font>
+<font color="#00FFFF">I worry that that's too dark.</font>
+
+649
+00:28:03,400 --> 00:28:04,479
+<font color="#00FFFF">Too late now.</font>
+
+650
+00:28:04,480 --> 00:28:07,359
+<font color="#00FFFF">I might just make the top ones</font>
+<font color="#00FFFF">a little lighter, maybe?</font>
+
+651
+00:28:07,360 --> 00:28:09,439
+<font color="#00FFFF">OK, right, so let's try that again.</font>
+
+652
+00:28:09,440 --> 00:28:12,159
+<font color="#FFFF00">The choux buns are actually</font>
+<font color="#FFFF00">puffing up. The chouxs are puffing.</font>
+
+653
+00:28:12,160 --> 00:28:13,359
+<font color="#FFFF00">Thank God.</font>
+
+654
+00:28:13,360 --> 00:28:14,519
+<font color="#00FFFF">15 minutes.</font>
+
+655
+00:28:14,520 --> 00:28:16,759
+<font color="#ffffff">How do we assemble this bad boy?</font>
+
+656
+00:28:16,760 --> 00:28:20,039
+<font color="#11FF11">"Trim the sheet of puff pastry and</font>
+<font color="#11FF11">cut into two rectangles."</font>
+
+657
+00:28:20,040 --> 00:28:21,200
+<font color="#ffffff">Sawing wood.</font>
+
+658
+00:28:22,760 --> 00:28:25,959
+<font color="#00FFFF">Everything's ready to go,</font>
+<font color="#00FFFF">apart from obviously the caramel.</font>
+
+659
+00:28:25,960 --> 00:28:27,279
+<font color="#00FFFF">Please work.</font>
+
+660
+00:28:27,280 --> 00:28:31,399
+<font color="#ffffff">Pipe a wide ribbon of creme</font>
+<font color="#ffffff">chiboust down the middle.</font>
+
+661
+00:28:31,400 --> 00:28:33,039
+<font color="#11FF11">This looked so nice when</font>
+<font color="#11FF11">I was making it,</font>
+
+662
+00:28:33,040 --> 00:28:34,599
+<font color="#11FF11">now it just looks congealed.</font>
+
+663
+00:28:34,600 --> 00:28:37,479
+<font color="#00FFFF">Fill each choux bun with</font>
+<font color="#00FFFF">creme chiboust. Ooh.</font>
+
+664
+00:28:37,480 --> 00:28:38,919
+<font color="#00FFFF">You can... Ooh.</font>
+
+665
+00:28:38,920 --> 00:28:40,399
+<font color="#00FFFF">You can feel it going in.</font>
+
+666
+00:28:40,400 --> 00:28:43,199
+<font color="#11FF11">I don't really know if this is</font>
+<font color="#11FF11">going in or not.</font>
+
+667
+00:28:43,200 --> 00:28:45,679
+<font color="#00FFFF">I'm trying to see which ones</font>
+<font color="#00FFFF">look vaguely reasonable.</font>
+
+668
+00:28:45,680 --> 00:28:47,839
+<font color="#00FFFF">I feel like...</font>
+<font color="#ffffff">OK, let me tell you.</font><font color="#00FFFF"> OK.</font>
+
+669
+00:28:47,840 --> 00:28:49,079
+<font color="#ffffff">That guy, good.</font>
+
+670
+00:28:49,080 --> 00:28:50,319
+<font color="#ffffff">That guy, good.</font>
+
+671
+00:28:50,320 --> 00:28:51,680
+<font color="#ffffff">That guy's an idiot.</font>
+
+672
+00:28:52,880 --> 00:28:54,839
+<font color="#ffffff">ALICE:</font><font color="#00FFFF"> I don't know how I'm going to</font>
+<font color="#00FFFF">fit these on.</font>
+
+673
+00:28:54,840 --> 00:28:57,599
+<font color="#11FF11">What I'm going to have to do here is</font>
+<font color="#11FF11">make mine kind of come off the edge</font>
+
+674
+00:28:57,600 --> 00:28:59,239
+<font color="#11FF11">as much as I can.</font>
+
+675
+00:28:59,240 --> 00:29:01,039
+<font color="#FFFF00">Ow-ee! They're really hot.</font>
+
+676
+00:29:01,040 --> 00:29:03,159
+<font color="#FFFF00">They look like choux buns.</font>
+
+677
+00:29:03,160 --> 00:29:05,919
+<font color="#FFFF00">Not beautiful choux buns, but they</font>
+<font color="#FFFF00">are recognisably buns of choux.</font>
+
+678
+00:29:05,920 --> 00:29:07,159
+<font color="#ffffff">STEPH:</font><font color="#00FFFF"> How long have we got?</font>
+
+679
+00:29:07,160 --> 00:29:09,359
+<font color="#ffffff">You have five minutes left, bakers.</font>
+
+680
+00:29:09,360 --> 00:29:10,999
+<font color="#ffffff">ALICE:</font><font color="#00FFFF"> Do you like my two-tone</font>
+<font color="#00FFFF">caramel?</font>
+
+681
+00:29:11,000 --> 00:29:12,719
+<font color="#ffffff">This looks really terrible.</font>
+
+682
+00:29:12,720 --> 00:29:14,839
+<font color="#11FF11">Don't fall off now.</font>
+
+683
+00:29:14,840 --> 00:29:16,639
+<font color="#00FFFF">It just says decorate and, like,</font>
+
+684
+00:29:16,640 --> 00:29:18,279
+<font color="#00FFFF">I don't really know what else</font>
+<font color="#00FFFF">I could do.</font>
+
+685
+00:29:18,280 --> 00:29:20,599
+<font color="#FFFF00">I've lost count. I don't even</font>
+<font color="#FFFF00">know if I've done enough</font>
+
+686
+00:29:20,600 --> 00:29:23,080
+<font color="#FFFF00">or too many or anything.</font>
+<font color="#FFFF00">Lost track of everything.</font>
+
+687
+00:29:24,360 --> 00:29:26,879
+<font color="#ffffff">I think that's going to be</font>
+<font color="#ffffff">as good as it gets.</font>
+
+688
+00:29:26,880 --> 00:29:28,999
+<font color="#00FFFF">I've got a two-tone</font>
+<font color="#00FFFF">caramel thing going on.</font>
+
+689
+00:29:29,000 --> 00:29:31,639
+<font color="#FFFF00">Just got to make sure I've got</font>
+<font color="#FFFF00">the prettiest ones sitting on top.</font>
+
+690
+00:29:31,640 --> 00:29:32,799
+<font color="#ffffff">I think she's got a lot less</font>
+
+691
+00:29:32,800 --> 00:29:34,639
+<font color="#ffffff">to worry about</font>
+<font color="#ffffff">than she's worrying about.</font>
+
+692
+00:29:34,640 --> 00:29:37,399
+<font color="#FFFF00">I have something. It really looked</font>
+<font color="#FFFF00">like I was going to have nothing.</font>
+
+693
+00:29:37,400 --> 00:29:38,719
+<font color="#ffffff">SANDI:</font><font color="#00FFFF"> Bakers, your time is up.</font>
+
+694
+00:29:38,720 --> 00:29:39,760
+<font color="#ffffff">DAVID:</font><font color="#11FF11"> Whoo!</font>
+
+695
+00:29:41,320 --> 00:29:44,999
+<font color="#00FFFF">Please do what you're</font>
+<font color="#00FFFF">automatically doing.</font>
+
+696
+00:29:45,000 --> 00:29:46,439
+<font color="#00FFFF">Our babies are all grown up.</font>
+
+697
+00:29:46,440 --> 00:29:47,759
+<font color="#ffffff">They don't need us.</font>
+
+698
+00:29:47,760 --> 00:29:48,959
+<font color="#00FFFF">They don't need us any more.</font>
+
+699
+00:29:48,960 --> 00:29:50,240
+<font color="#ffffff">Just as well.</font>
+
+700
+00:29:52,120 --> 00:29:54,560
+<font color="#FFFF00">Oh, my God. I can't believe</font>
+<font color="#FFFF00">I nearly dropped that.</font>
+
+701
+00:29:59,200 --> 00:30:03,199
+<font color="#ffffff">Prue and Paul are looking for</font>
+<font color="#ffffff">a beautiful gateau St Honore</font>
+
+702
+00:30:03,200 --> 00:30:06,639
+<font color="#ffffff">with crisp puff pastry and perfect</font>
+<font color="#ffffff">choux buns filled with</font>
+
+703
+00:30:06,640 --> 00:30:11,359
+<font color="#ffffff">silky smooth chiboust, finished with</font>
+<font color="#ffffff">caramel and Chantilly cream.</font>
+
+704
+00:30:11,360 --> 00:30:12,719
+<font color="#11FF11">Shall we start with this one?</font>
+
+705
+00:30:12,720 --> 00:30:15,479
+<font color="#FFFF00">The colour of the choux buns</font>
+<font color="#FFFF00">doesn't look too bad.</font>
+
+706
+00:30:15,480 --> 00:30:17,999
+<font color="#FFFF00">Yeah, they're all pretty much</font>
+<font color="#FFFF00">the same size.</font>
+
+707
+00:30:18,000 --> 00:30:19,479
+{\an5}<font color="#FFFF00">The pastry looks a bit soggy.</font><font color="#11FF11"> Yeah.</font>
+
+708
+00:30:19,480 --> 00:30:20,920
+<font color="#FFFF00">Butter's poured out.</font>
+
+709
+00:30:24,560 --> 00:30:27,239
+<font color="#FFFF00">I'm just trying to get down</font>
+<font color="#FFFF00">to the chiboust down here.</font>
+
+710
+00:30:27,240 --> 00:30:29,439
+<font color="#FFFF00">Well, that's split.</font>
+
+711
+00:30:29,440 --> 00:30:31,479
+<font color="#11FF11">Good caramel.</font>
+
+712
+00:30:31,480 --> 00:30:33,519
+<font color="#11FF11">Nice and crackly and thin.</font>
+
+713
+00:30:33,520 --> 00:30:35,039
+<font color="#11FF11">It's a very nice pastry.</font>
+
+714
+00:30:35,040 --> 00:30:36,599
+<font color="#11FF11">It's not perfect,</font>
+
+715
+00:30:36,600 --> 00:30:37,999
+<font color="#11FF11">but it's OK.</font>
+
+716
+00:30:38,000 --> 00:30:41,799
+<font color="#FFFF00">Moving on to number two. You know</font>
+<font color="#FFFF00">when you get the big holes here?</font>
+
+717
+00:30:41,800 --> 00:30:44,479
+<font color="#FFFF00">Normally an indication that you</font>
+<font color="#FFFF00">have lost a little bit of butter,</font>
+
+718
+00:30:44,480 --> 00:30:46,639
+<font color="#FFFF00">but you can see the flake anyway</font>
+<font color="#FFFF00">and it is thin.</font>
+
+719
+00:30:46,640 --> 00:30:49,079
+<font color="#FFFF00">Choux buns look a bit irregular</font>
+<font color="#FFFF00">in colour, don't they?</font><font color="#11FF11"> Hmm.</font>
+
+720
+00:30:49,080 --> 00:30:50,640
+<font color="#FFFF00">Some are dark, some are light.</font><font color="#11FF11"> Yeah.</font>
+
+721
+00:30:53,640 --> 00:30:57,679
+<font color="#FFFF00">The chiboust is a little bit like</font>
+<font color="#FFFF00">scrambled egg...</font>
+
+722
+00:30:57,680 --> 00:30:58,879
+<font color="#FFFF00">..but it tastes OK.</font>
+
+723
+00:30:58,880 --> 00:31:01,839
+<font color="#11FF11">I love the size of those choux buns.</font>
+<font color="#11FF11">They're not too big.</font>
+
+724
+00:31:01,840 --> 00:31:04,479
+<font color="#FFFF00">And, moving on to this one, the</font>
+<font color="#FFFF00">Chantilly cream's over-whipped.</font>
+
+725
+00:31:04,480 --> 00:31:06,079
+<font color="#11FF11">The pastry looks good.</font>
+
+726
+00:31:06,080 --> 00:31:07,640
+<font color="#FFFF00">Feels good, it's quite solid.</font>
+
+727
+00:31:12,680 --> 00:31:13,879
+<font color="#11FF11">I'd say that</font>
+
+728
+00:31:13,880 --> 00:31:15,759
+{\an5}<font color="#11FF11">caramel is overdone.</font><font color="#FFFF00"> It is overdone.</font>
+
+729
+00:31:15,760 --> 00:31:18,119
+<font color="#FFFF00">Yeah, you can taste can't you,</font>
+<font color="#FFFF00">the burnt caramel as well.</font>
+
+730
+00:31:18,120 --> 00:31:19,399
+<font color="#11FF11">It's too strong.</font>
+
+731
+00:31:19,400 --> 00:31:20,959
+<font color="#FFFF00">This looks quite delicate, this one.</font>
+
+732
+00:31:20,960 --> 00:31:23,239
+<font color="#11FF11">Except that the choux buns</font>
+<font color="#11FF11">are all upside down.</font>
+
+733
+00:31:23,240 --> 00:31:26,479
+<font color="#FFFF00">It's got a nice flake,</font>
+<font color="#FFFF00">it's nice and thin.</font>
+
+734
+00:31:26,480 --> 00:31:28,519
+<font color="#11FF11">Nice crisp pastry.</font>
+
+735
+00:31:28,520 --> 00:31:30,520
+<font color="#11FF11">Mmm, how's the chiboust?</font>
+
+736
+00:31:32,040 --> 00:31:35,599
+<font color="#FFFF00">It's pretty smooth, isn't it?</font>
+<font color="#11FF11">Hmm, good.</font>
+
+737
+00:31:35,600 --> 00:31:36,999
+<font color="#FFFF00">The puff's good as well.</font>
+
+738
+00:31:37,000 --> 00:31:40,599
+<font color="#11FF11">I don't complain about this at all</font>
+<font color="#11FF11">except that the choux buns</font>
+
+739
+00:31:40,600 --> 00:31:42,999
+<font color="#11FF11">are definitely upside down.</font>
+<font color="#FFFF00">They are for sure.</font>
+
+740
+00:31:43,000 --> 00:31:45,759
+<font color="#FFFF00">OK, this'll be an interesting</font>
+<font color="#FFFF00">judging.</font>
+
+741
+00:31:45,760 --> 00:31:50,440
+<font color="#00FFFF">Prue and Paul will now rank the</font>
+<font color="#00FFFF">gateau St Honore from worst to best.</font>
+
+742
+00:31:55,080 --> 00:31:58,399
+{\an5}<font color="#FFFF00">OK, in fourth position is this one.</font>
+
+743
+00:31:58,400 --> 00:31:59,599
+<font color="#FFFF00">Whose is this?</font>
+
+744
+00:31:59,600 --> 00:32:02,039
+<font color="#FFFF00">Alice, you had a few issues</font>
+<font color="#FFFF00">with the puff.</font>
+
+745
+00:32:02,040 --> 00:32:04,559
+<font color="#FFFF00">There is problems with the Chantilly</font>
+<font color="#FFFF00">and the chiboust as well</font>
+
+746
+00:32:04,560 --> 00:32:06,520
+<font color="#FFFF00">and you burnt the caramel</font>
+<font color="#FFFF00">on the bottom.</font>
+
+747
+00:32:07,840 --> 00:32:10,279
+<font color="#11FF11">In third place is this one.</font>
+
+748
+00:32:10,280 --> 00:32:12,639
+<font color="#11FF11">Steph, a little untidy,</font>
+
+749
+00:32:12,640 --> 00:32:14,359
+<font color="#11FF11">too much caramel,</font>
+
+750
+00:32:14,360 --> 00:32:16,920
+<font color="#11FF11">so it's become a bit lumpy.</font>
+<font color="#11FF11">But delicious.</font>
+
+751
+00:32:21,320 --> 00:32:24,159
+<font color="#FFFF00">In second place is this one.</font>
+
+752
+00:32:24,160 --> 00:32:26,000
+<font color="#FFFF00">Whose is this?</font>
+
+753
+00:32:28,000 --> 00:32:29,399
+<font color="#FFFF00">Actually, not bad at all.</font>
+
+754
+00:32:29,400 --> 00:32:31,599
+<font color="#FFFF00">It looks like scrambled egg though,</font>
+<font color="#FFFF00">the chiboust,</font>
+
+755
+00:32:31,600 --> 00:32:34,279
+<font color="#FFFF00">and there's a little bit of</font>
+<font color="#FFFF00">sogginess running through</font>
+
+756
+00:32:34,280 --> 00:32:36,919
+<font color="#FFFF00">the puff pastry as well.</font>
+
+757
+00:32:36,920 --> 00:32:39,999
+<font color="#11FF11">Which leaves this one.</font>
+<font color="#00FFFF">Yeah!</font>
+
+758
+00:32:40,000 --> 00:32:42,799
+<font color="#11FF11">Rosie! Well done, Rosie.</font>
+
+759
+00:32:42,800 --> 00:32:46,999
+<font color="#11FF11">It's absolutely perfect, except</font>
+<font color="#11FF11">the profiteroles are upside down.</font>
+
+760
+00:32:47,000 --> 00:32:49,479
+<font color="#11FF11">Otherwise, it's delicious.</font>
+
+761
+00:32:49,480 --> 00:32:50,760
+<font color="#FFFF00">I'm sorry.</font>
+
+762
+00:32:53,280 --> 00:32:54,800
+<font color="#FFFF00">Sorry, sorry.</font>
+
+763
+00:32:58,160 --> 00:32:59,479
+<font color="#FFFF00">I-I can't believe it.</font>
+
+764
+00:32:59,480 --> 00:33:02,199
+<font color="#FFFF00">That was my most stressful bake...</font>
+
+765
+00:33:02,200 --> 00:33:03,559
+<font color="#FFFF00">..and I won it.</font>
+
+766
+00:33:03,560 --> 00:33:06,079
+<font color="#11FF11">Another second.</font>
+<font color="#11FF11">The sixth second in a Technical.</font>
+
+767
+00:33:06,080 --> 00:33:08,359
+<font color="#11FF11">Second will get you</font>
+<font color="#11FF11">all the way to the Final.</font>
+
+768
+00:33:08,360 --> 00:33:11,199
+<font color="#11FF11">Might not make you win the Final,</font>
+<font color="#11FF11">but it'll get you all the way there.</font>
+
+769
+00:33:11,200 --> 00:33:14,079
+<font color="#00FFFF">They're going to be picky - it's the</font>
+<font color="#00FFFF">Semifinal - they're not going to</font>
+
+770
+00:33:14,080 --> 00:33:15,439
+<font color="#00FFFF">just let anything go.</font>
+
+771
+00:33:15,440 --> 00:33:18,039
+<font color="#00FFFF">I've just got to try and</font>
+<font color="#00FFFF">pick it up again tomorrow.</font>
+
+772
+00:33:18,040 --> 00:33:19,799
+{\an5}<font color="#ffffff">There's not as many left now,</font>
+<font color="#ffffff">is there?</font>
+
+773
+00:33:19,800 --> 00:33:21,600
+{\an5}<font color="#ffffff">So your chances get less and less.</font>
+
+774
+00:33:28,800 --> 00:33:31,559
+{\an5}<font color="#ffffff">So, yesterday, everybody chugging</font>
+<font color="#ffffff">along, then I thought, Rosie,</font>
+
+775
+00:33:31,560 --> 00:33:32,679
+{\an5}<font color="#ffffff">going to crash and burn.</font>
+
+776
+00:33:32,680 --> 00:33:35,359
+<font color="#ffffff">She came first in the Technical.</font>
+<font color="#ffffff">I mean, I don't know where we are.</font>
+
+777
+00:33:35,360 --> 00:33:38,439
+<font color="#00FFFF">Now, Steph who's won Star Baker</font>
+<font color="#00FFFF">more than anybody else,</font>
+
+778
+00:33:38,440 --> 00:33:39,519
+<font color="#00FFFF">struggled a little bit.</font>
+
+779
+00:33:39,520 --> 00:33:42,519
+<font color="#11FF11">Her Signature tasted delicious,</font>
+<font color="#11FF11">but the texture was all wrong.</font>
+
+780
+00:33:42,520 --> 00:33:44,999
+<font color="#ffffff">What about David?</font><font color="#00FFFF"> I think</font>
+<font color="#00FFFF">he struggled in his Signature.</font>
+
+781
+00:33:45,000 --> 00:33:46,639
+<font color="#00FFFF">And it came down to the look of it.</font>
+
+782
+00:33:46,640 --> 00:33:50,799
+<font color="#ffffff">So I think the steady dark horse</font>
+<font color="#ffffff">in this race is Alice.</font>
+
+783
+00:33:50,800 --> 00:33:54,679
+<font color="#11FF11">Alice is steady, usually, but she</font>
+<font color="#11FF11">did do a pretty poor Technical.</font>
+
+784
+00:33:54,680 --> 00:33:57,599
+<font color="#00FFFF">Knowing it's the final next week,</font>
+<font color="#00FFFF">there is no room for error now.</font>
+
+785
+00:33:57,600 --> 00:34:00,559
+<font color="#ffffff">So it may be the person who fails,</font>
+<font color="#ffffff">rather than the person who triumphs?</font>
+
+786
+00:34:00,560 --> 00:34:03,279
+<font color="#00FFFF">I think putting Patisserie Week</font>
+<font color="#00FFFF">in a semifinal is pretty cruel.</font>
+
+787
+00:34:03,280 --> 00:34:05,399
+<font color="#ffffff">Was that your idea?</font>
+<font color="#FFFF00">That your idea?</font>
+
+788
+00:34:05,400 --> 00:34:07,999
+<font color="#FFFF00">Masterstroke.</font>
+<font color="#ffffff">EVIL LAUGHTER</font>
+
+789
+00:34:08,000 --> 00:34:09,600
+<font color="#ffffff">Get that man a white cat.</font>
+
+790
+00:34:16,560 --> 00:34:20,759
+<font color="#ffffff">Morning, bakers, welcome to your</font>
+<font color="#ffffff">semifinal Showstopper Challenge.</font>
+
+791
+00:34:20,760 --> 00:34:23,959
+<font color="#FFFF00">Today, the judges would like you</font>
+<font color="#FFFF00">to create a spectacular</font>
+
+792
+00:34:23,960 --> 00:34:27,359
+<font color="#FFFF00">sugar glass display case,</font>
+<font color="#FFFF00">completely transparent,</font>
+
+793
+00:34:27,360 --> 00:34:31,119
+<font color="#FFFF00">and inside, there needs to be</font>
+<font color="#FFFF00">an edible depiction of something</font>
+
+794
+00:34:31,120 --> 00:34:33,279
+<font color="#FFFF00">that you hold precious to you</font>
+<font color="#FFFF00">in your life.</font>
+
+795
+00:34:33,280 --> 00:34:35,679
+<font color="#ffffff">Now, I know we all love him,</font>
+<font color="#ffffff">but it can't be Noel, OK?</font>
+
+796
+00:34:35,680 --> 00:34:38,599
+<font color="#ffffff">Could be me, I could totally</font>
+<font color="#ffffff">fit in a glass case?</font><font color="#FFFF00"> Totally.</font>
+
+797
+00:34:38,600 --> 00:34:41,879
+<font color="#ffffff">Er, your glass case can be any</font>
+<font color="#ffffff">shape that you like,</font>
+
+798
+00:34:41,880 --> 00:34:45,119
+<font color="#ffffff">but the object inside must contain</font>
+<font color="#ffffff">at least one baked element.</font>
+
+799
+00:34:45,120 --> 00:34:47,839
+<font color="#ffffff">You know what I'm talking about,</font>
+<font color="#ffffff">cakes, biscuits, that kind of thing.</font>
+
+800
+00:34:47,840 --> 00:34:50,239
+<font color="#FFFF00">You have four and a half hours.</font>
+<font color="#ffffff">On your marks.</font><font color="#FFFF00"> Get set.</font>
+
+801
+00:34:50,240 --> 00:34:51,240
+<font color="#ffffff">Bake.</font>
+
+802
+00:34:53,040 --> 00:34:55,359
+<font color="#00FFFF">I'm trying to tell myself</font>
+<font color="#00FFFF">I'm calm, and then if I keep</font>
+
+803
+00:34:55,360 --> 00:34:57,279
+<font color="#00FFFF">telling myself,</font>
+<font color="#00FFFF">then, it might happen.</font>
+
+804
+00:34:57,280 --> 00:35:00,399
+<font color="#11FF11">It is a bit surreal that this is</font>
+<font color="#11FF11">the bake that could get us</font>
+
+805
+00:35:00,400 --> 00:35:03,039
+<font color="#11FF11">into the final, but I'm not really</font>
+<font color="#11FF11">thinking about that,</font>
+
+806
+00:35:03,040 --> 00:35:05,119
+<font color="#11FF11">I'm thinking about</font>
+<font color="#11FF11">whether I can do it.</font>
+
+807
+00:35:05,120 --> 00:35:06,599
+<font color="#11FF11">So, yeah, I'm scared.</font>
+
+808
+00:35:06,600 --> 00:35:10,039
+<font color="#ffffff">PRUE:</font><font color="#FFFF00"> What we want is a real</font>
+<font color="#FFFF00">celebration of patisserie.</font>
+
+809
+00:35:10,040 --> 00:35:14,759
+<font color="#FFFF00">Showcasing it in a sugar glass</font>
+<font color="#FFFF00">cabinet emphasises that.</font>
+
+810
+00:35:14,760 --> 00:35:17,199
+<font color="#00FFFF">Patisserie Week is all about</font>
+<font color="#00FFFF">precision,</font>
+
+811
+00:35:17,200 --> 00:35:19,879
+<font color="#00FFFF">so trying not to wing it.</font>
+<font color="#00FFFF">like I normally do.</font>
+
+812
+00:35:19,880 --> 00:35:23,719
+<font color="#FFFF00">This sugar glass cabinet</font>
+<font color="#FFFF00">has to be crystal clear.</font>
+
+813
+00:35:23,720 --> 00:35:26,719
+<font color="#FFFF00">We want to see through it,</font>
+<font color="#FFFF00">just like through a pane of glass.</font>
+
+814
+00:35:26,720 --> 00:35:29,239
+<font color="#ffffff">PAUL:</font><font color="#00FFFF"> And then, you've got to think</font>
+<font color="#00FFFF">of what they're going to put</font>
+
+815
+00:35:29,240 --> 00:35:30,279
+<font color="#00FFFF">in the middle.</font>
+
+816
+00:35:30,280 --> 00:35:34,599
+<font color="#FFFF00">It has to be really high-class,</font>
+<font color="#FFFF00">exquisite pastries.</font>
+
+817
+00:35:34,600 --> 00:35:37,479
+<font color="#00FFFF">Flavours, they can use</font>
+<font color="#00FFFF">anything they wish.</font>
+
+818
+00:35:37,480 --> 00:35:39,519
+<font color="#00FFFF">Anything from a banana,</font>
+<font color="#00FFFF">to a raspberry, to a coffee.</font>
+
+819
+00:35:39,520 --> 00:35:42,999
+<font color="#FFFF00">We want lots of different textures.</font>
+<font color="#FFFF00">Jellies, mousses,</font>
+
+820
+00:35:43,000 --> 00:35:46,519
+<font color="#FFFF00">ganache, maybe sponge cake,</font>
+<font color="#FFFF00">but it has to work together</font>
+
+821
+00:35:46,520 --> 00:35:50,079
+<font color="#FFFF00">so that it feels as if it's married,</font>
+<font color="#FFFF00">and that's how it should be.</font>
+
+822
+00:35:50,080 --> 00:35:51,999
+<font color="#00FFFF">This is going to be quite</font>
+<font color="#00FFFF">a tricky challenge.</font>
+
+823
+00:35:52,000 --> 00:35:55,479
+<font color="#00FFFF">We're looking, really, for</font>
+<font color="#00FFFF">an artist, an architect, a baker.</font>
+
+824
+00:35:55,480 --> 00:35:57,119
+<font color="#FFFF00">This is semifinal.</font>
+
+825
+00:35:57,120 --> 00:35:58,920
+<font color="#FFFF00">It has to be just amazing.</font>
+
+826
+00:36:02,600 --> 00:36:05,439
+<font color="#00FFFF">I've got keep on top of things</font>
+<font color="#00FFFF">today, because timing</font>
+
+827
+00:36:05,440 --> 00:36:08,719
+<font color="#00FFFF">is an issue, and I've got</font>
+<font color="#00FFFF">a glass case to make.</font>
+
+828
+00:36:08,720 --> 00:36:12,879
+<font color="#ffffff">NOEL:</font><font color="#FFFF00"> What the bakers present inside</font>
+<font color="#FFFF00">their case is entirely up to them,</font>
+
+829
+00:36:12,880 --> 00:36:14,919
+<font color="#FFFF00">but it must have one baked element.</font>
+
+830
+00:36:14,920 --> 00:36:16,479
+<font color="#11FF11">I'm starting with my cake dough.</font>
+
+831
+00:36:16,480 --> 00:36:19,399
+<font color="#11FF11">Butter, flour, flour, eggs, done.</font>
+
+832
+00:36:19,400 --> 00:36:22,919
+<font color="#00FFFF">This is a joconde sponge.</font>
+<font color="#00FFFF">Yes, that's what we're doing.</font>
+
+833
+00:36:22,920 --> 00:36:25,399
+<font color="#FFFF00">I'm making my genoise sponge.</font>
+
+834
+00:36:25,400 --> 00:36:26,919
+<font color="#FFFF00">Yeah, I'm in the zone.</font>
+
+835
+00:36:26,920 --> 00:36:29,079
+<font color="#ffffff">SANDI: The bakers have</font>
+<font color="#ffffff">four and a half hours to complete</font>
+
+836
+00:36:29,080 --> 00:36:31,399
+<font color="#ffffff">this monster challenge,</font>
+<font color="#ffffff">and time is something</font>
+
+837
+00:36:31,400 --> 00:36:33,559
+<font color="#ffffff">that is very much</font>
+<font color="#ffffff">on Rosie's mind.</font>
+
+838
+00:36:33,560 --> 00:36:35,759
+<font color="#00FFFF">This is my brioche dough</font>
+<font color="#00FFFF">that I'm making at the moment.</font>
+
+839
+00:36:35,760 --> 00:36:38,079
+<font color="#00FFFF">Mine is about the concept of time,</font>
+<font color="#00FFFF">spending time with family,</font>
+
+840
+00:36:38,080 --> 00:36:40,039
+<font color="#00FFFF">but lately, I've spent a lot less</font>
+<font color="#00FFFF">time with family</font>
+
+841
+00:36:40,040 --> 00:36:41,319
+<font color="#00FFFF">than I would have liked.</font>
+
+842
+00:36:41,320 --> 00:36:43,399
+<font color="#00FFFF">I mean, I haven't really</font>
+<font color="#00FFFF">seen my husband, to be honest,</font>
+
+843
+00:36:43,400 --> 00:36:44,639
+<font color="#00FFFF">since I started this.</font>
+
+844
+00:36:44,640 --> 00:36:47,119
+<font color="#00FFFF">He's in my house and he sometimes</font>
+<font color="#00FFFF">clears the kitchen up for me.</font>
+
+845
+00:36:47,120 --> 00:36:50,079
+<font color="#ffffff">Inside Rosie's sugar glass case</font>
+<font color="#ffffff">will be a range</font>
+
+846
+00:36:50,080 --> 00:36:51,999
+<font color="#ffffff">of classic patisserie, including</font>
+
+847
+00:36:52,000 --> 00:36:53,999
+<font color="#ffffff">miniature choux bun religieuses,</font>
+
+848
+00:36:54,000 --> 00:36:55,839
+<font color="#ffffff">brioche Tartes Tropeziennes,</font>
+
+849
+00:36:55,840 --> 00:36:57,319
+<font color="#ffffff">and a chocolate tartlet,</font>
+
+850
+00:36:57,320 --> 00:37:00,839
+<font color="#ffffff">all resting on an orange sable</font>
+<font color="#ffffff">Breton clock face.</font>
+
+851
+00:37:00,840 --> 00:37:03,239
+<font color="#00FFFF">We've given you four and a half</font>
+<font color="#00FFFF">hours to complete this challenge.</font>
+
+852
+00:37:03,240 --> 00:37:05,959
+<font color="#FFFF00">Yeah.</font><font color="#00FFFF"> When does your baking stop</font>
+<font color="#00FFFF">and your actual construction start?</font>
+
+853
+00:37:05,960 --> 00:37:08,679
+<font color="#FFFF00">I'm getting the baked elements</font>
+<font color="#FFFF00">completed and the fillings</font>
+
+854
+00:37:08,680 --> 00:37:10,239
+<font color="#FFFF00">in their components, ready to go,</font>
+
+855
+00:37:10,240 --> 00:37:12,319
+<font color="#FFFF00">and then stop all of that</font>
+<font color="#FFFF00">and focus on the box.</font>
+
+856
+00:37:12,320 --> 00:37:14,479
+<font color="#11FF11">Well, you had a great day</font>
+<font color="#11FF11">yesterday, Rosie.</font>
+
+857
+00:37:14,480 --> 00:37:16,879
+<font color="#11FF11">With luck, you will have</font>
+<font color="#11FF11">another one today.</font>
+
+858
+00:37:16,880 --> 00:37:18,719
+<font color="#FFFF00">Er...</font>
+<font color="#ffffff">SHE LAUGHS</font>
+
+859
+00:37:18,720 --> 00:37:20,639
+<font color="#00FFFF">This is definitely going</font>
+<font color="#00FFFF">to be a sweet cake.</font>
+
+860
+00:37:20,640 --> 00:37:22,599
+<font color="#00FFFF">It's going to have quite</font>
+<font color="#00FFFF">a substantial amount</font>
+
+861
+00:37:22,600 --> 00:37:25,239
+<font color="#00FFFF">of grated beetroot in one,</font>
+<font color="#00FFFF">and grated parsnip in another.</font>
+
+862
+00:37:25,240 --> 00:37:28,159
+<font color="#00FFFF">These root vegetables have a lot</font>
+<font color="#00FFFF">of natural sugars in them.</font>
+
+863
+00:37:28,160 --> 00:37:29,839
+<font color="#FFFF00">We're going for six layers.</font>
+
+864
+00:37:29,840 --> 00:37:32,439
+<font color="#FFFF00">They're not thick layers, though,</font>
+<font color="#FFFF00">you've got to remember that.</font>
+
+865
+00:37:32,440 --> 00:37:34,519
+<font color="#FFFF00">Got to remember, not thick,</font>
+<font color="#FFFF00">not thick layers.</font>
+
+866
+00:37:34,520 --> 00:37:37,759
+<font color="#11FF11">I am just putting my brioche dough</font>
+<font color="#11FF11">into the little moulds.</font>
+
+867
+00:37:37,760 --> 00:37:39,839
+<font color="#00FFFF">That's the genoise sponge.</font>
+
+868
+00:37:39,840 --> 00:37:42,239
+<font color="#00FFFF">I'm doing a representation</font>
+<font color="#00FFFF">of a coral reef.</font>
+
+869
+00:37:42,240 --> 00:37:45,319
+<font color="#00FFFF">The glass case kind of symbolises</font>
+<font color="#00FFFF">how fragile the oceans are,</font>
+
+870
+00:37:45,320 --> 00:37:47,679
+<font color="#00FFFF">so I'm going to try</font>
+<font color="#00FFFF">and represent that in a cake.</font>
+
+871
+00:37:47,680 --> 00:37:50,439
+<font color="#00FFFF">Yeah. We'll see how it goes.</font>
+<font color="#00FFFF">You never know.</font>
+
+872
+00:37:50,440 --> 00:37:53,959
+<font color="#ffffff">NOEL:</font><font color="#FFFF00"> Inside Alice's sugar glass</font>
+<font color="#FFFF00">case will be a mirror glazed</font>
+
+873
+00:37:53,960 --> 00:37:56,959
+<font color="#FFFF00">entremets cake, built up of five</font>
+<font color="#FFFF00">separately set</font>
+
+874
+00:37:56,960 --> 00:37:58,359
+{\an8}<font color="#FFFF00">and then layered elements.</font>
+
+875
+00:37:58,360 --> 00:38:00,159
+{\an8}<font color="#FFFF00">It will be adorned with vibrant</font>
+
+876
+00:38:00,160 --> 00:38:02,279
+<font color="#FFFF00">isomalt corals and chocolate shells.</font>
+
+877
+00:38:02,280 --> 00:38:04,439
+<font color="#00FFFF">Wow, there's a lot going</font>
+<font color="#00FFFF">on with this.</font><font color="#11FF11"> Yes.</font>
+
+878
+00:38:04,440 --> 00:38:06,999
+<font color="#00FFFF">It does sound amazing, the flavours</font>
+<font color="#00FFFF">that you've got going on as well.</font>
+
+879
+00:38:07,000 --> 00:38:09,439
+<font color="#00FFFF">I mean there's so many layers</font>
+<font color="#00FFFF">to this.</font><font color="#11FF11"> Yeah.</font><font color="#00FFFF"> It's about getting</font>
+
+880
+00:38:09,440 --> 00:38:12,159
+<font color="#00FFFF">the timing right for every single</font>
+<font color="#00FFFF">layer to build it up.</font><font color="#11FF11"> Yeah.</font><font color="#FFFF00"> Good.</font>
+
+881
+00:38:12,160 --> 00:38:14,119
+<font color="#00FFFF">Fantastic, good luck, Alice.</font>
+<font color="#00FFFF">We'll leave you to it.</font>
+
+882
+00:38:14,120 --> 00:38:15,799
+<font color="#11FF11">Thank you very much.</font>
+<font color="#00FFFF">You look a bit hassled.</font>
+
+883
+00:38:15,800 --> 00:38:17,319
+<font color="#ffffff">SHE LAUGHS</font>
+<font color="#11FF11">Thank you.</font>
+
+884
+00:38:17,320 --> 00:38:19,199
+<font color="#ffffff">DAVID:</font><font color="#FFFF00"> Right, I'm going to put</font>
+<font color="#FFFF00">this cake in now.</font>
+
+885
+00:38:19,200 --> 00:38:21,879
+<font color="#FFFF00">It's going in at 180 degrees,</font>
+<font color="#FFFF00">50 minutes and then check.</font>
+
+886
+00:38:21,880 --> 00:38:24,039
+<font color="#00FFFF">Let's do it, all in together.</font>
+
+887
+00:38:24,040 --> 00:38:26,399
+<font color="#11FF11">I'm blind baking my little</font>
+<font color="#11FF11">tartlet cases</font>
+
+888
+00:38:26,400 --> 00:38:28,439
+<font color="#11FF11">and cooking my brioche</font>
+<font color="#11FF11">at the same time.</font>
+
+889
+00:38:28,440 --> 00:38:30,399
+<font color="#FFFF00">That's the genoise sponge.</font>
+
+890
+00:38:30,400 --> 00:38:32,039
+<font color="#FFFF00">About 15 minutes probably.</font>
+
+891
+00:38:32,040 --> 00:38:34,999
+<font color="#00FFFF">Right, so, that's one element done.</font>
+
+892
+00:38:35,000 --> 00:38:36,399
+<font color="#00FFFF">Next, ganache.</font>
+
+893
+00:38:36,400 --> 00:38:38,879
+<font color="#11FF11">Right, I'm going to make</font>
+<font color="#11FF11">the maple syrup buttercream.</font>
+
+894
+00:38:38,880 --> 00:38:42,039
+<font color="#11FF11">It goes really well with these,</font>
+<font color="#11FF11">kind of, spicy cakes,</font>
+
+895
+00:38:42,040 --> 00:38:43,359
+<font color="#11FF11">it's very creamy.</font>
+
+896
+00:38:43,360 --> 00:38:44,999
+<font color="#FFFF00">I'm going to make choux pastry.</font>
+
+897
+00:38:45,000 --> 00:38:49,039
+<font color="#FFFF00">Yeah, after yesterday,</font>
+<font color="#FFFF00">I am absolutely terrified.</font>
+
+898
+00:38:49,040 --> 00:38:50,959
+<font color="#00FFFF">I'm making my entremets mousse.</font>
+
+899
+00:38:50,960 --> 00:38:53,799
+<font color="#00FFFF">I didn't think it was that</font>
+<font color="#00FFFF">ambitious, and now I'm starting</font>
+
+900
+00:38:53,800 --> 00:38:56,239
+<font color="#00FFFF">to think, maybe it was.</font>
+<font color="#00FFFF">But it's the semifinal,</font>
+
+901
+00:38:56,240 --> 00:38:58,520
+<font color="#00FFFF">so I wasn't going to try</font>
+<font color="#00FFFF">and play it safe.</font>
+
+902
+00:39:00,560 --> 00:39:02,599
+<font color="#ffffff">SANDI: But not all the bakers</font>
+<font color="#ffffff">are employing</font>
+
+903
+00:39:02,600 --> 00:39:04,359
+<font color="#ffffff">the same strategy as Alice.</font>
+
+904
+00:39:04,360 --> 00:39:06,719
+<font color="#11FF11">I definitely haven't planned this,</font>
+<font color="#11FF11">so it's kind of, like,</font>
+
+905
+00:39:06,720 --> 00:39:08,079
+<font color="#11FF11">right to the wire.</font>
+
+906
+00:39:08,080 --> 00:39:11,039
+<font color="#11FF11">It's important to not have</font>
+<font color="#11FF11">given yourself so much to do</font>
+
+907
+00:39:11,040 --> 00:39:13,279
+<font color="#11FF11">that you don't have time</font>
+<font color="#11FF11">to make things look good.</font>
+
+908
+00:39:13,280 --> 00:39:14,919
+<font color="#11FF11">I think that would be a disaster.</font>
+
+909
+00:39:14,920 --> 00:39:18,159
+<font color="#ffffff">David's ambitions do stretch</font>
+<font color="#ffffff">to a sugar glass terrarium,</font>
+
+910
+00:39:18,160 --> 00:39:20,039
+<font color="#ffffff">home to a tower of sponges,</font>
+
+911
+00:39:20,040 --> 00:39:21,719
+{\an8}<font color="#ffffff">made with beetroot and prunes,</font>
+
+912
+00:39:21,720 --> 00:39:23,359
+{\an8}<font color="#ffffff">parsnips and apricots</font>
+
+913
+00:39:23,360 --> 00:39:25,159
+{\an8}<font color="#ffffff">and topped off with elegantly-piped</font>
+
+914
+00:39:25,160 --> 00:39:27,479
+{\an8}<font color="#ffffff">buttercream cacti and succulents.</font>
+
+915
+00:39:27,480 --> 00:39:30,239
+<font color="#00FFFF">So, you've got a cake, essentially?</font>
+<font color="#11FF11">Yes.</font>
+
+916
+00:39:30,240 --> 00:39:32,799
+<font color="#00FFFF">I don't want a door wedge of sponge</font>
+<font color="#00FFFF">with a load of buttercream in it.</font>
+
+917
+00:39:32,800 --> 00:39:34,519
+<font color="#11FF11">I'm trying to do it neatly...</font><font color="#00FFFF"> Yeah.</font>
+
+918
+00:39:34,520 --> 00:39:36,519
+<font color="#11FF11">..and make it patisserie-like.</font>
+
+919
+00:39:36,520 --> 00:39:39,999
+<font color="#FFFF00">This is my craquelin.</font>
+<font color="#FFFF00">It's just flour, sugar and butter.</font>
+
+920
+00:39:40,000 --> 00:39:42,159
+<font color="#FFFF00">You put a little disc</font>
+<font color="#FFFF00">on the top of each choux bun.</font>
+
+921
+00:39:42,160 --> 00:39:44,479
+<font color="#FFFF00">It makes them slightly</font>
+<font color="#FFFF00">more crunchy on top,</font>
+
+922
+00:39:44,480 --> 00:39:46,759
+<font color="#FFFF00">and my choux looks OK... maybe.</font>
+
+923
+00:39:46,760 --> 00:39:48,719
+<font color="#FFFF00">Once they've puffed up in the oven,</font>
+<font color="#FFFF00">we'll decide.</font>
+
+924
+00:39:48,720 --> 00:39:51,239
+<font color="#00FFFF">With the entremets, all the layers</font>
+<font color="#00FFFF">have to be set,</font>
+
+925
+00:39:51,240 --> 00:39:54,959
+<font color="#00FFFF">so I'm setting the lemon</font>
+<font color="#00FFFF">and the raspberry first.</font>
+
+926
+00:39:54,960 --> 00:39:57,439
+<font color="#11FF11">This is going to be for my ganache.</font>
+
+927
+00:39:57,440 --> 00:39:59,559
+<font color="#11FF11">You don't want it to boil.</font>
+
+928
+00:39:59,560 --> 00:40:01,559
+<font color="#11FF11">I get scared when I'm doing</font>
+<font color="#11FF11">this one.</font>
+
+929
+00:40:01,560 --> 00:40:03,879
+<font color="#11FF11">I am making an opera cake,</font>
+
+930
+00:40:03,880 --> 00:40:07,119
+<font color="#11FF11">an ode to my amazing grandpa.</font>
+
+931
+00:40:07,120 --> 00:40:09,479
+<font color="#11FF11">He's called Derek.</font>
+<font color="#11FF11">Derek Percival George.</font>
+
+932
+00:40:09,480 --> 00:40:12,039
+<font color="#11FF11">That's a good name.</font>
+<font color="#11FF11">Strong name, eh?</font>
+
+933
+00:40:12,040 --> 00:40:14,879
+<font color="#ffffff">SANDI: Sitting inside her seamless</font>
+<font color="#ffffff">glass sugar case,</font>
+
+934
+00:40:14,880 --> 00:40:16,719
+<font color="#ffffff">Steph's opera cake will alternate</font>
+
+935
+00:40:16,720 --> 00:40:18,279
+<font color="#ffffff">layers of joconde sponge</font>
+
+936
+00:40:18,280 --> 00:40:19,599
+<font color="#ffffff">with chocolate ganache</font>
+
+937
+00:40:19,600 --> 00:40:21,239
+{\an8}<font color="#ffffff">and orange creme au beurre.</font>
+
+938
+00:40:21,240 --> 00:40:23,839
+<font color="#00FFFF">Have you practised this at home?</font>
+<font color="#11FF11">Yeah, few times.</font>
+
+939
+00:40:23,840 --> 00:40:26,639
+<font color="#00FFFF">You've done OK in the time?</font>
+<font color="#11FF11">Yeah, I just... I'm always worried</font>
+
+940
+00:40:26,640 --> 00:40:29,079
+<font color="#11FF11">that something's going to go wrong,</font>
+<font color="#11FF11">but that's just me.</font>
+
+941
+00:40:29,080 --> 00:40:30,679
+<font color="#FFFF00">You'll be fine, Steph.</font><font color="#11FF11"> Thank you.</font>
+
+942
+00:40:30,680 --> 00:40:32,719
+<font color="#ffffff">I'm allergic to opera, sorry.</font>
+<font color="#11FF11">Oh, God.</font>
+
+943
+00:40:32,720 --> 00:40:34,200
+<font color="#00FFFF">Let's have a look at this cake.</font>
+
+944
+00:40:35,360 --> 00:40:37,319
+<font color="#FFFF00">These are the Tartes Tropeziennes.</font>
+
+945
+00:40:37,320 --> 00:40:39,399
+<font color="#FFFF00">Do not quote my pronunciation.</font>
+
+946
+00:40:39,400 --> 00:40:42,399
+<font color="#11FF11">If we're shoddy on a few,</font>
+<font color="#11FF11">then it's just going to have to be</font>
+
+947
+00:40:42,400 --> 00:40:45,319
+<font color="#11FF11">what it is, because</font>
+<font color="#11FF11">it's as good as it gets.</font>
+
+948
+00:40:45,320 --> 00:40:47,119
+<font color="#00FFFF">Sugar glass cabinet challenge,</font>
+
+949
+00:40:47,120 --> 00:40:49,359
+<font color="#00FFFF">I think this plays to the strengths</font>
+<font color="#00FFFF">of most of them.</font>
+
+950
+00:40:49,360 --> 00:40:51,359
+<font color="#FFFF00">That's the genoise sponge.</font>
+
+951
+00:40:51,360 --> 00:40:53,599
+<font color="#00FFFF">Alice is the one that's</font>
+<font color="#00FFFF">surprised me.</font>
+
+952
+00:40:53,600 --> 00:40:55,679
+<font color="#00FFFF">She's really going for it now.</font>
+
+953
+00:40:55,680 --> 00:40:59,599
+<font color="#00FFFF">She's got curd, she's got bavarois,</font>
+<font color="#00FFFF">she's got genoise sponge.</font>
+
+954
+00:40:59,600 --> 00:41:02,039
+<font color="#FFFF00">This one's fine,</font>
+<font color="#FFFF00">the raspberry one is set,</font>
+
+955
+00:41:02,040 --> 00:41:04,879
+<font color="#FFFF00">it's just more moussey</font>
+<font color="#FFFF00">than I would've liked.</font>
+
+956
+00:41:04,880 --> 00:41:07,319
+<font color="#11FF11">Next, we're doing the creme</font>
+<font color="#11FF11">au beurre.</font>
+
+957
+00:41:07,320 --> 00:41:09,599
+<font color="#11FF11">It's basically a buttercream,</font>
+<font color="#11FF11">super rich.</font>
+
+958
+00:41:09,600 --> 00:41:11,839
+<font color="#ffffff">PRUE: Steph's doing</font>
+<font color="#ffffff">a straightforward opera cake,</font>
+
+959
+00:41:11,840 --> 00:41:13,399
+<font color="#ffffff">really, with a few macarons.</font>
+
+960
+00:41:13,400 --> 00:41:14,919
+<font color="#11FF11">This is for my macarons.</font>
+
+961
+00:41:14,920 --> 00:41:16,839
+<font color="#11FF11">No, I've not made macarons</font>
+<font color="#11FF11">in the competition.</font>
+
+962
+00:41:16,840 --> 00:41:18,000
+<font color="#11FF11">I've barely made them in life.</font>
+
+963
+00:41:19,520 --> 00:41:21,039
+<font color="#FFFF00">I have put the choux in the oven.</font>
+
+964
+00:41:21,040 --> 00:41:23,879
+<font color="#ffffff">Rosie's got quite a lot to do,</font>
+<font color="#ffffff">cos she's making the religieuses</font>
+
+965
+00:41:23,880 --> 00:41:25,719
+<font color="#ffffff">and the Tropeziennes.</font>
+
+966
+00:41:25,720 --> 00:41:28,399
+<font color="#FFFF00">All my stuff is patisserie, because</font>
+<font color="#FFFF00">I thought, it's Patisserie Week,</font>
+
+967
+00:41:28,400 --> 00:41:30,279
+<font color="#FFFF00">so I'm trying to do a celebration</font>
+<font color="#FFFF00">of patisserie,</font>
+
+968
+00:41:30,280 --> 00:41:31,559
+<font color="#FFFF00">so, yeah, much patisserie.</font>
+
+969
+00:41:31,560 --> 00:41:34,839
+<font color="#11FF11">This is a fancy piece of equipment.</font>
+<font color="#11FF11">Cuts your cake perfect.</font>
+
+970
+00:41:34,840 --> 00:41:36,479
+<font color="#00FFFF">David's doing a lot of sponges.</font>
+
+971
+00:41:36,480 --> 00:41:38,439
+<font color="#00FFFF">Is that delicate enough?</font>
+
+972
+00:41:38,440 --> 00:41:41,199
+<font color="#ffffff">Yeah, David's might just give us</font>
+<font color="#ffffff">a great big cake.</font>
+
+973
+00:41:41,200 --> 00:41:43,359
+<font color="#11FF11">I think I'm a little bit</font>
+<font color="#11FF11">ahead of time. How long's it been?</font>
+
+974
+00:41:43,360 --> 00:41:45,239
+<font color="#ffffff">Yeah, don't spin that too fast,</font>
+<font color="#ffffff">cos I'll take off.</font>
+
+975
+00:41:45,240 --> 00:41:47,439
+<font color="#FFFF00">Is this it? I asked for</font>
+<font color="#FFFF00">an air conditioning unit.</font>
+
+976
+00:41:47,440 --> 00:41:48,679
+<font color="#FFFF00">I'm going to complain.</font>
+
+977
+00:41:48,680 --> 00:41:50,639
+<font color="#FFFF00">Bakers, you've got three hours left.</font>
+
+978
+00:41:50,640 --> 00:41:52,399
+<font color="#ffffff">There's a bit of a breeze.</font>
+
+979
+00:41:52,400 --> 00:41:53,759
+<font color="#00FFFF">Right, just don't panic.</font>
+
+980
+00:41:53,760 --> 00:41:55,159
+<font color="#00FFFF">Right.</font>
+
+981
+00:41:55,160 --> 00:41:57,319
+<font color="#00FFFF">Everything needs to be</font>
+<font color="#00FFFF">in the freezer in five minutes.</font>
+
+982
+00:41:57,320 --> 00:41:59,599
+<font color="#00FFFF">I need to pour my bavarois in.</font>
+
+983
+00:41:59,600 --> 00:42:01,759
+<font color="#FFFF00">I'm going in with these macarons.</font>
+
+984
+00:42:01,760 --> 00:42:03,599
+<font color="#11FF11">My choux looks OK.</font>
+
+985
+00:42:03,600 --> 00:42:06,559
+<font color="#00FFFF">I'm going to set this</font>
+<font color="#00FFFF">for as long as possible.</font>
+
+986
+00:42:06,560 --> 00:42:08,279
+<font color="#ffffff">How are you?</font>
+<font color="#ffffff">SANDI LAUGHS</font>
+
+987
+00:42:08,280 --> 00:42:11,079
+<font color="#ffffff">Choux was not your friend yesterday.</font>
+
+988
+00:42:11,080 --> 00:42:13,359
+<font color="#ffffff">Ah, see look. Already perfection.</font>
+
+989
+00:42:13,360 --> 00:42:15,319
+<font color="#FFFF00">Functional choux.</font><font color="#ffffff"> Functional choux.</font>
+
+990
+00:42:15,320 --> 00:42:17,039
+<font color="#ffffff">Like a, sort of, lace-up brogue.</font>
+
+991
+00:42:17,040 --> 00:42:19,839
+<font color="#11FF11">Right, now I need to get on</font>
+<font color="#11FF11">with some biscuits.</font>
+
+992
+00:42:19,840 --> 00:42:23,279
+<font color="#00FFFF">The glass box is going to be</font>
+<font color="#00FFFF">supported by a biscuit edge,</font>
+
+993
+00:42:23,280 --> 00:42:26,319
+<font color="#00FFFF">so I'm making six biscuit frames.</font>
+
+994
+00:42:26,320 --> 00:42:29,479
+<font color="#FFFF00">These are my windows. Sort of</font>
+<font color="#FFFF00">an old-style Parisian window.</font>
+
+995
+00:42:29,480 --> 00:42:31,319
+<font color="#11FF11">It's just spiced biscuit dough.</font>
+
+996
+00:42:31,320 --> 00:42:33,039
+<font color="#11FF11">Yeah, I want to get these baked.</font>
+
+997
+00:42:33,040 --> 00:42:35,079
+<font color="#00FFFF">I'm just going to</font>
+<font color="#00FFFF">go in the oven with this.</font>
+
+998
+00:42:35,080 --> 00:42:36,959
+<font color="#00FFFF">About 15 minutes.</font>
+
+999
+00:42:36,960 --> 00:42:39,359
+<font color="#00FFFF">All right,</font>
+<font color="#00FFFF">I need to pull myself together.</font>
+
+1000
+00:42:39,360 --> 00:42:40,999
+<font color="#00FFFF">Can you tell that</font>
+<font color="#00FFFF">I'm starting to panic?</font>
+
+1001
+00:42:41,000 --> 00:42:42,400
+<font color="#00FFFF">It's gonna be really tight.</font>
+
+1002
+00:42:44,320 --> 00:42:47,199
+<font color="#ffffff">NOEL:</font><font color="#FFFF00"> Bakers,</font>
+<font color="#FFFF00">you are halfway through.</font>
+
+1003
+00:42:47,200 --> 00:42:49,919
+<font color="#11FF11">This is in preparation</font>
+<font color="#11FF11">for some isomalt.</font>
+
+1004
+00:42:49,920 --> 00:42:53,079
+<font color="#ffffff">SANDI: Isomalt is a sugar substitute</font>
+<font color="#ffffff">that doesn't caramelise</font>
+
+1005
+00:42:53,080 --> 00:42:54,599
+<font color="#ffffff">and will remain clear.</font>
+
+1006
+00:42:54,600 --> 00:42:56,319
+<font color="#FFFF00">Isomalt is just a sugar.</font>
+
+1007
+00:42:56,320 --> 00:42:57,639
+<font color="#FFFF00">It is just sugar.</font>
+
+1008
+00:42:57,640 --> 00:43:00,319
+<font color="#11FF11">"Inverted sugar"</font>
+<font color="#11FF11">is what isomalt is.</font>
+
+1009
+00:43:00,320 --> 00:43:02,799
+<font color="#00FFFF">This stuff gets so hot.</font>
+
+1010
+00:43:02,800 --> 00:43:05,919
+<font color="#00FFFF">I think it's about 300 degrees</font>
+<font color="#00FFFF">or something when it's melted.</font>
+
+1011
+00:43:05,920 --> 00:43:07,479
+<font color="#FFFF00">Are these gloves from work?</font>
+
+1012
+00:43:07,480 --> 00:43:09,319
+<font color="#11FF11">Yeah.</font><font color="#FFFF00"> Are they?</font>
+<font color="#ffffff">NOEL LAUGHS</font>
+
+1013
+00:43:09,320 --> 00:43:11,399
+<font color="#FFFF00">Do you wear two?</font>
+<font color="#11FF11">For this, cos it's hot.</font>
+
+1014
+00:43:11,400 --> 00:43:13,239
+<font color="#11FF11">Or for anything really stinky.</font>
+<font color="#FFFF00">Stinky?</font>
+
+1015
+00:43:13,240 --> 00:43:15,959
+<font color="#ffffff">HE LAUGHS</font>
+<font color="#FFFF00">What would be stinky?</font>
+
+1016
+00:43:15,960 --> 00:43:18,319
+<font color="#11FF11">I'm not talking about smelly things.</font>
+<font color="#FFFF00">Come on.</font><font color="#11FF11"> No.</font>
+
+1017
+00:43:18,320 --> 00:43:20,599
+<font color="#FFFF00">Whisper. What's the smelliest thing</font>
+<font color="#FFFF00">you've come across?</font>
+
+1018
+00:43:20,600 --> 00:43:23,239
+<font color="#11FF11">There are many things that smell.</font>
+<font color="#11FF11">Anything's that gone a bit horrible.</font>
+
+1019
+00:43:23,240 --> 00:43:25,479
+<font color="#11FF11">Nasty abscesses can smell bad,</font>
+<font color="#11FF11">lots of things can smell bad.</font>
+
+1020
+00:43:25,480 --> 00:43:26,639
+<font color="#FFFF00">Mm.</font><font color="#11FF11"> Mm.</font>
+
+1021
+00:43:26,640 --> 00:43:28,399
+<font color="#FFFF00">This is more interesting</font>
+<font color="#FFFF00">than the show.</font>
+
+1022
+00:43:28,400 --> 00:43:29,600
+<font color="#FFFF00">We should do a spin-off.</font>
+
+1023
+00:43:31,640 --> 00:43:33,759
+<font color="#00FFFF">Got all my panes.</font>
+
+1024
+00:43:33,760 --> 00:43:35,799
+<font color="#00FFFF">So they're ready to fill</font>
+<font color="#00FFFF">with isomalt.</font>
+
+1025
+00:43:35,800 --> 00:43:37,199
+<font color="#FFFF00">Yeah, that's fine.</font>
+
+1026
+00:43:37,200 --> 00:43:39,759
+<font color="#FFFF00">The strength of the biscuit is such</font>
+<font color="#FFFF00">an integral part to the bake.</font>
+
+1027
+00:43:39,760 --> 00:43:41,399
+<font color="#11FF11">It's gingerbread, very delicate.</font>
+
+1028
+00:43:41,400 --> 00:43:43,760
+<font color="#11FF11">The glass is going to go in there.</font>
+<font color="#11FF11">That is the aim.</font>
+
+1029
+00:43:45,360 --> 00:43:48,119
+<font color="#ffffff">SANDI: Although most bakers</font>
+<font color="#ffffff">are using biscuit to reinforce</font>
+
+1030
+00:43:48,120 --> 00:43:52,319
+<font color="#ffffff">their sugar glass, Steph is making</font>
+<font color="#ffffff">panes she'll risk glueing together.</font>
+
+1031
+00:43:52,320 --> 00:43:54,239
+<font color="#FFFF00">How hot is that right now?</font>
+<font color="#00FFFF">Really hot.</font><font color="#FFFF00"> Finger?</font>
+
+1032
+00:43:54,240 --> 00:43:56,279
+<font color="#00FFFF">Don't put your finger in there.</font>
+<font color="#FFFF00">Finger?</font><font color="#00FFFF"> No, no, no, no.</font>
+
+1033
+00:43:56,280 --> 00:43:57,399
+<font color="#FFFF00">Burn it? OK.</font>
+
+1034
+00:43:57,400 --> 00:43:59,239
+<font color="#11FF11">It's kind of the exact shade</font>
+<font color="#11FF11">I wanted.</font>
+
+1035
+00:43:59,240 --> 00:44:01,279
+<font color="#00FFFF">My glass is going to be kind of</font>
+<font color="#00FFFF">wavy, like the ocean.</font>
+
+1036
+00:44:01,280 --> 00:44:04,559
+<font color="#00FFFF">Fingers crossed I don't drop it</font>
+<font color="#00FFFF">somewhere, or it doesn't break.</font>
+
+1037
+00:44:04,560 --> 00:44:06,439
+<font color="#11FF11">Ideally, you want this to be</font>
+<font color="#11FF11">glass clear.</font>
+
+1038
+00:44:06,440 --> 00:44:08,599
+<font color="#11FF11">So the blowtorch,</font>
+<font color="#11FF11">it gets rid of surface bubbles.</font>
+
+1039
+00:44:08,600 --> 00:44:10,439
+<font color="#00FFFF">I've had mixed results this week.</font>
+
+1040
+00:44:10,440 --> 00:44:13,079
+<font color="#00FFFF">If it's murky, I'm just going</font>
+<font color="#00FFFF">to say, "Well, just a reflection</font>
+
+1041
+00:44:13,080 --> 00:44:14,599
+<font color="#00FFFF">"of our oceans, isn't it?"</font>
+
+1042
+00:44:14,600 --> 00:44:16,599
+<font color="#FFFF00">I don't know how transparent</font>
+<font color="#FFFF00">mine's going to be.</font>
+
+1043
+00:44:16,600 --> 00:44:18,039
+<font color="#FFFF00">I'll just do what I can.</font>
+
+1044
+00:44:18,040 --> 00:44:19,999
+<font color="#11FF11">Yeah, I mean, I was supposed</font>
+<font color="#11FF11">to be blowtorching</font>
+
+1045
+00:44:20,000 --> 00:44:22,239
+<font color="#11FF11">the bubbles off the back,</font>
+<font color="#11FF11">but I don't have time for that now.</font>
+
+1046
+00:44:22,240 --> 00:44:24,559
+<font color="#11FF11">And that is frankly the least</font>
+<font color="#11FF11">of my worries.</font>
+
+1047
+00:44:24,560 --> 00:44:26,119
+<font color="#00FFFF">It's basically already set.</font>
+
+1048
+00:44:26,120 --> 00:44:27,279
+<font color="#00FFFF">Doesn't take long.</font>
+
+1049
+00:44:27,280 --> 00:44:29,359
+<font color="#FFFF00">Not doing very well with being</font>
+<font color="#FFFF00">delicate with this.</font>
+
+1050
+00:44:29,360 --> 00:44:30,879
+<font color="#FFFF00">Can you tell it's not really my bag?</font>
+
+1051
+00:44:30,880 --> 00:44:33,079
+<font color="#11FF11">Yeah, they're OK.</font>
+<font color="#11FF11">It's not that clear though.</font>
+
+1052
+00:44:33,080 --> 00:44:34,239
+<font color="#11FF11">Can you see my face?</font>
+
+1053
+00:44:34,240 --> 00:44:36,040
+<font color="#00FFFF">Well, that's quite clear, isn't it?</font>
+
+1054
+00:44:37,680 --> 00:44:39,999
+<font color="#ffffff">You all right?</font><font color="#FFFF00"> Yeah, all this</font>
+<font color="#FFFF00">baking's making me feel</font>
+
+1055
+00:44:40,000 --> 00:44:42,159
+<font color="#FFFF00">a bit peckish.</font>
+<font color="#ffffff">Ah, that's why I got you these,</font>
+
+1056
+00:44:42,160 --> 00:44:43,639
+<font color="#ffffff">Delicious Crisps.</font><font color="#FFFF00"> Delicious Crisps?</font>
+
+1057
+00:44:43,640 --> 00:44:45,679
+<font color="#FFFF00">I've never heard of those.</font>
+<font color="#ffffff">Oh, they're really good.</font>
+
+1058
+00:44:45,680 --> 00:44:47,879
+<font color="#FFFF00">This is not one of your tricks</font>
+<font color="#FFFF00">again?</font><font color="#ffffff"> Don't be ridiculous.</font>
+
+1059
+00:44:47,880 --> 00:44:49,719
+<font color="#ffffff">Go for it.</font><font color="#FFFF00"> Sure?</font>
+<font color="#FFFF00">Cos we're a double act.</font>
+
+1060
+00:44:49,720 --> 00:44:51,599
+<font color="#ffffff">I know and I love you.</font>
+<font color="#FFFF00">And it's all about trust.</font>
+
+1061
+00:44:51,600 --> 00:44:52,600
+<font color="#ffffff">Yes, go for it.</font>
+
+1062
+00:44:55,960 --> 00:44:58,239
+{\an1}<font color="#ffffff">SHE CHUCKLES</font>
+
+1063
+00:44:58,240 --> 00:45:01,199
+<font color="#ffffff">Bakers, you have one hour.</font>
+
+1064
+00:45:01,200 --> 00:45:03,839
+<font color="#FFFF00">I've gotta have eye surgery now,</font>
+<font color="#FFFF00">I hope you're happy with yourself.</font>
+
+1065
+00:45:03,840 --> 00:45:05,399
+{\an1}<font color="#ffffff">SANDI LAUGHS</font>
+
+1066
+00:45:05,400 --> 00:45:07,999
+<font color="#00FFFF">I'm quite behind,</font>
+<font color="#00FFFF">but I don't really know...</font>
+
+1067
+00:45:08,000 --> 00:45:10,399
+<font color="#ffffff">SHE LAUGHS</font>
+<font color="#00FFFF">Erm...</font>
+
+1068
+00:45:10,400 --> 00:45:13,039
+<font color="#00FFFF">I'm going to try one of these</font>
+<font color="#00FFFF">macarons.</font>
+
+1069
+00:45:13,040 --> 00:45:15,279
+<font color="#00FFFF">I think they're meant to be</font>
+<font color="#00FFFF">more chewy than that.</font>
+
+1070
+00:45:15,280 --> 00:45:17,439
+<font color="#FFFF00">Right, just don't panic.</font>
+<font color="#FFFF00">This is my mirror glaze.</font>
+
+1071
+00:45:17,440 --> 00:45:19,200
+<font color="#FFFF00">I'm just getting my cake</font>
+<font color="#FFFF00">out of the freezer.</font>
+
+1072
+00:45:20,520 --> 00:45:23,519
+<font color="#11FF11">There's less than an hour now,</font>
+<font color="#11FF11">so I'm feeling very stressy.</font>
+
+1073
+00:45:23,520 --> 00:45:25,399
+<font color="#FFFF00">It's been in the freezer</font>
+<font color="#FFFF00">for quite a while.</font>
+
+1074
+00:45:25,400 --> 00:45:27,279
+<font color="#FFFF00">I'm starting to panic,</font>
+<font color="#FFFF00">cos I've got an hour left.</font>
+
+1075
+00:45:27,280 --> 00:45:29,119
+<font color="#FFFF00">I just need this to work.</font>
+<font color="#FFFF00">Can you make it work?</font>
+
+1076
+00:45:29,120 --> 00:45:31,679
+<font color="#ffffff">You're not normally this stressed.</font>
+<font color="#FFFF00">What do you mean I'm not normally</font>
+
+1077
+00:45:31,680 --> 00:45:33,399
+<font color="#FFFF00">this stressed?</font>
+<font color="#FFFF00">I'm always this stressed.</font>
+
+1078
+00:45:33,400 --> 00:45:35,719
+<font color="#ffffff">I don't normally have to calm you</font>
+<font color="#ffffff">down. I have to calm down Rosie</font>
+
+1079
+00:45:35,720 --> 00:45:37,199
+<font color="#ffffff">or I have to calm down Steph.</font>
+
+1080
+00:45:37,200 --> 00:45:40,199
+<font color="#ffffff">I have to get David a bit more</font>
+<font color="#ffffff">agitated, that's really my main job.</font>
+
+1081
+00:45:40,200 --> 00:45:41,599
+<font color="#11FF11">Woo!</font>
+
+1082
+00:45:41,600 --> 00:45:43,239
+<font color="#00FFFF">Assembly time for the cake.</font>
+
+1083
+00:45:43,240 --> 00:45:45,199
+<font color="#11FF11">I've got a beetroot prune cake</font>
+<font color="#11FF11">on the bottom,</font>
+
+1084
+00:45:45,200 --> 00:45:47,079
+<font color="#11FF11">and then I'm going to have</font>
+<font color="#11FF11">a layer of parsnip,</font>
+
+1085
+00:45:47,080 --> 00:45:49,439
+<font color="#11FF11">maple syrup with cream cheese icing</font>
+<font color="#11FF11">to go in between those.</font>
+
+1086
+00:45:49,440 --> 00:45:51,319
+<font color="#FFFF00">These are my little</font>
+<font color="#FFFF00">Tartes Tropeziennes.</font>
+
+1087
+00:45:51,320 --> 00:45:53,919
+<font color="#FFFF00">They are bit dry, but they're</font>
+<font color="#FFFF00">getting a massive bit of cream</font>
+
+1088
+00:45:53,920 --> 00:45:56,839
+<font color="#FFFF00">in there, so cream</font>
+<font color="#FFFF00">fixes everything, right?</font>
+
+1089
+00:45:56,840 --> 00:45:57,840
+<font color="#ffffff">STEPH:</font><font color="#00FFFF"> Think we're done.</font>
+
+1090
+00:45:59,080 --> 00:46:02,479
+<font color="#11FF11">Right, I need to make isomalt coral.</font>
+
+1091
+00:46:02,480 --> 00:46:04,959
+<font color="#00FFFF">This is my buttercream</font>
+<font color="#00FFFF">for the succulents.</font><font color="#FFFF00"> Happy?</font>
+
+1092
+00:46:04,960 --> 00:46:07,279
+<font color="#00FFFF">Yeah, it's just, everything's a bit</font>
+<font color="#00FFFF">busy today, isn't it?</font>
+
+1093
+00:46:07,280 --> 00:46:09,519
+{\an1}<font color="#FFFF00">I don't know. I've been lying down.</font>
+<font color="#ffffff">THEY LAUGH</font>
+
+1094
+00:46:09,520 --> 00:46:12,119
+<font color="#FFFF00">Is it a busy one?</font>
+<font color="#00FFFF">Oh, yeah, definitely.</font>
+
+1095
+00:46:12,120 --> 00:46:13,879
+<font color="#FFFF00">Look how quick you are</font>
+<font color="#FFFF00">with that business.</font>
+
+1096
+00:46:13,880 --> 00:46:16,319
+<font color="#00FFFF">Yeah, but we've gotta be quick.</font>
+<font color="#FFFF00">If you were doing this on your own.</font>
+
+1097
+00:46:16,320 --> 00:46:17,879
+<font color="#00FFFF">I wouldn't do this on my own.</font>
+
+1098
+00:46:17,880 --> 00:46:19,799
+<font color="#FFFF00">No, why, would you?</font>
+<font color="#FFFF00">It'd be too weird.</font>
+
+1099
+00:46:19,800 --> 00:46:22,319
+<font color="#11FF11">Breathe, breathe, breathe,</font>
+<font color="#11FF11">breathe, breathe, breathe, breathe.</font>
+
+1100
+00:46:22,320 --> 00:46:23,679
+<font color="#11FF11">I'm really, really behind.</font>
+
+1101
+00:46:23,680 --> 00:46:25,879
+<font color="#11FF11">Once I've done this,</font>
+<font color="#11FF11">it's time to start thinking about</font>
+
+1102
+00:46:25,880 --> 00:46:28,639
+<font color="#11FF11">the glass display box.</font>
+<font color="#11FF11">That's the next bit of fun.</font>
+
+1103
+00:46:28,640 --> 00:46:31,279
+<font color="#ffffff">Bakers, you have half an hour,</font>
+<font color="#ffffff">just half an hour.</font>
+
+1104
+00:46:31,280 --> 00:46:33,679
+<font color="#FFFF00">You can do a lot in half an hour.</font>
+<font color="#FFFF00">I'm in panic mode now.</font>
+
+1105
+00:46:33,680 --> 00:46:35,639
+<font color="#00FFFF">The construction bit will be</font>
+<font color="#00FFFF">the difficult bit.</font>
+
+1106
+00:46:35,640 --> 00:46:38,279
+<font color="#00FFFF">This is the stage where you've got</font>
+<font color="#00FFFF">to start being very, very delicate.</font>
+
+1107
+00:46:38,280 --> 00:46:40,359
+<font color="#11FF11">If you break it, gone.</font>
+
+1108
+00:46:40,360 --> 00:46:42,919
+<font color="#FFFF00">It's a challenge, so we all like</font>
+<font color="#FFFF00">challenges, don't we?</font>
+
+1109
+00:46:42,920 --> 00:46:46,159
+<font color="#FFFF00">But it's likely to be my downfall,</font>
+<font color="#FFFF00">shall we say.</font>
+
+1110
+00:46:46,160 --> 00:46:47,799
+<font color="#00FFFF">OK.</font>
+
+1111
+00:46:47,800 --> 00:46:49,159
+<font color="#11FF11">Yeah, I'm assembling.</font>
+
+1112
+00:46:49,160 --> 00:46:50,679
+<font color="#11FF11">I just need to have a glass case.</font>
+
+1113
+00:46:50,680 --> 00:46:52,280
+<font color="#FFFF00">How will I do this bit, guys?</font>
+
+1114
+00:46:53,840 --> 00:46:55,760
+<font color="#00FFFF">I'm glueing it with the isomalt.</font>
+
+1115
+00:47:05,360 --> 00:47:08,199
+<font color="#11FF11">Probably isn't the best way</font>
+<font color="#11FF11">to do this,</font>
+
+1116
+00:47:08,200 --> 00:47:09,960
+<font color="#11FF11">but needs must.</font>
+
+1117
+00:47:12,280 --> 00:47:15,199
+<font color="#FFFF00">I am not confident about it</font>
+<font color="#FFFF00">in the slightest.</font>
+
+1118
+00:47:15,200 --> 00:47:17,319
+<font color="#00FFFF">It's quite Art Deco, this design.</font>
+
+1119
+00:47:17,320 --> 00:47:18,759
+<font color="#11FF11">I'm going for rustic.</font>
+
+1120
+00:47:18,760 --> 00:47:21,599
+<font color="#11FF11">You know, if I'm really honest,</font>
+<font color="#11FF11">it is me.</font>
+
+1121
+00:47:21,600 --> 00:47:22,879
+<font color="#11FF11">I'm not perfect.</font>
+
+1122
+00:47:22,880 --> 00:47:25,159
+<font color="#11FF11">How long have we got?</font>
+<font color="#ffffff">Bakers, you have...</font>
+
+1123
+00:47:25,160 --> 00:47:27,239
+<font color="#FFFF00">..15 minutes left, 15 minutes.</font>
+
+1124
+00:47:27,240 --> 00:47:28,759
+<font color="#11FF11">He's lying, isn't he?</font>
+
+1125
+00:47:28,760 --> 00:47:31,719
+<font color="#00FFFF">Oh, got to make chocolate soil.</font>
+
+1126
+00:47:31,720 --> 00:47:34,079
+<font color="#FFFF00">This is creme pat.</font>
+<font color="#FFFF00">This is going in my little tarte.</font>
+
+1127
+00:47:34,080 --> 00:47:36,479
+<font color="#FFFF00">I'm really, really, really stressed.</font>
+
+1128
+00:47:36,480 --> 00:47:38,799
+<font color="#00FFFF">I'm just making a chocolate</font>
+<font color="#00FFFF">starfish.</font>
+
+1129
+00:47:38,800 --> 00:47:41,639
+<font color="#00FFFF">Literally just moulding it with</font>
+<font color="#00FFFF">some coloured white chocolate.</font>
+
+1130
+00:47:41,640 --> 00:47:45,199
+<font color="#11FF11">We'll just freestyle a little bit</font>
+<font color="#11FF11">with the decoration.</font>
+
+1131
+00:47:45,200 --> 00:47:46,799
+<font color="#FFFF00">All the elements are there.</font>
+
+1132
+00:47:46,800 --> 00:47:48,439
+<font color="#FFFF00">It's wonky.</font>
+
+1133
+00:47:48,440 --> 00:47:49,879
+<font color="#00FFFF">Right, which is the front?</font>
+
+1134
+00:47:49,880 --> 00:47:51,439
+<font color="#11FF11">The box goes over the cake.</font>
+
+1135
+00:47:51,440 --> 00:47:53,520
+<font color="#ffffff">Bakers, you have one minute,</font>
+<font color="#ffffff">just one minute.</font>
+
+1136
+00:47:54,800 --> 00:47:56,160
+<font color="#00FFFF">OK, I don't know what to do.</font>
+
+1137
+00:48:02,600 --> 00:48:05,839
+<font color="#11FF11">Just going to hold this in place</font>
+<font color="#11FF11">and hope the caramel sets.</font>
+
+1138
+00:48:05,840 --> 00:48:09,159
+<font color="#FFFF00">Probably a bit clumsy,</font>
+<font color="#FFFF00">but nearly there.</font>
+
+1139
+00:48:09,160 --> 00:48:10,800
+<font color="#00FFFF">I don't know if I can glue that.</font>
+
+1140
+00:48:17,960 --> 00:48:19,560
+<font color="#ffffff">Right, bakers, your time is up.</font>
+
+1141
+00:48:22,160 --> 00:48:23,400
+{\an4}<font color="#ffffff">HE EXHALES</font>
+
+1142
+00:48:24,440 --> 00:48:26,079
+{\an4}<font color="#ffffff">SHE SIGHS</font>
+
+1143
+00:48:26,080 --> 00:48:28,280
+<font color="#00FFFF">It's a bit of a mess,</font>
+<font color="#00FFFF">but it is done.</font>
+
+1144
+00:48:35,360 --> 00:48:40,119
+<font color="#ffffff">It's judgment time for the bakers'</font>
+<font color="#ffffff">show stopping sugar cabinets.</font>
+
+1145
+00:48:40,120 --> 00:48:43,080
+<font color="#FFFF00">Steph, please bring up</font>
+<font color="#FFFF00">your sugar glass case.</font>
+
+1146
+00:48:53,840 --> 00:48:55,159
+<font color="#00FFFF">It's pretty clear.</font>
+
+1147
+00:48:55,160 --> 00:48:58,319
+<font color="#00FFFF">It's quite like old antique glass.</font>
+
+1148
+00:48:58,320 --> 00:48:59,999
+<font color="#00FFFF">I think you've done</font>
+<font color="#00FFFF">a good job there.</font>
+
+1149
+00:49:00,000 --> 00:49:02,479
+<font color="#11FF11">Let's have a look, shall we?</font>
+
+1150
+00:49:02,480 --> 00:49:03,720
+<font color="#11FF11">It's very neat.</font>
+
+1151
+00:49:05,960 --> 00:49:07,400
+<font color="#00FFFF">Very dark chocolate.</font>
+
+1152
+00:49:11,080 --> 00:49:13,080
+<font color="#00FFFF">That looks very pretty.</font>
+
+1153
+00:49:23,600 --> 00:49:25,599
+<font color="#00FFFF">You're a very good baker, Stephanie.</font>
+
+1154
+00:49:25,600 --> 00:49:28,319
+<font color="#FFFF00">Oh.</font>
+<font color="#00FFFF">You really are.</font>
+
+1155
+00:49:28,320 --> 00:49:31,439
+<font color="#00FFFF">The sponge is a little more dense</font>
+<font color="#00FFFF">than I'd have liked</font>
+
+1156
+00:49:31,440 --> 00:49:33,679
+<font color="#00FFFF">but on the other hand,</font>
+<font color="#00FFFF">you've got so many layers.</font>
+
+1157
+00:49:33,680 --> 00:49:35,759
+<font color="#00FFFF">If it had been very light,</font>
+<font color="#00FFFF">it would've been difficult.</font>
+
+1158
+00:49:35,760 --> 00:49:39,199
+<font color="#11FF11">It's very patisserie in its style</font>
+<font color="#11FF11">by the use of the macarons.</font>
+
+1159
+00:49:39,200 --> 00:49:41,639
+<font color="#11FF11">Everything you've done is very neat,</font>
+<font color="#11FF11">very tidy,</font>
+
+1160
+00:49:41,640 --> 00:49:43,679
+<font color="#11FF11">very Steph and the box is good too.</font>
+
+1161
+00:49:43,680 --> 00:49:46,120
+<font color="#11FF11">Yeah, I think you've done</font>
+<font color="#11FF11">a good job, thank you.</font>
+
+1162
+00:49:59,520 --> 00:50:01,399
+<font color="#00FFFF">It's very neat.</font>
+
+1163
+00:50:01,400 --> 00:50:03,199
+<font color="#00FFFF">And I love the coloured glass.</font>
+
+1164
+00:50:03,200 --> 00:50:04,519
+<font color="#00FFFF">It's quite clear.</font>
+
+1165
+00:50:04,520 --> 00:50:06,119
+<font color="#11FF11">You can see through it.</font>
+
+1166
+00:50:06,120 --> 00:50:07,799
+<font color="#11FF11">It's a bit mottled in places.</font>
+
+1167
+00:50:07,800 --> 00:50:10,079
+<font color="#00FFFF">That's very neat too.</font>
+<font color="#11FF11">It is very neat.</font>
+
+1168
+00:50:10,080 --> 00:50:12,439
+<font color="#11FF11">I, I, uh, it has to be absolutely</font>
+<font color="#11FF11">level and it's not because it...</font>
+
+1169
+00:50:12,440 --> 00:50:14,440
+<font color="#11FF11">it bends down.</font>
+
+1170
+00:50:22,800 --> 00:50:25,319
+<font color="#00FFFF">It's wonderfully light.</font>
+
+1171
+00:50:25,320 --> 00:50:27,199
+<font color="#00FFFF">Like a very good carrot cake.</font>
+
+1172
+00:50:27,200 --> 00:50:29,679
+<font color="#00FFFF">Quite spicy,</font>
+<font color="#00FFFF">as always with you.</font>
+
+1173
+00:50:29,680 --> 00:50:31,999
+<font color="#11FF11">Blindfolded, I'd</font>
+<font color="#11FF11">know that was yours.</font>
+
+1174
+00:50:32,000 --> 00:50:36,079
+<font color="#11FF11">Patisserie week is</font>
+<font color="#11FF11">all about delicacy, finesse,</font>
+
+1175
+00:50:36,080 --> 00:50:39,119
+<font color="#11FF11">intricate detail and I think</font>
+<font color="#11FF11">by putting sponge on sponge</font>
+
+1176
+00:50:39,120 --> 00:50:42,799
+<font color="#11FF11">on sponge on sponge on sponge,</font>
+<font color="#11FF11">I think it's slightly wayward.</font>
+
+1177
+00:50:42,800 --> 00:50:45,799
+<font color="#11FF11">You need something more delicate,</font>
+<font color="#11FF11">more finesse.</font>
+
+1178
+00:50:45,800 --> 00:50:48,119
+<font color="#00FFFF">I absolutely agree,</font>
+<font color="#00FFFF">it would've been better</font>
+
+1179
+00:50:48,120 --> 00:50:52,040
+<font color="#00FFFF">if there'd been a bit more</font>
+<font color="#00FFFF">showing off of patisserie work.</font>
+
+1180
+00:51:05,360 --> 00:51:07,279
+<font color="#00FFFF">I like the look of it.</font>
+
+1181
+00:51:07,280 --> 00:51:08,799
+<font color="#00FFFF">Does look like old glass.</font>
+
+1182
+00:51:08,800 --> 00:51:10,559
+<font color="#00FFFF">It's a good concept.</font>
+
+1183
+00:51:10,560 --> 00:51:13,719
+<font color="#11FF11">It's a bit simplistic</font>
+<font color="#11FF11">considering it's a showpiece,</font>
+
+1184
+00:51:13,720 --> 00:51:15,559
+<font color="#11FF11">it's a centrepiece,</font>
+<font color="#11FF11">it's a show stopper.</font><font color="#FFFF00"> Yeah.</font>
+
+1185
+00:51:15,560 --> 00:51:18,119
+<font color="#11FF11">What's difficult is,</font>
+<font color="#11FF11">it's the same colour...</font><font color="#00FFFF"> Hmm.</font>
+
+1186
+00:51:18,120 --> 00:51:19,719
+<font color="#11FF11">..all the way around.</font>
+
+1187
+00:51:19,720 --> 00:51:22,599
+<font color="#00FFFF">What you've done is really</font>
+<font color="#00FFFF">interesting because you've taken</font>
+
+1188
+00:51:22,600 --> 00:51:26,039
+<font color="#00FFFF">a concept like time and family,</font>
+<font color="#00FFFF">but it's the concept that</font>
+
+1189
+00:51:26,040 --> 00:51:30,160
+<font color="#00FFFF">pulls them all together,</font>
+<font color="#00FFFF">not the gastronomic dish.</font>
+
+1190
+00:51:33,000 --> 00:51:35,839
+<font color="#11FF11">These are a bit boring, a bit dry.</font>
+
+1191
+00:51:35,840 --> 00:51:37,919
+<font color="#00FFFF">Dry and...</font>
+<font color="#11FF11">Yeah, there's no flavour to it.</font>
+
+1192
+00:51:37,920 --> 00:51:38,960
+<font color="#00FFFF">Dry and floury.</font>
+
+1193
+00:51:43,360 --> 00:51:46,079
+<font color="#11FF11">The little tarte in the middle's</font>
+<font color="#11FF11">delicious.</font><font color="#FFFF00"> Thanks.</font>
+
+1194
+00:51:46,080 --> 00:51:49,439
+<font color="#11FF11">The religieuse are a little</font>
+<font color="#11FF11">bit off the mark as well.</font>
+
+1195
+00:51:49,440 --> 00:51:50,999
+<font color="#11FF11">Because they're so small...</font><font color="#ffffff"> OK.</font>
+
+1196
+00:51:51,000 --> 00:51:54,119
+<font color="#11FF11">..you need to pack more of a punch</font>
+<font color="#11FF11">but making that a centrepiece,</font>
+
+1197
+00:51:54,120 --> 00:51:55,479
+<font color="#11FF11">hmm, it's a tricky one that one.</font>
+
+1198
+00:51:55,480 --> 00:51:57,920
+<font color="#00FFFF">It's just the mix</font>
+<font color="#00FFFF">that doesn't quite work.</font>
+
+1199
+00:52:11,720 --> 00:52:14,999
+<font color="#11FF11">You can't really see much of it,</font>
+<font color="#11FF11">to be honest.</font>
+
+1200
+00:52:15,000 --> 00:52:17,799
+<font color="#00FFFF">If it'd had been clear,</font>
+<font color="#00FFFF">it would be astonishing.</font>
+
+1201
+00:52:17,800 --> 00:52:19,799
+<font color="#00FFFF">That is really lovely</font>
+
+1202
+00:52:19,800 --> 00:52:23,000
+<font color="#00FFFF">and I like the boldness that</font>
+<font color="#00FFFF">you've done a really big one.</font>
+
+1203
+00:52:35,960 --> 00:52:37,520
+<font color="#00FFFF">Hmm, lovely flavour.</font>
+
+1204
+00:52:39,240 --> 00:52:42,599
+<font color="#00FFFF">Very nice, the whole fresh</font>
+<font color="#00FFFF">raspberries in there.</font>
+
+1205
+00:52:42,600 --> 00:52:44,279
+<font color="#11FF11">There is flavour in there.</font>
+
+1206
+00:52:44,280 --> 00:52:45,959
+<font color="#11FF11">It's not particularly strong.</font>
+
+1207
+00:52:45,960 --> 00:52:47,959
+<font color="#11FF11">The strong part of it</font>
+<font color="#11FF11">is the raspberry.</font>
+
+1208
+00:52:47,960 --> 00:52:49,799
+<font color="#11FF11">The raspberry comes through</font>
+<font color="#11FF11">beautifully.</font>
+
+1209
+00:52:49,800 --> 00:52:51,679
+<font color="#11FF11">The weakness is the mousse</font>
+<font color="#11FF11">down at the bottom.</font><font color="#FFFF00"> OK.</font>
+
+1210
+00:52:51,680 --> 00:52:53,279
+<font color="#11FF11">It's not very mousse-like.</font>
+
+1211
+00:52:53,280 --> 00:52:55,119
+<font color="#11FF11">I think your display is very good</font>
+
+1212
+00:52:55,120 --> 00:52:57,039
+<font color="#11FF11">and it really shows off</font>
+<font color="#11FF11">what your theme was.</font>
+
+1213
+00:52:57,040 --> 00:53:00,919
+<font color="#FFFF00">If you'd have asked me about an hour</font>
+<font color="#FFFF00">ago, I think I would've said</font>
+
+1214
+00:53:00,920 --> 00:53:04,879
+<font color="#FFFF00">I was going home but</font>
+<font color="#FFFF00">I hope I've turned it around.</font>
+
+1215
+00:53:04,880 --> 00:53:06,839
+<font color="#00FFFF">Yeah, it wasn't great.</font>
+
+1216
+00:53:06,840 --> 00:53:10,559
+<font color="#00FFFF">I'm just a bit gutted to be honest,</font>
+<font color="#00FFFF">just a bit gutted. Yeah.</font>
+
+1217
+00:53:10,560 --> 00:53:14,079
+<font color="#11FF11">This is patisserie week</font>
+<font color="#11FF11">and I didn't really do a patisserie.</font>
+
+1218
+00:53:14,080 --> 00:53:16,479
+<font color="#11FF11">They said it was more cake</font>
+<font color="#11FF11">and that's what I was dreading.</font>
+
+1219
+00:53:16,480 --> 00:53:19,720
+<font color="#11FF11">Am I going to be penalised because</font>
+<font color="#11FF11">that's not very patisserie?</font>
+
+1220
+00:53:30,320 --> 00:53:32,599
+<font color="#ffffff">It was pretty tight,</font>
+<font color="#ffffff">coming into the Showstopper.</font>
+
+1221
+00:53:32,600 --> 00:53:33,879
+<font color="#ffffff">How do we feel they did?</font>
+
+1222
+00:53:33,880 --> 00:53:36,199
+<font color="#00FFFF">It's moved round a bit.</font>
+<font color="#00FFFF">Alice has done a great job.</font>
+
+1223
+00:53:36,200 --> 00:53:38,519
+<font color="#00FFFF">That's a decent looking entremets.</font>
+
+1224
+00:53:38,520 --> 00:53:39,719
+<font color="#00FFFF">I think Steph did a great job.</font>
+
+1225
+00:53:39,720 --> 00:53:42,039
+<font color="#00FFFF">She really bounced back,</font>
+<font color="#00FFFF">actually, in the Showstopper.</font>
+
+1226
+00:53:42,040 --> 00:53:44,439
+<font color="#11FF11">She showed us a lot of</font>
+<font color="#11FF11">patisserie skills.</font>
+
+1227
+00:53:44,440 --> 00:53:47,239
+<font color="#FFFF00">The ones who you were</font>
+<font color="#FFFF00">not impressed by...</font>
+
+1228
+00:53:47,240 --> 00:53:48,719
+<font color="#FFFF00">..the one that looks like a...</font>
+
+1229
+00:53:48,720 --> 00:53:50,919
+<font color="#FFFF00">..well, looks like a sort</font>
+<font color="#FFFF00">of sandwich, doesn't it?</font>
+
+1230
+00:53:50,920 --> 00:53:53,199
+<font color="#11FF11">It's basically a stack</font>
+<font color="#11FF11">of sponge cakes,</font>
+
+1231
+00:53:53,200 --> 00:53:55,599
+<font color="#11FF11">and although that's</font>
+<font color="#11FF11">technically patisserie,</font>
+
+1232
+00:53:55,600 --> 00:53:57,279
+<font color="#11FF11">it's not what we were asking for.</font>
+
+1233
+00:53:57,280 --> 00:53:59,399
+<font color="#00FFFF">His cabinet, though,</font>
+<font color="#00FFFF">was very, very good.</font>
+
+1234
+00:53:59,400 --> 00:54:01,079
+<font color="#FFFF00">So if we have to tick</font>
+<font color="#FFFF00">the elegant column,</font>
+
+1235
+00:54:01,080 --> 00:54:03,519
+<font color="#FFFF00">that's not going to happen</font>
+<font color="#FFFF00">with Rosie's?</font><font color="#11FF11"> No...</font><font color="#00FFFF"> I have...</font>
+
+1236
+00:54:03,520 --> 00:54:05,079
+<font color="#00FFFF">I have serious issues with this.</font>
+
+1237
+00:54:05,080 --> 00:54:08,119
+<font color="#00FFFF">Because the little cakes</font>
+<font color="#00FFFF">that she made are so dry,</font>
+
+1238
+00:54:08,120 --> 00:54:10,199
+<font color="#00FFFF">no flavour in them whatsoever.</font>
+
+1239
+00:54:10,200 --> 00:54:13,279
+<font color="#00FFFF">I don't think picking Star Baker's</font>
+<font color="#00FFFF">going to be that difficult.</font>
+
+1240
+00:54:13,280 --> 00:54:16,919
+<font color="#00FFFF">I think the hard one is, who's going</font>
+<font color="#00FFFF">to leave us at this late stage?</font>
+
+1241
+00:54:16,920 --> 00:54:18,559
+<font color="#ffffff">It's the worst time to go out,</font>
+<font color="#ffffff">right?</font>
+
+1242
+00:54:18,560 --> 00:54:21,399
+<font color="#00FFFF">It is, because you're just,</font>
+<font color="#00FFFF">you're nearly there.</font>
+
+1243
+00:54:21,400 --> 00:54:24,439
+<font color="#FFFF00">I trust you two, and we're going</font>
+<font color="#FFFF00">to go away for five hours</font>
+
+1244
+00:54:24,440 --> 00:54:27,360
+<font color="#FFFF00">while you talk about it.</font><font color="#11FF11"> Yes,</font>
+<font color="#11FF11">I think so.</font><font color="#00FFFF"> We could be a while.</font>
+
+1245
+00:54:36,880 --> 00:54:39,959
+<font color="#ffffff">Hello, bakers.</font>
+<font color="#ffffff">Well done for all your hard work.</font>
+
+1246
+00:54:39,960 --> 00:54:43,039
+<font color="#ffffff">I've got the great job this week</font>
+<font color="#ffffff">of announcing the Star Baker</font>
+
+1247
+00:54:43,040 --> 00:54:46,079
+<font color="#ffffff">and the person that will be going</font>
+<font color="#ffffff">straight through to the final.</font>
+
+1248
+00:54:46,080 --> 00:54:50,800
+<font color="#ffffff">So, the Star Baker this week is...</font>
+
+1249
+00:54:56,640 --> 00:54:58,599
+<font color="#ffffff">..Alice.</font>
+
+1250
+00:54:58,600 --> 00:55:00,199
+<font color="#FFFF00">Well done.</font>
+
+1251
+00:55:00,200 --> 00:55:03,319
+<font color="#ffffff">You're in the final.</font>
+<font color="#FFFF00">Congratulations.</font>
+
+1252
+00:55:03,320 --> 00:55:07,239
+<font color="#FFFF00">So that means I have the horrible</font>
+<font color="#FFFF00">job, it gets so difficult.</font>
+
+1253
+00:55:07,240 --> 00:55:10,319
+<font color="#FFFF00">One of you will not be going</font>
+<font color="#FFFF00">through to the final.</font>
+
+1254
+00:55:10,320 --> 00:55:14,639
+<font color="#FFFF00">Can I just say, very well done to</font>
+<font color="#FFFF00">everybody before I announce it.</font>
+
+1255
+00:55:14,640 --> 00:55:19,000
+<font color="#FFFF00">But I'm afraid the person who will</font>
+<font color="#FFFF00">not be joining us next week is...</font>
+
+1256
+00:55:29,680 --> 00:55:32,919
+<font color="#FFFF00">..Rosie. I'm so sorry.</font>
+
+1257
+00:55:32,920 --> 00:55:35,240
+<font color="#00FFFF">You did so well.</font>
+
+1258
+00:55:36,600 --> 00:55:38,159
+<font color="#FFFF00">You did an amazing job.</font><font color="#00FFFF"> Amazing.</font>
+
+1259
+00:55:38,160 --> 00:55:39,959
+<font color="#FFFF00">You pulled it back together.</font>
+
+1260
+00:55:39,960 --> 00:55:41,399
+<font color="#FFFF00">Yesterday you were incredible.</font>
+
+1261
+00:55:41,400 --> 00:55:43,240
+<font color="#FFFF00">Well done, sweetheart. I'm so sorry.</font>
+
+1262
+00:55:44,440 --> 00:55:46,079
+<font color="#ffffff">ROSIE:</font><font color="#11FF11"> I'm gutted. I am gutted.</font>
+
+1263
+00:55:46,080 --> 00:55:48,519
+<font color="#11FF11">I just have to be happy with</font>
+<font color="#11FF11">everything that I've done so far.</font>
+
+1264
+00:55:48,520 --> 00:55:50,879
+<font color="#00FFFF">Oh, Rosie. You did so well.</font>
+
+1265
+00:55:50,880 --> 00:55:53,839
+{\an5}<font color="#11FF11">Paul came up to me and said that it</font>
+<font color="#11FF11">was just that one part of that last</font>
+<font color="#11FF11">bake.</font>
+
+1266
+00:55:53,840 --> 00:55:56,279
+<font color="#00FFFF">Rosie tried to show a lot of skills,</font>
+
+1267
+00:55:56,280 --> 00:55:58,959
+<font color="#00FFFF">but they weren't a good</font>
+<font color="#00FFFF">collection together</font>
+
+1268
+00:55:58,960 --> 00:56:00,879
+<font color="#00FFFF">and she didn't do them</font>
+<font color="#00FFFF">particularly well.</font>
+
+1269
+00:56:00,880 --> 00:56:02,239
+<font color="#ffffff">PAUL:</font><font color="#00FFFF"> Rosie slipped up.</font>
+
+1270
+00:56:02,240 --> 00:56:03,479
+<font color="#00FFFF">Sorry, Rosie.</font>
+
+1271
+00:56:03,480 --> 00:56:05,599
+<font color="#00FFFF">Which is the saddest part about it.</font>
+
+1272
+00:56:05,600 --> 00:56:08,159
+<font color="#00FFFF">But you are a bloody good baker.</font>
+<font color="#11FF11">Thanks.</font>
+
+1273
+00:56:08,160 --> 00:56:11,599
+<font color="#00FFFF">Likewise, David, who was</font>
+<font color="#00FFFF">also in line for possibly going.</font>
+
+1274
+00:56:11,600 --> 00:56:13,559
+<font color="#00FFFF">He basically made a cake.</font>
+
+1275
+00:56:13,560 --> 00:56:15,079
+<font color="#ffffff">PRUE:</font><font color="#00FFFF"> There's no doubt about it.</font>
+
+1276
+00:56:15,080 --> 00:56:18,359
+<font color="#00FFFF">If Rosie had had a good day,</font>
+<font color="#00FFFF">it would be David who was going.</font>
+
+1277
+00:56:18,360 --> 00:56:20,439
+<font color="#11FF11">I feel like I could've</font>
+<font color="#11FF11">just dodged a bullet, yeah.</font>
+
+1278
+00:56:20,440 --> 00:56:23,119
+<font color="#11FF11">Paul wasn't impressed,</font>
+<font color="#11FF11">and it just wasn't patisserie.</font>
+
+1279
+00:56:23,120 --> 00:56:25,239
+<font color="#00FFFF">On the other hand,</font>
+<font color="#00FFFF">Alice winning Star Baker...</font>
+
+1280
+00:56:25,240 --> 00:56:26,439
+<font color="#11FF11">Thank you!</font>
+
+1281
+00:56:26,440 --> 00:56:28,959
+<font color="#00FFFF">..Alice is one to watch.</font>
+<font color="#00FFFF">She's got stronger and stronger.</font>
+
+1282
+00:56:28,960 --> 00:56:32,319
+{\an5}<font color="#11FF11">I'm probably going to have a</font>
+<font color="#11FF11">mini-meltdown this week from the</font>
+<font color="#11FF11">pressure!</font>
+
+1283
+00:56:32,320 --> 00:56:34,319
+<font color="#FFFF00">What a great way to</font>
+<font color="#FFFF00">go into the final.</font><font color="#11FF11"> I know.</font>
+
+1284
+00:56:34,320 --> 00:56:35,879
+<font color="#FFFF00">Isn't that wonderful?</font>
+
+1285
+00:56:35,880 --> 00:56:38,159
+<font color="#00FFFF">We've got three very</font>
+<font color="#00FFFF">talented bakers in there.</font>
+
+1286
+00:56:38,160 --> 00:56:39,759
+<font color="#11FF11">Oh, my God!</font>
+
+1287
+00:56:39,760 --> 00:56:41,879
+<font color="#00FFFF">Well done, Steph.</font><font color="#11FF11"> Thank you.</font>
+
+1288
+00:56:41,880 --> 00:56:43,719
+<font color="#11FF11">Three bakes to go!</font>
+
+1289
+00:56:43,720 --> 00:56:46,679
+<font color="#00FFFF">And they're very artistic bakers.</font>
+<font color="#00FFFF">They're very imaginative.</font>
+
+1290
+00:56:46,680 --> 00:56:50,119
+<font color="#11FF11">If they all bring their A-game,</font>
+<font color="#11FF11">next week's final</font>
+
+1291
+00:56:50,120 --> 00:56:52,559
+<font color="#11FF11">will be one of the best</font>
+<font color="#11FF11">finals we've ever had.</font>
+
+1292
+00:56:52,560 --> 00:56:53,959
+<font color="#00FFFF">That feels good!</font>
+
+1293
+00:56:53,960 --> 00:56:55,320
+<font color="#00FFFF">I'm in the final.</font>
+
+1294
+00:56:56,800 --> 00:56:58,679
+<font color="#ffffff">Next time...</font>
+
+1295
+00:56:58,680 --> 00:57:02,319
+<font color="#FFFF00">I am delighted to tell you,</font>
+<font color="#FFFF00">after ten weeks</font>
+
+1296
+00:57:02,320 --> 00:57:04,719
+<font color="#FFFF00">of intense competition...</font>
+
+1297
+00:57:04,720 --> 00:57:05,839
+<font color="#00FFFF">Ah!</font>
+
+1298
+00:57:05,840 --> 00:57:06,999
+<font color="#11FF11">Pff.</font>
+
+1299
+00:57:07,000 --> 00:57:08,079
+<font color="#00FFFF">Whew.</font>
+
+1300
+00:57:08,080 --> 00:57:09,439
+<font color="#FFFF00">..the winner...</font>
+
+1301
+00:57:09,440 --> 00:57:10,799
+<font color="#11FF11">Oh, my God I'm shaking.</font>
+
+1302
+00:57:10,800 --> 00:57:13,679
+<font color="#11FF11">Trying to stay calm, but my heart</font>
+<font color="#11FF11">is like, "dum-dum-dum-dum-dum."</font>
+
+1303
+00:57:13,680 --> 00:57:18,160
+<font color="#FFFF00">..of the 2019 Great</font>
+<font color="#FFFF00">British Bake Off is...</font>
+
+1304
+00:57:20,400 --> 00:57:22,599
+<font color="#ffffff">Are you a Star Baker in the making?</font>
+
+1305
+00:57:22,600 --> 00:57:25,359
+<font color="#ffffff">If you'd like to apply for</font>
+<font color="#ffffff">the next series of Bake Off,</font>
+
+1306
+00:57:25,360 --> 00:57:28,840
+<font color="#ffffff">go to channel4.com/takepart.</font>
+
+1307
+00:57:53,400 --> 00:57:56,720
+<font color="#ffffff">Subtitles by Red Bee Media</font>
+
